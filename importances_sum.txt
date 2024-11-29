@@ -1,0 +1,1913 @@
+Feature	Importances	Category
+averageRating	0.005396795813816315	averageRating
+Aamir Khan	7.672033785765876e-21	Aamir Khan
+Aankha Neal	0.0	Aankha Neal
+Aaron Eckhart	8.084477328798092e-19	Aaron Eckhart
+Aaron Murphy	2.3405118619213074e-20	Aaron Murphy
+Aaron Taylor-Johnson	1.7127112891232486e-19	Aaron Taylor-Johnson
+Abby Mukiibi Nkaaga	3.278624267655223e-20	Abby Mukiibi Nkaaga
+Abigail Breslin	0.0	Abigail Breslin
+Adam Baldwin	0.0	Adam Baldwin
+Adam Goldberg	1.5303287993832184e-05	Adam Goldberg
+Adam Kotz	4.4693280891600245e-20	Adam Kotz
+Ade	3.9815098613265413e-19	Ade
+Adewale Akinnuoye-Agbaje	0.0	Adewale Akinnuoye-Agbaje
+Adil Hussain	2.0595191666300575e-17	Adil Hussain
+Adrian Rawlins	9.200219853005159e-19	Adrian Rawlins
+Adrien Brody	0.0	Adrien Brody
+Ahmad Khan Mahmoodzada	1.107375961079456e-19	Ahmad Khan Mahmoodzada
+Ahmed Khan	0.0	Ahmed Khan
+Aida Leiner	0.0	Aida Leiner
+Ailton Graça	0.0	Ailton Graça
+Aino-Maija Tikkanen	1.3383373967976587e-11	Aino-Maija Tikkanen
+Aishwarya Rai Bachchan	1.1556027222400463e-08	Aishwarya Rai Bachchan
+Aitana Sánchez-Gijón	0.0	Aitana Sánchez-Gijón
+Aki Maeda	7.485811033068963e-21	Aki Maeda
+Akihiro Miwa	0.0	Akihiro Miwa
+Akiko Takeshita	1.2790891134328972e-18	Akiko Takeshita
+Akio Ôtsuka	0.0	Akio Ôtsuka
+Akira Yamaguchi	0.0	Akira Yamaguchi
+Akshaye Khanna	1.3530155576434992e-20	Akshaye Khanna
+Al Pacino	0.0	Al Pacino
+Alain Eloy	1.4509303473155236e-09	Alain Eloy
+Alan Alda	2.1021712742852695e-21	Alan Alda
+Alan Arkin	2.8830859420383596e-06	Alan Arkin
+Alan Howard	2.178822229894819e-05	Alan Howard
+Alan Oke	2.5330410817712353e-06	Alan Oke
+Alan Rickman	0.0	Alan Rickman
+Alan Tudyk	3.611318639794054e-08	Alan Tudyk
+Albert Brooks	2.1575423345619684e-17	Albert Brooks
+Albert Delpy	0.0	Albert Delpy
+Albert Finney	9.904409597415812e-18	Albert Finney
+Alberto Jiménez	2.9734346278206655e-20	Alberto Jiménez
+Alec Baldwin	4.265058163480329e-18	Alec Baldwin
+Aleksandar Bercek	0.0	Aleksandar Bercek
+Alex Ferns	0.0	Alex Ferns
+Alex Kelly	6.702198262610996e-22	Alex Kelly
+Alex Palmer	5.207584971787464e-19	Alex Palmer
+Alexander Armstrong	2.8840460076880224e-19	Alexander Armstrong
+Alexander Beyer	0.0	Alexander Beyer
+Alexander Gould	0.0	Alexander Gould
+Alexandra Maria Lara	5.911851225312022e-19	Alexandra Maria Lara
+Alexandre Rodrigues	3.33571844657803e-20	Alexandre Rodrigues
+Alexis Bledel	1.7323100586572927e-06	Alexis Bledel
+Alfred Molina	0.0	Alfred Molina
+Ali Astin	0.0	Ali Astin
+Ali Kazim	0.0	Ali Kazim
+Alice Braga	0.0	Alice Braga
+Alice Patten	0.0	Alice Patten
+Alicia Vikander	0.0	Alicia Vikander
+Alison Garland	8.168937157143173e-21	Alison Garland
+Alison Lohman	0.0	Alison Lohman
+Alison Pill	8.213619967931781e-22	Alison Pill
+Allison Janney	5.1779236983588975e-18	Allison Janney
+Alysia Reiner	4.185877068744868e-21	Alysia Reiner
+Amancay Espíndola	0.0	Amancay Espíndola
+Ambrosia Kelley	0.0	Ambrosia Kelley
+Amilcar Ramírez	3.6528585506947704e-19	Amilcar Ramírez
+Amitabh Bachchan	1.2326193663204703e-20	Amitabh Bachchan
+Amy Adams	0.0	Amy Adams
+Amy Madigan	7.627006682438867e-21	Amy Madigan
+Amy Ryan	3.639629970761938e-21	Amy Ryan
+Amy Smart	7.146393746364654e-19	Amy Smart
+Ana López Mercado	3.488748390647281e-20	Ana López Mercado
+Ananya Khare	0.0	Ananya Khare
+Andrew Chavez	5.337931097027345e-18	Andrew Chavez
+Andrew Pleavin	1.9291231108020995e-17	Andrew Pleavin
+Andrew Tiernan	0.0	Andrew Tiernan
+André Dussollier	1.5137597688347343e-18	André Dussollier
+André Holland	0.0	André Holland
+Andrés Herrera	1.2417054594419163e-18	Andrés Herrera
+Andy Beckwith	6.801496896220884e-07	Andy Beckwith
+Andy Serkis	2.09350731657284e-05	Andy Serkis
+Angela Lindvall	0.0	Angela Lindvall
+Angelina Jolie	1.751666430680283e-17	Angelina Jolie
+Anggun	9.17021408213401e-19	Anggun
+Anjelica Huston	1.8130110716382865e-19	Anjelica Huston
+Anna Faris	0.0	Anna Faris
+Anna Hopkins	6.041252134666708e-21	Anna Hopkins
+Anna Keaveney	0.0	Anna Keaveney
+Anna Kendrick	0.0	Anna Kendrick
+Anna Massey	0.0	Anna Massey
+Anna Paquin	5.472429313187936e-22	Anna Paquin
+Anna Sigalevitch	0.0	Anna Sigalevitch
+Anne Consigny	0.0	Anne Consigny
+Annie Girardot	0.0	Annie Girardot
+Annie Whittle	0.0	Annie Whittle
+Anointing Lukola	1.7239159211385985e-19	Anointing Lukola
+Anthony Anderson	0.0	Anthony Anderson
+Anthony Daniels	0.0	Anthony Daniels
+Anthony Edwards	0.0	Anthony Edwards
+Anthony Hopkins	2.6439378176500082e-20	Anthony Hopkins
+Anthony Mackie	2.4674302097650442e-18	Anthony Mackie
+Anthony Rapp	0.0	Anthony Rapp
+Anthony-Michael Q. Thomas	3.66823790752168e-06	Anthony-Michael Q. Thomas
+Antonio de la Torre	0.0	Antonio de la Torre
+Antony Coleman	1.6752285815232396e-19	Antony Coleman
+Antony Starr	2.6314247903471736e-21	Antony Starr
+Anupam Kher	3.6305379572294534e-21	Anupam Kher
+April Hernandez Castillo	7.416016964092221e-08	April Hernandez Castillo
+Ariadna Gil	5.928847073940077e-19	Ariadna Gil
+Ariel Waller	1.5663915273916375e-21	Ariel Waller
+Arnold Vosloo	9.33044262086626e-20	Arnold Vosloo
+Art Chudabala	2.5332358135730686e-06	Art Chudabala
+Arthur Taxier	0.0	Arthur Taxier
+Arturo Ríos	3.5697285940692564e-20	Arturo Ríos
+Ashton Holmes	5.734293544629143e-18	Ashton Holmes
+Ashton Kutcher	4.562300502039621e-19	Ashton Kutcher
+Atossa Leoni	2.341840439737168e-19	Atossa Leoni
+Atul Kulkarni	0.0	Atul Kulkarni
+Aubrey Plaza	1.113321164252675e-21	Aubrey Plaza
+Audrey Tautou	5.0122526298602076e-18	Audrey Tautou
+Aunjanue Ellis-Taylor	0.0	Aunjanue Ellis-Taylor
+Austin Pendleton	4.192023806066367e-17	Austin Pendleton
+Ayaan Khan	1.2898007283088856e-17	Ayaan Khan
+Ayelet Zurer	2.758039992589844e-19	Ayelet Zurer
+Ayub Khan	6.76160586523324e-09	Ayub Khan
+Ayush Tandon	1.879646885197911e-17	Ayush Tandon
+Bachan Pachehra	0.0	Bachan Pachehra
+Badi Uzzaman	0.0	Badi Uzzaman
+Bae Doona	0.0	Bae Doona
+Baek Jong-hak	0.0	Baek Jong-hak
+Barry Cassin	3.80082382623779e-20	Barry Cassin
+Barry Corbin	2.5896818683795538e-18	Barry Corbin
+Barry Del Sherman	1.9040216053451533e-19	Barry Del Sherman
+Barry Pepper	0.0	Barry Pepper
+Barry Shabaka Henley	0.0	Barry Shabaka Henley
+Basil Wallace	6.729573057848894e-19	Basil Wallace
+Belén Rueda	2.7658105305147433e-20	Belén Rueda
+Ben Foster	0.0	Ben Foster
+Ben Gazzara	0.0	Ben Gazzara
+Ben Kingsley	1.6604384525082603e-20	Ben Kingsley
+Ben Miles	0.0	Ben Miles
+Ben Shenkman	0.0	Ben Shenkman
+Ben Stiller	1.2745089102083428e-19	Ben Stiller
+Ben Whishaw	0.0	Ben Whishaw
+Bence Mátyássy	0.0	Bence Mátyássy
+Benicio Del Toro	1.9628433278480976e-18	Benicio Del Toro
+Benito Martinez	1.2337709577391068e-18	Benito Martinez
+Benno Fürmann	0.0	Benno Fürmann
+Benoît Magimel	2.017818901336948e-21	Benoît Magimel
+Benu Mabhena	2.814712566282322e-19	Benu Mabhena
+Bernie Mac	2.1896899988098195e-18	Bernie Mac
+Bernie Rachelle	1.2266994990816548e-18	Bernie Rachelle
+Bill Murray	1.4203207718816681e-18	Bill Murray
+Bill Nighy	1.9208711296835808e-18	Bill Nighy
+Bill Nunn	3.36016840086448e-17	Bill Nunn
+Bill Sage	5.653479615986696e-20	Bill Sage
+Bill Smitrovich	1.4542715233070476e-17	Bill Smitrovich
+Billie Whitelaw	6.882871665305788e-19	Billie Whitelaw
+Billy Boyd	1.7077041004369445e-05	Billy Boyd
+Billy Connolly	0.0	Billy Connolly
+Billy Crudup	6.201364847164838e-19	Billy Crudup
+Billy Crystal	0.0	Billy Crystal
+Billy Fane	0.0	Billy Fane
+Bindu De Stoppani	7.817584738082729e-07	Bindu De Stoppani
+Björk	2.2737763744560126e-20	Björk
+Blair Brown	0.0	Blair Brown
+Blanca Portillo	0.0	Blanca Portillo
+Bob Hoskins	1.2573334265146339e-20	Bob Hoskins
+Bob Peterson	0.0	Bob Peterson
+Bob Stephenson	0.0	Bob Stephenson
+Bobby Block	4.820021532964136e-18	Bobby Block
+Bobby Cannavale	2.1952510605667477e-21	Bobby Cannavale
+Bogdan Diklic	0.0	Bogdan Diklic
+Bokeem Woodbine	6.90307826776902e-19	Bokeem Woodbine
+Boman Irani	1.1007267411474483e-20	Boman Irani
+Bonnie Wright	2.5242664392387383e-18	Bonnie Wright
+Brad Garrett	2.1637542794901337e-17	Brad Garrett
+Brad Pitt	7.118604870081349e-18	Brad Pitt
+Brad Silverman	1.3658382538844177e-07	Brad Silverman
+Brandy Little	1.531899577211034e-22	Brandy Little
+Branislav Lalevic	0.0	Branislav Lalevic
+Branko Djuric	0.0	Branko Djuric
+Brasse Brännström	0.0	Brasse Brännström
+Brenda Blethyn	4.535380681400406e-19	Brenda Blethyn
+Brenda Canela	1.0042670669777025e-18	Brenda Canela
+Brendan Costello	8.785439039825554e-20	Brendan Costello
+Brendan Gleeson	2.1963640030686287e-17	Brendan Gleeson
+Brent Briscoe	0.0	Brent Briscoe
+Brian Cox	6.615955312673009e-07	Brian Cox
+Brian Dennehy	0.0	Brian Dennehy
+Brian Howe	1.6219232787163092e-17	Brian Howe
+Brian Markinson	0.0	Brian Markinson
+Briana Corrigan	4.9303325309169834e-20	Briana Corrigan
+Bridget Moynahan	0.0	Bridget Moynahan
+Brooke Smith	4.371732964371048e-21	Brooke Smith
+Brooklynn Proulx	0.0	Brooklynn Proulx
+Bruce Allpress	0.0	Bruce Allpress
+Bruce McGill	0.0	Bruce McGill
+Bruce Willis	5.145021946235373e-20	Bruce Willis
+Bruno Ganz	2.516719129161131e-19	Bruno Ganz
+Brían F. O'Byrne	4.658822746226402e-18	Brían F. O'Byrne
+Burghart Klaußner	0.0	Burghart Klaußner
+Byun Hee-Bong	0.0	Byun Hee-Bong
+C.J. Sanders	9.20394050730207e-07	C.J. Sanders
+Caetano Veloso	1.7156363758862331e-19	Caetano Veloso
+Caio Blat	0.0	Caio Blat
+Callum Keith Rennie	5.186383711377374e-20	Callum Keith Rennie
+Cameron Bright	7.266580901052752e-21	Cameron Bright
+Cameron Diaz	1.54258837543704e-17	Cameron Diaz
+Cara D. Briggs	1.7751260812833268e-06	Cara D. Briggs
+Cara Seymour	3.253937765880056e-21	Cara Seymour
+Carey Mulligan	4.2772652773681243e-19	Carey Mulligan
+Carice van Houten	0.0	Carice van Houten
+Carla Gugino	4.503477290009644e-19	Carla Gugino
+Carlos Andrés Gómez	3.661344883654082e-18	Carlos Andrés Gómez
+Carlos Blanco	0.0	Carlos Blanco
+Carlos Emilio Báez	0.0	Carlos Emilio Báez
+Carlos Gómez	0.0	Carlos Gómez
+Carly Nahon	3.1138488339746226e-20	Carly Nahon
+Carmen Maura	0.0	Carmen Maura
+Carol Florence	0.0	Carol Florence
+Carol McGuigan	0.0	Carol McGuigan
+Caroline O'Connor	0.0	Caroline O'Connor
+Carrie-Anne Moss	1.9176301674809102e-20	Carrie-Anne Moss
+Cary Elwes	0.0	Cary Elwes
+Casey Affleck	1.2375404344464706e-20	Casey Affleck
+Cate Blanchett	0.0	Cate Blanchett
+Caterina Murino	8.106534850126413e-18	Caterina Murino
+Catherine Deneuve	1.2884382255207812e-20	Catherine Deneuve
+Catherine Keener	1.1976414814741684e-07	Catherine Keener
+Catherine Zeta-Jones	3.9833986476610865e-18	Catherine Zeta-Jones
+Cecelia Ann Birt	3.8621142002870196e-18	Cecelia Ann Birt
+Cedric The Entertainer	7.670801196028634e-05	Cedric The Entertainer
+Celso Bugallo	0.0	Celso Bugallo
+Chad Lindberg	1.3909694332814123e-05	Chad Lindberg
+Chadwick Boseman	4.465452115000427e-07	Chadwick Boseman
+Chang Chen	3.0706166947713203e-18	Chang Chen
+Chang Xiao Yang	1.0298150944667759e-18	Chang Xiao Yang
+Chantal Neuwirth	9.760237908764674e-19	Chantal Neuwirth
+Charles Berling	0.0	Charles Berling
+Charles Durning	1.3433626171576694e-19	Charles Durning
+Charles Techman	5.425667430945758e-19	Charles Techman
+Charley Ramm	3.017019836918411e-07	Charley Ramm
+Charlotte Gainsbourg	2.7209408024014636e-07	Charlotte Gainsbourg
+Charly Hübner	4.530618173936958e-19	Charly Hübner
+Chia-Hui Liu	0.0	Chia-Hui Liu
+Chiaki Kuriyama	0.0	Chiaki Kuriyama
+Chieko Baishô	8.92819605785862e-06	Chieko Baishô
+Chiwetel Ejiofor	1.9688582243413002e-18	Chiwetel Ejiofor
+Chloë Sevigny	5.1913869085302014e-21	Chloë Sevigny
+Choi Min-sik	1.7162863709537498e-21	Choi Min-sik
+Chow Yun-Fat	4.6990678667730204e-18	Chow Yun-Fat
+Chris Cooper	1.948715630228598e-18	Chris Cooper
+Chris Larkin	5.082671564312157e-07	Chris Larkin
+Chris Miller	1.2767080643933863e-17	Chris Miller
+Chris Thomas King	0.0	Chris Thomas King
+Chris Waitt	4.3174170000161615e-19	Chris Waitt
+Christian Bale	2.1862213073327982e-17	Christian Bale
+Christian Berkel	0.0	Christian Berkel
+Christine Schorn	0.0	Christine Schorn
+Christoph Waltz	9.178813353202866e-18	Christoph Waltz
+Christopher Adamson	9.658816996476645e-20	Christopher Adamson
+Christopher Dunne	0.0	Christopher Dunne
+Christopher Eccleston	4.373070773506947e-19	Christopher Eccleston
+Christopher Lee	1.1864179864819975e-17	Christopher Lee
+Christopher McDonald	0.0	Christopher McDonald
+Christopher Meloni	0.0	Christopher Meloni
+Christopher Plummer	4.6557282785075945e-18	Christopher Plummer
+Christopher Walken	3.1557855653703894e-18	Christopher Walken
+Chulpan Khamatova	0.0	Chulpan Khamatova
+Chus Lampreave	0.0	Chus Lampreave
+Ciarán Hinds	6.257530824121683e-19	Ciarán Hinds
+Cillian Murphy	0.0	Cillian Murphy
+Cindy Waite	0.0	Cindy Waite
+Claire Maurier	8.83277550616428e-19	Claire Maurier
+Claire Pakis	5.1900453645199074e-20	Claire Pakis
+Claire Selby	2.2195458537004782e-20	Claire Selby
+Clara Segura	0.0	Clara Segura
+Clark Gregg	5.506888834255044e-05	Clark Gregg
+Claudie Blakley	8.271103597246726e-19	Claudie Blakley
+Claudine Acs	0.0	Claudine Acs
+Cleo King	0.0	Cleo King
+Cliff Curtis	1.1944442078962086e-06	Cliff Curtis
+Clifton Powell	0.0	Clifton Powell
+Clint Eastwood	6.366038372589518e-18	Clint Eastwood
+Clive Owen	3.91665307794114e-18	Clive Owen
+Clive Pearse	1.5701449481803227e-17	Clive Pearse
+Clotilde Mollet	5.36477335464201e-18	Clotilde Mollet
+Colin Farrell	0.0	Colin Farrell
+Colin Firth	1.1893301037632537e-18	Colin Firth
+Connie Nielsen	1.288927026655649e-17	Connie Nielsen
+Connor Price	2.7537524750217896e-22	Connor Price
+Constance Jones	0.0	Constance Jones
+Corbin Bernsen	0.0	Corbin Bernsen
+Corey Johnson	1.637519314226823e-20	Corey Johnson
+Corinna Harfouch	0.0	Corinna Harfouch
+Cornelia Köndgen	0.0	Cornelia Köndgen
+Craig Bierko	1.7458501661538207e-21	Craig Bierko
+Craig Kirkwood	2.9163542664321745e-06	Craig Kirkwood
+Craig Spidle	5.749068639681674e-19	Craig Spidle
+Craig T. Nelson	0.0	Craig T. Nelson
+Csaba Pindroch	0.0	Csaba Pindroch
+Curtis Armstrong	3.6933507337409456e-19	Curtis Armstrong
+César Vea	2.583061690709467e-19	César Vea
+Daijirô Harada	0.0	Daijirô Harada
+Dakota Fanning	6.253197085438206e-19	Dakota Fanning
+Dalia Hernández	8.527463639697885e-19	Dalia Hernández
+Dallas Roberts	7.424955479292106e-21	Dallas Roberts
+Damian Lewis	3.9893017175502524e-18	Damian Lewis
+Damian O'Hare	1.6068225162482915e-18	Damian O'Hare
+Damien Kearney	0.0	Damien Kearney
+Dan Birnbaum	0.0	Dan Birnbaum
+Dan Castellaneta	0.0	Dan Castellaneta
+Dan John Miller	1.623183509754324e-20	Dan John Miller
+Daniel Brühl	2.678839418606031e-18	Daniel Brühl
+Daniel Craig	2.69203985638281e-17	Daniel Craig
+Daniel Day-Lewis	5.170194645396903e-19	Daniel Day-Lewis
+Daniel Gerson	7.476697897491049e-20	Daniel Gerson
+Daniel Gillies	4.11623433102236e-05	Daniel Gillies
+Daniel Giménez Cacho	6.446714897471138e-20	Daniel Giménez Cacho
+Daniel London	1.1061434202723063e-20	Daniel London
+Daniel Mays	5.4788275520295954e-21	Daniel Mays
+Daniel Radcliffe	8.18964558202557e-18	Daniel Radcliffe
+Danny Glover	1.8250052763982877e-18	Danny Glover
+Danny Huston	6.683581636079478e-08	Danny Huston
+Danny Kwok-Kwan Chan	1.1479948815945166e-18	Danny Kwok-Kwan Chan
+Dany Boon	0.0	Dany Boon
+Daoming Chen	2.325105952787508e-18	Daoming Chen
+Daryl Hannah	9.06140606164363e-08	Daryl Hannah
+Darío Grandinetti	7.73494646112611e-20	Darío Grandinetti
+Dash Mihok	0.0	Dash Mihok
+Dato Bakhtadze	2.545591862864766e-06	Dato Bakhtadze
+Dave Legeno	3.415772144314605e-19	Dave Legeno
+Dave Trimble	3.0779115988246233e-18	Dave Trimble
+Daveigh Chase	6.9341564537233725e-18	Daveigh Chase
+David Alan Basche	1.4597979181229363e-19	David Alan Basche
+David Allen Brooks	0.0	David Allen Brooks
+David Aston	1.7056828189660622e-18	David Aston
+David Calder	1.5864192919098069e-18	David Calder
+David Carradine	3.073612926150105e-20	David Carradine
+David Cross	1.5892073370542042e-17	David Cross
+David Denman	1.4948271676086962e-19	David Denman
+David Harewood	7.890635338005138e-19	David Harewood
+David Huband	4.62263748719225e-21	David Huband
+David Morse	3.259537494679283e-20	David Morse
+David Oyelowo	1.6212341561068956e-19	David Oyelowo
+David Schneider	0.0	David Schneider
+David Schofield	6.5156179210947456e-18	David Schofield
+David Shumbris	0.0	David Shumbris
+David Strathairn	6.737633610090493e-06	David Strathairn
+David Tennant	9.467579702587153e-19	David Tennant
+David Wenham	8.060215651482478e-18	David Wenham
+Davor Janjic	0.0	Davor Janjic
+Dawn Ford	5.017445093319176e-08	Dawn Ford
+Dawn French	3.0416159618685774e-19	Dawn French
+Dayashankar Pandey	0.0	Dayashankar Pandey
+Del Pentecost	3.3976602204337174e-07	Del Pentecost
+Delaney Rose Stein	1.5509856650783303e-17	Delaney Rose Stein
+Deming Wang	5.050586854711403e-18	Deming Wang
+Denis Evrard	1.0984164938267681e-20	Denis Evrard
+Denis Leary	0.0	Denis Leary
+Denzel Washington	4.165841505773931e-18	Denzel Washington
+Denzel Whitaker	5.618330069052564e-21	Denzel Whitaker
+Derek Jacobi	7.643911504031865e-18	Derek Jacobi
+Derek de Lint	0.0	Derek de Lint
+Desmond Dube	0.0	Desmond Dube
+Devon Aoki	0.0	Devon Aoki
+Devyn A. Tyler	0.0	Devyn A. Tyler
+Diabolo	0.0	Diabolo
+Diane Kruger	2.4357240531450125e-18	Diane Kruger
+Diane Ladd	1.5649078122621591e-19	Diane Ladd
+Dianne Wiest	9.24082528939561e-07	Dianne Wiest
+Diedrich Bader	1.611994353617206e-17	Diedrich Bader
+Diego Luna	5.0703296281925583e-20	Diego Luna
+Dimple Kapadia	0.0	Dimple Kapadia
+Dina Meyer	0.0	Dina Meyer
+Dirk Denoyelle	0.0	Dirk Denoyelle
+Divya Dutta	0.0	Divya Dutta
+Djimon Hounsou	3.3231165520082383e-18	Djimon Hounsou
+Dolf de Vries	2.9767594057168955e-22	Dolf de Vries
+Domhnall Gleeson	7.95746628416637e-21	Domhnall Gleeson
+Dominic West	1.058232172906467e-17	Dominic West
+Dominique Bettenfeld	9.78768538712224e-19	Dominique Bettenfeld
+Dominique Louis	7.364317418833086e-19	Dominique Louis
+Dominique Michel	0.0	Dominique Michel
+Dominique Pinon	2.7659292889742046e-18	Dominique Pinon
+Don Cheadle	5.6540730923162715e-19	Don Cheadle
+Don Rickles	2.0561305358058204e-05	Don Rickles
+Donald Faison	8.974761684885654e-19	Donald Faison
+Donald Sutherland	1.8116852129513633e-18	Donald Sutherland
+Donna Duplantier	4.4375190937390915e-18	Donna Duplantier
+Donna Murphy	0.0001139401510850149	Donna Murphy
+Donnie Wahlberg	4.207696780315245e-18	Donnie Wahlberg
+Donnie Yen	1.0965075807537978e-18	Donnie Yen
+Dorian Missick	0.0	Dorian Missick
+Dorothée Berryman	7.466023930176007e-11	Dorothée Berryman
+Doug Jones	1.7895498095522966e-19	Doug Jones
+Douglas Silva	2.814436374991626e-20	Douglas Silva
+Dr. Dre	0.0	Dr. Dre
+Dustin Bollinger	3.503128157836527e-21	Dustin Bollinger
+Dustin Hoffman	2.851826099408714e-17	Dustin Hoffman
+Dylan Baker	0.0	Dylan Baker
+Dylan Moran	3.218979205469794e-20	Dylan Moran
+Earl Maddox	6.693155672061563e-18	Earl Maddox
+Ed Grady	0.0	Ed Grady
+Ed Harris	8.673483792658227e-18	Ed Harris
+Ed Metzger	1.8484328453475183e-18	Ed Metzger
+Ed Stoppard	0.0	Ed Stoppard
+Eddie Cahill	3.7756832865395913e-07	Eddie Cahill
+Eddie Marsan	1.7542413785287288e-19	Eddie Marsan
+Eddie Murphy	2.829992673082592e-17	Eddie Murphy
+Edgar Ramírez	1.2558903735151707e-17	Edgar Ramírez
+Edi Gathegi	2.3101708601985724e-21	Edi Gathegi
+Edward Norton	2.2362306045834484e-19	Edward Norton
+Edward Woodall	0.0	Edward Woodall
+Elarica Johnson	1.4985668124441058e-18	Elarica Johnson
+Elden Henson	3.854838934723632e-19	Elden Henson
+Eleanor Tomlinson	0.0	Eleanor Tomlinson
+Elham Ehsas	0.0	Elham Ehsas
+Eli Fucile	4.931206168759514e-19	Eli Fucile
+Eli Roth	0.0	Eli Roth
+Elias Koteas	9.278052557601113e-18	Elias Koteas
+Elijah Wood	6.193793991478385e-06	Elijah Wood
+Elina Alminas	0.0	Elina Alminas
+Ellen Burstyn	0.0	Ellen Burstyn
+Ellen DeGeneres	2.4791649614135674e-17	Ellen DeGeneres
+Ellen Wong	2.2759690360686767e-21	Ellen Wong
+Emerson Gomes	3.207554135688689e-20	Emerson Gomes
+Emilia Fox	8.90250103709283e-07	Emilia Fox
+Emilio Echevarría	1.95507911702159e-21	Emilio Echevarría
+Emilio Rivera	2.1246872473920143e-18	Emilio Rivera
+Emily Mortimer	0.0	Emily Mortimer
+Emma Campbell	0.0	Emma Campbell
+Emma Thompson	1.2061897185681494e-18	Emma Thompson
+Emma Watson	3.472926241027619e-17	Emma Watson
+Emmanuelle Seigner	4.205925475023623e-08	Emmanuelle Seigner
+Emmy Rossum	6.874119143162136e-19	Emmy Rossum
+Enrique Diaz	0.0	Enrique Diaz
+Eri Ishikawa	1.3544391014180745e-07	Eri Ishikawa
+Eric Bana	8.076353570304931e-19	Eric Bana
+Eric Chase Anderson	0.0	Eric Chase Anderson
+Eric Haberman	3.267472556379319e-21	Eric Haberman
+Eric Mason	5.431037424937741e-19	Eric Mason
+Eric Sykes	1.1536104957916996e-18	Eric Sykes
+Eric Uys	8.948456195537511e-08	Eric Uys
+Erina Hashiguchi	1.1913033354167128e-20	Erina Hashiguchi
+Ernesto Arias	0.0	Ernesto Arias
+Esko Salminen	0.0	Esko Salminen
+Estelle Harris	0.0	Estelle Harris
+Eszter Balla	0.0	Eszter Balla
+Ethan Hawke	2.70158651411635e-19	Ethan Hawke
+Ethan Suplee	9.792294231873387e-19	Ethan Suplee
+Eva Green	0.0	Eva Green
+Eva Mattes	1.8362131106427165e-20	Eva Mattes
+Ewan McGregor	0.0	Ewan McGregor
+Ewen Bremner	1.384690240267557e-06	Ewen Bremner
+Fairuza Balk	0.0	Fairuza Balk
+Faran Tahir	0.0	Faran Tahir
+Faune Chambers Watkins	2.5637452844666113e-18	Faune Chambers Watkins
+Fazeng Li	9.840561569823143e-18	Fazeng Li
+Filip Sovagovic	0.0	Filip Sovagovic
+Fiona Shaw	2.156001105065767e-17	Fiona Shaw
+Fiorello	0.0	Fiorello
+Florian Lukas	0.0	Florian Lukas
+Forest Whitaker	1.0959609445097897e-06	Forest Whitaker
+Frances Fisher	0.0	Frances Fisher
+Frances McDormand	0.0	Frances McDormand
+Francesc Albiol	7.707476957205202e-19	Francesc Albiol
+Francesc Garrido	1.3488717420753641e-20	Francesc Garrido
+Frank Bourke	0.0	Frank Bourke
+Frank Finlay	9.61409200276889e-19	Frank Finlay
+Frank John Hughes	0.0	Frank John Hughes
+Frank Oz	1.9161909678022548e-19	Frank Oz
+Franka Potente	8.048054883160816e-18	Franka Potente
+Freddie Highmore	6.70200303090751e-19	Freddie Highmore
+Gabo Correa	0.0	Gabo Correa
+Gabriel Casseus	0.0	Gabriel Casseus
+Gabriel Mann	9.921511692689549e-09	Gabriel Mann
+Gabriel Thomson	0.0	Gabriel Thomson
+Gael García Bernal	6.128743195488901e-19	Gael García Bernal
+Gana Bayarsaikhan	7.600059706644798e-21	Gana Bayarsaikhan
+Garret Dillahunt	2.4601499643267083e-18	Garret Dillahunt
+Garry McDonald	0.0	Garry McDonald
+Gary Commock	0.0	Gary Commock
+Gary Lewis	1.6498951325983561e-22	Gary Lewis
+Gary Oldman	1.2471927928377896e-17	Gary Oldman
+Gaspard Ulliel	0.0	Gaspard Ulliel
+Gastón Pauls	0.0	Gastón Pauls
+Gautam Belur	1.9478367853453007e-17	Gautam Belur
+Gavin Ferguson	1.0777564779209188e-20	Gavin Ferguson
+Gayatri Joshi	0.0	Gayatri Joshi
+Gedeon Burkhard	5.6133064090449954e-18	Gedeon Burkhard
+Gena Rowlands	0.0	Gena Rowlands
+Gene Hackman	1.2720118149700375e-20	Gene Hackman
+Geoffrey Rush	8.396716035540618e-19	Geoffrey Rush
+Georg Friedrich	1.5097690663989021e-22	Georg Friedrich
+George Cheung	5.473502477525797e-18	George Cheung
+George Clooney	3.034915108402418e-18	George Clooney
+George Loftus	4.4123776975122617e-07	George Loftus
+George Selick	5.069122540026241e-19	George Selick
+Georges Bousquet	0.0	Georges Bousquet
+Georges Siatidis	2.319436742834287e-20	Georges Siatidis
+Geraldine Chaplin	2.4446381524250823e-19	Geraldine Chaplin
+Geraldine McEwan	2.2067855881301496e-18	Geraldine McEwan
+Geraldine Somerville	2.1145302352681544e-18	Geraldine Somerville
+Gerard Butler	0.0	Gerard Butler
+Gerardo Campbell	0.0	Gerardo Campbell
+Gerardo Taracena	8.039878396627613e-19	Gerardo Taracena
+Germaine Charest	0.0	Germaine Charest
+Gerry Robert Byrne	1.8178289783029926e-19	Gerry Robert Byrne
+Gi Ju-bong	0.0	Gi Ju-bong
+Giancarlo Giannini	1.4024727021014718e-17	Giancarlo Giannini
+Gila Almagor	3.0566862265093313e-19	Gila Almagor
+Giles New	0.0	Giles New
+Gillian Anderson	0.0	Gillian Anderson
+Gina Ravera	0.0	Gina Ravera
+Gina Torres	0.0	Gina Torres
+Ginnifer Goodwin	1.782622754734278e-21	Ginnifer Goodwin
+Giovanni Ribisi	0.0	Giovanni Ribisi
+Giselle Audirac	4.987459338465367e-20	Giselle Audirac
+Gonzalo Cunill	1.032441198706122e-18	Gonzalo Cunill
+Goran Visnjic	7.547503560374667e-18	Goran Visnjic
+Goya Toledo	0.0	Goya Toledo
+Graciela Tenenbaum	0.0	Graciela Tenenbaum
+Gracy Singh	0.0	Gracy Singh
+Grant Roa	2.1123731302249974e-20	Grant Roa
+Graziellia de Villa	0.0	Graziellia de Villa
+Greg Johnson	6.410959976280711e-20	Greg Johnson
+Greg Kinnear	2.3949271350143852e-19	Greg Kinnear
+Gregg Edelman	0.0	Gregg Edelman
+Gregor Fisher	4.717125183943609e-18	Gregor Fisher
+Gretchen Mol	8.078017294346716e-21	Gretchen Mol
+Guillaume Canet	7.147820012500276e-21	Guillaume Canet
+Guy Carleton	1.0988336257800362e-19	Guy Carleton
+Guy Massey	8.190991270384277e-21	Guy Massey
+Guy Pearce	1.1430064321015991e-19	Guy Pearce
+Gwen Stefani	2.0068622348559083e-19	Gwen Stefani
+Gwyneth Paltrow	1.6970493041346915e-19	Gwyneth Paltrow
+Gyrd Løfquist	0.0	Gyrd Løfquist
+Gyözö Szabó	0.0	Gyözö Szabó
+Gösta Ekman	0.0	Gösta Ekman
+Ha-ryong Lim	9.574677581507431e-20	Ha-ryong Lim
+Hakeem Kae-Kazim	0.0	Hakeem Kae-Kazim
+Halina Reijn	0.0	Halina Reijn
+Hamish Linklater	1.6930158845603911e-19	Hamish Linklater
+Han Bo-bae	0.0	Han Bo-bae
+Hanns Zischler	6.559960827057405e-20	Hanns Zischler
+Hans-Uwe Bauer	3.10959089756335e-19	Hans-Uwe Bauer
+Harriet Andersson	0.0	Harriet Andersson
+Harriet Sansom Harris	0.0	Harriet Sansom Harris
+Harriet Walter	1.1343560434040869e-18	Harriet Walter
+Harris Yulin	2.408149585937188e-19	Harris Yulin
+Harrison Ford	0.0	Harrison Ford
+Harrison Taylor	1.2073632770073833e-19	Harrison Taylor
+Harry Lennix	4.01547853866037e-19	Harry Lennix
+Harry Melling	1.7129881455369682e-17	Harry Melling
+Haruko Katô	5.846605422077766e-06	Haruko Katô
+Hayden Christensen	2.9918268204791597e-17	Hayden Christensen
+Hayden Panettiere	0.0	Hayden Panettiere
+Heath Ledger	8.899847765950671e-18	Heath Ledger
+Heather Craney	2.394127842774958e-21	Heather Craney
+Heino Ferch	0.0	Heino Ferch
+Helen Hunt	5.633172910429898e-18	Helen Hunt
+Helena Bonham Carter	1.0042906541301577e-19	Helena Bonham Carter
+Hema Malini	0.0	Hema Malini
+Henry Cavill	8.056862880324964e-20	Henry Cavill
+Henry Thomas	3.106931634333359e-19	Henry Thomas
+Herbert Knaup	6.541834315735624e-19	Herbert Knaup
+Hikari Ishida	1.9869711856083628e-18	Hikari Ishida
+Hilary Swank	0.0	Hilary Swank
+Hiroshi Kanbe	0.0	Hiroshi Kanbe
+Hiroyuki Sanada	0.0	Hiroyuki Sanada
+Holly Hunter	3.217183355189723e-07	Holly Hunter
+Holmes Osborne	0.0	Holmes Osborne
+Homayoun Ershadi	1.7725167661555784e-19	Homayoun Ershadi
+Hrithik Roshan	0.0	Hrithik Roshan
+Hugh Dancy	0.0	Hugh Dancy
+Hugh Grant	8.200784822328876e-19	Hugh Grant
+Hugo Weaving	0.0	Hugo Weaving
+Humberto Busto	4.844039430761388e-21	Humberto Busto
+Ia Langhammer	0.0	Ia Langhammer
+Iain Rea	0.0	Iain Rea
+Ian Barford	1.0406030560955303e-18	Ian Barford
+Ian Hart	2.891953160887698e-19	Ian Hart
+Ian Holm	9.998799701260955e-20	Ian Holm
+Ian McDiarmid	2.1257137590642177e-17	Ian McDiarmid
+Ian McKellen	1.0424007069920338e-05	Ian McKellen
+Ian McShane	1.7281714708940866e-17	Ian McShane
+Ila Arun	1.2926642130287416e-08	Ila Arun
+Imelda Staunton	7.387179027254652e-21	Imelda Staunton
+Indio Falconer Downey	1.4421154488608488e-20	Indio Falconer Downey
+Irina Gorovaia	4.415097760984183e-19	Irina Gorovaia
+Irma P. Hall	6.778806648519858e-19	Irma P. Hall
+Irrfan Khan	1.5523349181950566e-18	Irrfan Khan
+Isaac Fajm	0.0	Isaac Fajm
+Isaach De Bankolé	0.0	Isaach De Bankolé
+Isabelle Huppert	5.079134185290284e-21	Isabelle Huppert
+Isabelle Nanty	1.2164112432525388e-18	Isabelle Nanty
+Isiah Whitlock Jr.	0.0	Isiah Whitlock Jr.
+Israel Contreras	2.2999278838062835e-19	Israel Contreras
+Israel Ríos	2.004127509155029e-19	Israel Ríos
+Ivan Massagué	2.6534025631932613e-19	Ivan Massagué
+Ivan de Almeida	0.0	Ivan de Almeida
+Ivana Baquero	4.022832959630383e-19	Ivana Baquero
+J.J. Johnson	2.690438611630593e-19	J.J. Johnson
+J.K. Simmons	0.0	J.K. Simmons
+J.R. Horne	0.0	J.R. Horne
+J.R. Yenque	1.943023188587754e-18	J.R. Yenque
+JB Blanc	9.792785837992714e-20	JB Blanc
+Jacek Koman	0.0	Jacek Koman
+Jacinda Barrett	8.796081258079235e-22	Jacinda Barrett
+Jack Black	2.091676254397754e-17	Jack Black
+Jack Davenport	2.9673913227909877e-18	Jack Davenport
+Jack Nicholson	0.0	Jack Nicholson
+Jack Randall	9.061284239308361e-07	Jack Randall
+Jackie Chan	1.6525820804686818e-17	Jackie Chan
+Jackie Earle Haley	0.0	Jackie Earle Haley
+Jackie Shroff	3.0621749998271307e-21	Jackie Shroff
+Jacky Ido	3.2511245486893424e-18	Jacky Ido
+Jaclyn Ngan	0.0	Jaclyn Ngan
+Jacob Stringer	2.0311402699841462e-19	Jacob Stringer
+Jacob Tolano	3.395606115143593e-18	Jacob Tolano
+Jacob Vargas	2.4215732587736766e-18	Jacob Vargas
+Jacques Perrin	0.0	Jacques Perrin
+Jada Pinkett Smith	6.7784567108604596e-06	Jada Pinkett Smith
+Jaden Smith	0.0	Jaden Smith
+Jagannath Guha	1.1615959752466988e-21	Jagannath Guha
+Jake Gyllenhaal	1.5844775942425347e-18	Jake Gyllenhaal
+Jake Wood	1.5871441527952592e-19	Jake Wood
+Jamel Debbouze	1.1088234403570414e-18	Jamel Debbouze
+James Badge Dale	3.3246561708095006e-06	James Badge Dale
+James Brolin	6.2320750203886756e-18	James Brolin
+James Caan	0.0	James Caan
+James Coburn	0.0	James Coburn
+James Cromwell	0.0	James Cromwell
+James D'Arcy	5.092036512729548e-07	James D'Arcy
+James Duval	0.0	James Duval
+James Earl Jones	7.665361322293389e-19	James Earl Jones
+James Franco	0.0	James Franco
+James Garner	0.0	James Garner
+James Hong	1.2013123830225826e-17	James Hong
+James Karen	7.48286613577899e-18	James Karen
+James Marsden	0.0	James Marsden
+James McAvoy	4.637684463169297e-20	James McAvoy
+James Parks	9.215502093111993e-08	James Parks
+James Phelps	1.9512829913463395e-18	James Phelps
+James Ransone	0.0	James Ransone
+Jamie Bell	1.0166958676611614e-18	Jamie Bell
+Jamie Draven	1.1305377367843754e-18	Jamie Draven
+Jamie Foxx	9.615195706222664e-19	Jamie Foxx
+Jane Adams	1.8561827672449299e-19	Jane Adams
+Janeane Garofalo	0.0	Janeane Garofalo
+Janet Sarno	0.0	Janet Sarno
+Jang In-han	0.0	Jang In-han
+Janis Kelly	6.129931259324623e-07	Janis Kelly
+Jared Burke	7.195275741391777e-22	Jared Burke
+Jared Leto	9.802772189032956e-21	Jared Leto
+Jarvis Cocker	1.0575314226909416e-21	Jarvis Cocker
+Jase Blankfort	6.504369976568748e-08	Jase Blankfort
+Jason Boyd	0.0	Jason Boyd
+Jason Buckham	0.0	Jason Buckham
+Jason Finn	1.887514917619812e-20	Jason Finn
+Jason Gray-Stanford	8.794426175825306e-06	Jason Gray-Stanford
+Jason Lee	0.0	Jason Lee
+Jason Schwartzman	1.3844121971645694e-20	Jason Schwartzman
+Jason Statham	0.0	Jason Statham
+Javier Bardem	4.325070072927046e-06	Javier Bardem
+Javier Cámara	4.379664590148622e-20	Javier Cámara
+Jay Baruchel	0.0	Jay Baruchel
+Jay Tavare	3.477205613948148e-21	Jay Tavare
+Jean Ainslie	2.723393812412372e-21	Jean Ainslie
+Jean Heywood	0.0	Jean Heywood
+Jean Sincere	5.538460527249738e-19	Jean Sincere
+Jean-Claude Donda	0.0	Jean-Claude Donda
+Jean-Marc Barr	1.0228430772441365e-08	Jean-Marc Barr
+Jean-Pierre Cassel	1.8237938077516792e-09	Jean-Pierre Cassel
+Jean-Pierre Darroussin	2.402484479913352e-19	Jean-Pierre Darroussin
+Jean-Pierre Nshanian	4.6181545513694546e-08	Jean-Pierre Nshanian
+Jeanne Bates	5.132540743178724e-22	Jeanne Bates
+Jefechander Suplino	0.0	Jefechander Suplino
+Jeff Bridges	9.424807405664461e-18	Jeff Bridges
+Jeff Dashnaw	2.4349653244409373e-18	Jeff Dashnaw
+Jeff Witzke	6.414414480846203e-21	Jeff Witzke
+Jeffrey Dean Morgan	4.242305360289686e-19	Jeffrey Dean Morgan
+Jeffrey Tambor	3.758029484127285e-18	Jeffrey Tambor
+Jeffrey Wright	8.063309017203332e-07	Jeffrey Wright
+Jena Malone	6.085290679486126e-19	Jena Malone
+Jennifer Connelly	7.43267642307105e-18	Jennifer Connelly
+Jennifer Echols	4.508890391668693e-07	Jennifer Echols
+Jennifer Jason Leigh	6.393296147569968e-19	Jennifer Jason Leigh
+Jennifer Saunders	1.0475042371978904e-19	Jennifer Saunders
+Jennifer Tilly	1.2662903169207687e-19	Jennifer Tilly
+Jeon Mi-seon	0.0	Jeon Mi-seon
+Jeong Jae-yeong	8.032867212166298e-20	Jeong Jae-yeong
+Jeremy Davies	0.0	Jeremy Davies
+Jeremy Renner	2.0766621434548783e-19	Jeremy Renner
+Jermaine Williams	5.4084011055314255e-21	Jermaine Williams
+Jesper Christensen	9.521340111812181e-18	Jesper Christensen
+Jesse James	8.350363624940695e-19	Jesse James
+Jessica Alba	0.0	Jessica Alba
+Jessica Biel	1.5059783649804608e-19	Jessica Biel
+Jessica Capshaw	8.506653990899154e-18	Jessica Capshaw
+Jessica Hecht	0.0	Jessica Hecht
+Jessica Kate Meyer	0.0	Jessica Kate Meyer
+Jessica Lange	0.0	Jessica Lange
+Jesús Ochoa	2.434042857794517e-20	Jesús Ochoa
+Jet Li	0.0	Jet Li
+Jewel Staite	0.0	Jewel Staite
+Ji Dae-han	3.189095493730352e-21	Ji Dae-han
+Jill Talley	1.2092897038043524e-18	Jill Talley
+Jim Beaver	1.0241751305875959e-20	Jim Beaver
+Jim Broadbent	1.4805206228662205e-18	Jim Broadbent
+Jim Carrey	0.0	Jim Carrey
+Jim Caviezel	0.0	Jim Caviezel
+Jim Cummings	0.0	Jim Cummings
+Jimmy Smits	1.6159861067309836e-17	Jimmy Smits
+Joan Allen	7.527563896730626e-06	Joan Allen
+Joan Cusack	0.0	Joan Cusack
+Joan Dalmau	0.0	Joan Dalmau
+Joan Lunden	0.0	Joan Lunden
+Joanne Gordon	0.0	Joanne Gordon
+Joaquin Phoenix	1.27836053558462e-17	Joaquin Phoenix
+Jodie Foster	3.685245496425387e-18	Jodie Foster
+Joe Cornish	7.951292326455666e-19	Joe Cornish
+Joe Pantoliano	1.287039858518174e-20	Joe Pantoliano
+Joe Prospero	6.5298873828741825e-19	Joe Prospero
+Joe Ranft	4.0837996126940964e-17	Joe Ranft
+Joel Grey	7.474976025095517e-20	Joel Grey
+Johanne-Marie Tremblay	0.0	Johanne-Marie Tremblay
+John Ashton	5.257344400291149e-22	John Ashton
+John Bach	1.2360897698112599e-05	John Bach
+John Bedford Lloyd	9.948506279161701e-06	John Bedford Lloyd
+John Bourgeois	0.0	John Bourgeois
+John C. Reilly	6.8363165461111255e-19	John C. Reilly
+John Carroll Lynch	1.6635712954190614e-07	John Carroll Lynch
+John Goodman	3.6490062109590723e-07	John Goodman
+John Heard	0.0	John Heard
+John Hodgman	0.0	John Hodgman
+John Hurt	0.0	John Hurt
+John Koyama	2.6657566737253e-05	John Koyama
+John Lacy	1.2664308376947822e-20	John Lacy
+John Leguizamo	1.761913030895859e-20	John Leguizamo
+John Lithgow	1.549793652006396e-17	John Lithgow
+John Morris	8.81707955803774e-19	John Morris
+John Patrick Amedori	0.0	John Patrick Amedori
+John Ratzenberger	2.1044538079801171e-07	John Ratzenberger
+John Rubinstein	0.0	John Rubinstein
+John Sharian	0.0	John Sharian
+John Shrapnel	0.0	John Shrapnel
+John Thomson	6.242832825497473e-18	John Thomson
+John Turturro	1.592170080523888e-19	John Turturro
+Johnny Depp	2.2959993108276703e-18	Johnny Depp
+Johnny Simmons	2.864204841115054e-21	Johnny Simmons
+Jon Chevalier	5.3727134467755646e-21	Jon Chevalier
+Jon Seda	8.038077729939571e-18	Jon Seda
+Jonathan Ahdout	0.0	Jonathan Ahdout
+Jonathan Brewer	7.99713516694413e-19	Jonathan Brewer
+Jonathan Haagensen	3.4388213655145295e-20	Jonathan Haagensen
+Jonathan Loughran	0.0	Jonathan Loughran
+Jonathan Pryce	0.0	Jonathan Pryce
+Jonathan Rhys Meyers	0.0	Jonathan Rhys Meyers
+Jordi Mollà	7.363604023851215e-22	Jordi Mollà
+Jorge Salinas	5.21752377170511e-21	Jorge Salinas
+Jorja Fox	0.0	Jorja Fox
+Jose Coronado	1.749220380818097e-06	Jose Coronado
+Joseph Fiennes	5.700661307998091e-21	Joseph Fiennes
+Joseph Mazzello	0.0	Joseph Mazzello
+Joseph Mussey	0.0	Joseph Mussey
+Joseph Rosenberg	0.0	Joseph Rosenberg
+Josh Brolin	3.233312548902039e-18	Josh Brolin
+Josh Hamilton	1.2366763046167426e-18	Josh Hamilton
+Josh Hartnett	4.227884191851722e-20	Josh Hartnett
+Josh Helman	0.0	Josh Helman
+Josh Lucas	6.402845577883812e-20	Josh Lucas
+Josh Pais	7.872297866100616e-20	Josh Pais
+Juan Gabriel Yacuzzi	0.0	Juan Gabriel Yacuzzi
+Judd Hirsch	0.0	Judd Hirsch
+Jude Ciccolella	0.0	Jude Ciccolella
+Jude Law	4.2669399395180604e-20	Jude Law
+Judi Dench	1.5027833635148344e-17	Judi Dench
+Jukka Hiltunen	0.0	Jukka Hiltunen
+Jules Sitruk	2.218510859623413e-18	Jules Sitruk
+Julia Ormond	0.0	Julia Ormond
+Julia Rayner	0.0	Julia Rayner
+Julia Roberts	1.1335246032239316e-17	Julia Roberts
+Julia Stiles	2.165413778906558e-17	Julia Stiles
+Juliane Köhler	4.820231176214345e-19	Juliane Köhler
+Julianne Moore	1.3871768507408551e-08	Julianne Moore
+Julie Christie	0.0	Julie Christie
+Julie Delpy	9.752799085872717e-08	Julie Delpy
+Julie Dreyfus	1.1781468275158892e-07	Julie Dreyfus
+Julie Walters	1.864391381092188e-18	Julie Walters
+Julio Oscar Mechoso	4.6701316054611615e-19	Julio Oscar Mechoso
+Julius Callahan	2.0721650800420442e-07	Julius Callahan
+Jung Jae-jin	4.6183521327707334e-20	Jung Jae-jin
+Jung Woo-sung	0.0	Jung Woo-sung
+Jurnee Smollett	0.0	Jurnee Smollett
+Justin Kirk	1.2705724237044517e-06	Justin Kirk
+Justin Theroux	2.5147318334410983e-20	Justin Theroux
+Jürgen Holtz	0.0	Jürgen Holtz
+Kagiso Kuypers	3.8810344073892304e-19	Kagiso Kuypers
+Kai-Man Tin	4.410925546419989e-19	Kai-Man Tin
+Kal Penn	1.525891075038639e-21	Kal Penn
+Kanako Fukaura	0.0	Kanako Fukaura
+Kang Hye-jeong	6.864002390486774e-20	Kang Hye-jeong
+Kang Xi Jia	0.0	Kang Xi Jia
+Kari-Pekka Toivonen	4.997606354031775e-08	Kari-Pekka Toivonen
+Karina Arroyave	0.0	Karina Arroyave
+Karl Johnson	2.1501879852321073e-19	Karl Johnson
+Karl Urban	4.953118548945441e-18	Karl Urban
+Kate Ashfield	0.0	Kate Ashfield
+Kate Beckinsale	1.2304722197741848e-20	Kate Beckinsale
+Kate Hudson	8.372756207245129e-21	Kate Hudson
+Kate Sullivan	0.0	Kate Sullivan
+Kate Winslet	8.277692383305021e-09	Kate Winslet
+Kathryn Hunter	1.6558959137689856e-17	Kathryn Hunter
+Katie Holmes	1.0046953602482169e-17	Katie Holmes
+Katrin Sass	0.0	Katrin Sass
+Kazuko Shibata	5.377284592754077e-19	Kazuko Shibata
+Kazuyoshi Minamimagoe	0.0	Kazuyoshi Minamimagoe
+Keir Mills	0.0	Keir Mills
+Keira Knightley	9.621480931199463e-19	Keira Knightley
+Keisha Castle-Hughes	5.947014938987051e-17	Keisha Castle-Hughes
+Keith Campbell	4.4583155140506224e-18	Keith Campbell
+Keith David	4.711609263903325e-19	Keith David
+Keith Nobbs	2.765977229808886e-06	Keith Nobbs
+Kelly Macdonald	1.8855296713652667e-18	Kelly Macdonald
+Ken Leung	9.674468964995513e-19	Ken Leung
+Ken Watanabe	2.0365966490740037e-06	Ken Watanabe
+Kenneth Mitchell	3.77312715286216e-20	Kenneth Mitchell
+Kenneth Welsh	0.0	Kenneth Welsh
+Kerry Walker	2.621410039049195e-20	Kerry Walker
+Kerry Washington	4.764219047777721e-19	Kerry Washington
+Kevin Bacon	1.2666595289786005e-18	Kevin Bacon
+Kevin Chamberlin	1.8145220929382237e-20	Kevin Chamberlin
+Kevin Chapman	1.1109824720189912e-18	Kevin Chapman
+Kevin Corrigan	5.713696524072414e-18	Kevin Corrigan
+Kevin G. Schmidt	9.254332586295823e-19	Kevin G. Schmidt
+Kevin Spacey	0.0	Kevin Spacey
+Kevin West	5.744235407580614e-18	Kevin West
+Khalid Abdalla	0.0	Khalid Abdalla
+Kia Jam	0.0	Kia Jam
+Kieran Culkin	7.878119413785209e-21	Kieran Culkin
+Kim Bu-seon	0.0	Kim Bu-seon
+Kim Byeong-Ok	3.3279276627987703e-22	Kim Byeong-Ok
+Kim Coates	7.647369489414729e-19	Kim Coates
+Kim Dickens	0.0	Kim Dickens
+Kim Director	1.1320719453886625e-18	Kim Director
+Kim Fenton	9.555857674572752e-21	Kim Fenton
+Kim Hie-ryeong	0.0	Kim Hie-ryeong
+Kim Roe-ha	0.0	Kim Roe-ha
+Kim Sang-kyung	0.0	Kim Sang-kyung
+Kim Se-dong	0.0	Kim Se-dong
+Kimberly Elise	3.624373968388459e-21	Kimberly Elise
+Kip Pardue	6.577995507765598e-19	Kip Pardue
+Kirron Kher	2.1825388336566973e-20	Kirron Kher
+Kirsten Dunst	0.0	Kirsten Dunst
+Kishori Ballal	0.0	Kishori Ballal
+Klea Scott	0.0	Klea Scott
+Ko Seo-hie	0.0	Ko Seo-hie
+Kristin Herrera	0.0	Kristin Herrera
+Kulbhushan Kharbanda	0.0	Kulbhushan Kharbanda
+Kumar Pallana	1.4907040045119875e-19	Kumar Pallana
+Kunal Kapoor	0.0	Kunal Kapoor
+Kurt Fuller	1.664423988464248e-17	Kurt Fuller
+Kurt Russell	0.0	Kurt Russell
+Lachlan Mackintosh	2.3478619917284877e-18	Lachlan Mackintosh
+Lajos Kovács	0.0	Lajos Kovács
+Lari White	6.2676040711349906e-18	Lari White
+Larry Bagby	1.0601031633077832e-20	Larry Bagby
+Larry Miller	0.0	Larry Miller
+Larry Reese	6.3978067838696476e-06	Larry Reese
+Lars Ranthe	6.5878374388955996e-21	Lars Ranthe
+Laura Dern	0.0	Laura Dern
+Laura Harring	0.0	Laura Harring
+Laura Linney	8.560410957997796e-18	Laura Linney
+Laura Mennell	0.0	Laura Mennell
+Lauren Bacall	0.0	Lauren Bacall
+Laurence Barry	0.0	Laurence Barry
+Laurence Fishburne	2.0520243004582676e-18	Laurence Fishburne
+Laurence Leboeuf	0.0	Laurence Leboeuf
+Lawrence Gilliard Jr.	6.020527369331144e-22	Lawrence Gilliard Jr.
+Leandro Firmino	1.0359786564136234e-20	Leandro Firmino
+Lee Arenberg	8.548596062274484e-19	Lee Arenberg
+Lee Dae-yeon	9.948664095355736e-21	Lee Dae-yeon
+Lee Hang	0.0	Lee Hang
+Lee Ingleby	4.376558634977385e-07	Lee Ingleby
+Lee Ritchey	4.545077681611501e-08	Lee Ritchey
+Lee Seon-jin	0.0	Lee Seon-jin
+Lee Yeong-ih	0.0	Lee Yeong-ih
+Lee Yoon-mi	3.764476504574211e-09	Lee Yoon-mi
+Leigh Whannell	3.331304026194388e-19	Leigh Whannell
+Lekh Tandon	0.0	Lekh Tandon
+Lena Headey	7.514850812657088e-18	Lena Headey
+Leonardo DiCaprio	6.648887841954515e-18	Leonardo DiCaprio
+Leonid Citer	0.0	Leonid Citer
+Leonor Watling	5.651510964703227e-20	Leonor Watling
+Lesley Manville	5.486474227208805e-21	Lesley Manville
+Leslie Bibb	1.452131206602394e-17	Leslie Bibb
+Levani	4.197020334811587e-09	Levani
+Liam Aiken	1.1417958420264352e-18	Liam Aiken
+Liam Cunningham	0.0	Liam Cunningham
+Liam Neeson	8.552285245482374e-18	Liam Neeson
+Lim Ji-eun	0.0	Lim Ji-eun
+Linda Bassett	0.0	Linda Bassett
+Linus Roache	8.259885416438091e-18	Linus Roache
+Litefoot	1.3555145114173183e-21	Litefoot
+Liz Smith	3.021376343006181e-18	Liz Smith
+Liza Colón-Zayas	2.4929457981922677e-19	Liza Colón-Zayas
+Logan Lerman	1.026735232486883e-18	Logan Lerman
+Lola Dueñas	1.252039974099535e-20	Lola Dueñas
+Lorella Cravotta	7.793407535863366e-18	Lorella Cravotta
+Loretta Devine	1.0091925959442435e-18	Loretta Devine
+Lori Galinski	1.7668259118619372e-17	Lori Galinski
+Lorri Bagley	0.0	Lorri Bagley
+Lou Romano	0.0	Lou Romano
+Louise Lasser	0.0	Louise Lasser
+Louise Lemoine Torrès	3.4413645304594374e-08	Louise Lemoine Torrès
+Louise Portal	0.0	Louise Portal
+Lucas Belvaux	0.0	Lucas Belvaux
+Lucas Black	3.3487161531600215e-19	Lucas Black
+Luce Rains	5.1329337515274374e-21	Luce Rains
+Lucia Rijker	6.438922136426793e-18	Lucia Rijker
+Lucy Davis	2.8247710708385406e-20	Lucy Davis
+Lucy Liu	1.2662661288627898e-07	Lucy Liu
+Luis Armesto	0.0	Luis Armesto
+Luiz Carlos Vasconcelos	0.0	Luiz Carlos Vasconcelos
+Luke Spill	5.6176555119843155e-19	Luke Spill
+Luke Wilson	1.1922144249392201e-19	Luke Wilson
+Lyndsey Marshal	0.0	Lyndsey Marshal
+Lynn Cohen	0.0	Lynn Cohen
+M.C. Gainey	0.0	M.C. Gainey
+Mabel Rivera	2.800545684358598e-20	Mabel Rivera
+Mabel Wharekawa	4.1124259587147046e-20	Mabel Wharekawa
+Mabutho 'Kid' Sithole	0.0	Mabutho 'Kid' Sithole
+Mackenzie Crook	2.3728847736942816e-18	Mackenzie Crook
+Macy Gray	5.200178922536659e-07	Macy Gray
+Madhavan	0.0	Madhavan
+Madhuri Dixit	3.548454473116475e-20	Madhuri Dixit
+Mads Mikkelsen	1.70845627509592e-17	Mads Mikkelsen
+Maeve Andrews	2.4188564088559044e-06	Maeve Andrews
+Maggie Cheung	0.0	Maggie Cheung
+Maggie Gyllenhaal	1.407860094087872e-17	Maggie Gyllenhaal
+Maggie Smith	2.2706156252590468e-18	Maggie Smith
+Mairead Devlin	8.958223273592506e-20	Mairead Devlin
+Malin Akerman	0.0	Malin Akerman
+Malou Airaudo	6.603886301198042e-20	Malou Airaudo
+Mana Taumaunu	2.89729776663278e-20	Mana Taumaunu
+Mandy Moore	1.620504334593762e-17	Mandy Moore
+Manoj Bajpayee	6.006071392352087e-21	Manoj Bajpayee
+Manolo Solo	1.4740708808931827e-19	Manolo Solo
+Marc Anthony	1.5144528455743357e-19	Marc Anthony
+Marc Turtletaub	6.705960485477933e-19	Marc Turtletaub
+Marcia Gay Harden	0.0	Marcia Gay Harden
+Marcia Jean Kurtz	0.0	Marcia Jean Kurtz
+Marco Pérez	5.036542348293501e-21	Marco Pérez
+Margo Martindale	3.2258944258791666e-18	Margo Martindale
+Mari Natsuki	3.190721669348028e-18	Mari Natsuki
+Maria Bello	4.677889234165293e-21	Maria Bello
+Maria Lundqvist	0.0	Maria Lundqvist
+Maria Luísa Mendonça	0.0	Maria Luísa Mendonça
+Maria Simon	0.0	Maria Simon
+Mariane Plasteig	2.831562093249879e-08	Mariane Plasteig
+Marianne Muellerleile	1.033065602510414e-20	Marianne Muellerleile
+Maribel Verdú	0.0	Maribel Verdú
+Marie Pillet	0.0	Marie Pillet
+Marie-Josée Croze	0.0	Marie-Josée Croze
+Marina Hands	0.0	Marina Hands
+Mario	0.0	Mario
+Mariola Fuentes	1.7792681875683384e-19	Mariola Fuentes
+Marion Cotillard	1.5377808344402344e-18	Marion Cotillard
+Marjaana Maijala	0.0	Marjaana Maijala
+Mark Boone Junior	3.6422997693230675e-20	Mark Boone Junior
+Mark Gantt	9.532034670411376e-18	Mark Gantt
+Mark Gatiss	0.0	Mark Gatiss
+Mark Hoffman	0.0	Mark Hoffman
+Mark Ruffalo	5.31211432603468e-06	Mark Ruffalo
+Mark Wahlberg	4.728451954216891e-06	Mark Wahlberg
+Mark Webber	6.197033971858594e-21	Mark Webber
+Mark Williams	1.7062111951333044e-18	Mark Williams
+Marlon Wayans	0.0	Marlon Wayans
+Martha Espinoza	9.945003799358692e-21	Martha Espinoza
+Martin Freeman	2.9103664664476967e-19	Martin Freeman
+Martin McCann	0.0	Martin McCann
+Martin Sheen	6.5182701418936515e-18	Martin Sheen
+Martin Stringer	0.0	Martin Stringer
+Martina Gedeck	2.2698842212984154e-20	Martina Gedeck
+Martine McCutcheon	6.303990275043174e-18	Martine McCutcheon
+Marton Csokas	7.294720687543297e-18	Marton Csokas
+Marty Antonini	5.045715276029224e-18	Marty Antonini
+Mary Elizabeth Winstead	0.0	Mary Elizabeth Winstead
+Mary Gibbs	0.0	Mary Gibbs
+Mary Jo Smith	3.7658868777787325e-21	Mary Jo Smith
+Mary McDonnell	0.0	Mary McDonnell
+Mary Murphy	0.0	Mary Murphy
+Mary O'Riordan	0.0	Mary O'Riordan
+Mary-Louise Parker	9.015123516079756e-21	Mary-Louise Parker
+Marylouise Burke	4.3052767076953085e-21	Marylouise Burke
+María Aura	0.0	María Aura
+María Isabel Díaz Lago	0.0	María Isabel Díaz Lago
+María Mercedes Villagra	0.0	María Mercedes Villagra
+Masashi Odate	6.941256455597552e-18	Masashi Odate
+Masato Harada	0.0	Masato Harada
+Matheus Nachtergaele	2.5657087889109197e-20	Matheus Nachtergaele
+Mathieu Amalric	0.0	Mathieu Amalric
+Mathieu Kassovitz	5.4151708249329586e-18	Mathieu Kassovitz
+Matt Craven	1.1849243690036714e-20	Matt Craven
+Matt Damon	2.347704073544332e-17	Matt Damon
+Matt Frewer	7.930572678994255e-20	Matt Frewer
+Matt Jaynes	3.0613577563319904e-20	Matt Jaynes
+Matt Ross	0.0	Matt Ross
+Matthew Braden Stringer	1.2503056182182483e-19	Matthew Braden Stringer
+Matthew Edison	0.0	Matthew Edison
+Matthew Goode	2.052949329547804e-19	Matthew Goode
+Matthew Leitch	6.2745391559657614e-18	Matthew Leitch
+Matthew Macfadyen	2.899652648351805e-19	Matthew Macfadyen
+Matthew McGrory	1.3750029277381814e-19	Matthew McGrory
+Matthew Romero Moore	0.0	Matthew Romero Moore
+Matthew Whittet	8.654801087429128e-21	Matthew Whittet
+Matthias Brenner	0.0	Matthias Brenner
+Matthias Habich	5.059851224008495e-19	Matthias Habich
+Matyelok Gibbs	0.0	Matyelok Gibbs
+Maureen Lipman	0.0	Maureen Lipman
+Max Benitz	0.0	Max Benitz
+Max Pirkis	0.0	Max Pirkis
+Max von Sydow	3.654615592379253e-18	Max von Sydow
+Maya Bond	9.564996645276793e-09	Maya Bond
+Melora Walters	4.541382106857693e-20	Melora Walters
+Melyssa Ade	0.0	Melyssa Ade
+Meryl Streep	1.0577096745355065e-21	Meryl Streep
+Michael Angarano	0.0	Michael Angarano
+Michael Badalucco	0.0	Michael Badalucco
+Michael Bowen	3.002097996554895e-21	Michael Bowen
+Michael Caine	1.4095061768120165e-17	Michael Caine
+Michael Cera	3.1435462295090134e-21	Michael Cera
+Michael Cudlitz	2.5590419682889544e-18	Michael Cudlitz
+Michael Douglas	2.8729315087740156e-18	Michael Douglas
+Michael Emerson	8.881968870216428e-19	Michael Emerson
+Michael Fassbender	1.4916720677147474e-17	Michael Fassbender
+Michael Gambon	7.933621117631612e-19	Michael Gambon
+Michael Gwisdek	0.0	Michael Gwisdek
+Michael Ironside	0.0	Michael Ironside
+Michael J. Fox	0.0	Michael J. Fox
+Michael Keaton	0.0	Michael Keaton
+Michael Kenneth Williams	0.0	Michael Kenneth Williams
+Michael Lonsdale	0.0	Michael Lonsdale
+Michael Madsen	1.6224503096715027e-20	Michael Madsen
+Michael Mantenuto	1.2125343729987743e-19	Michael Mantenuto
+Michael Mendl	1.7372701467047337e-06	Michael Mendl
+Michael Nyqvist	3.663062465647106e-08	Michael Nyqvist
+Michael O'Neill	2.6387151776466102e-18	Michael O'Neill
+Michael Parks	2.5149530486428643e-07	Michael Parks
+Michael Rubenfeld	0.0	Michael Rubenfeld
+Michael Saucedo	4.899489124736356e-18	Michael Saucedo
+Michael Sorvino	0.0	Michael Sorvino
+Michal Zebrowski	7.859562411087135e-19	Michal Zebrowski
+Michel Robin	0.0	Michel Robin
+Michelle Monaghan	3.8349576485352995e-21	Michelle Monaghan
+Michelle Pfeiffer	3.1589251092369945e-08	Michelle Pfeiffer
+Michelle Williams	1.486604569700033e-07	Michelle Williams
+Michelle Yeoh	0.0	Michelle Yeoh
+Michiel Huisman	0.0	Michiel Huisman
+Michèle Caucheteux	9.933216815549674e-21	Michèle Caucheteux
+Mickey Cantwell	4.329451105708975e-19	Mickey Cantwell
+Mickey Rourke	1.5754384343591708e-18	Mickey Rourke
+Miguel Sandoval	3.9894253282457166e-21	Miguel Sandoval
+Mike Butters	1.24958521215444e-18	Mike Butters
+Mike Colter	3.88535556882971e-18	Mike Colter
+Mike Elliot	1.0430327816412174e-18	Mike Elliot
+Mike Myers	6.855709850736644e-18	Mike Myers
+Miki Ito	0.0	Miki Ito
+Miles Jupp	6.04810297417457e-17	Miles Jupp
+Milind Gunaji	1.1463213073131867e-20	Milind Gunaji
+Milton Gonçalves	0.0	Milton Gonçalves
+Mir Mahmood Shah Hashimi	1.4436221372997405e-19	Mir Mahmood Shah Hashimi
+Mira Sorvino	1.6040449385476744e-21	Mira Sorvino
+Miranda Richardson	1.6122843062666054e-07	Miranda Richardson
+Mirjana Karanovic	0.0	Mirjana Karanovic
+Misha Kuznetsov	0.0	Misha Kuznetsov
+Mishal Husain	8.85500023870012e-21	Mishal Husain
+Missy Doty	3.133739908178223e-21	Missy Doty
+Mitsunori Isaki	0.0	Mitsunori Isaki
+Mitsuru Fukikoshi	0.0	Mitsuru Fukikoshi
+Miyu Irino	4.891948081333774e-18	Miyu Irino
+Mohamed Akhzam	3.1696156074986403e-06	Mohamed Akhzam
+Mohd. Abbas Khaleeli	0.0	Mohd. Abbas Khaleeli
+Monica Viegas	0.0	Monica Viegas
+Monique Gabriela Curnen	4.651564731541985e-17	Monique Gabriela Curnen
+Morena Baccarin	0.0	Morena Baccarin
+Morgan Freeman	1.504421375738558e-17	Morgan Freeman
+Morris Birdyellowhead	0.0	Morris Birdyellowhead
+Mustafa Nadarevic	0.0	Mustafa Nadarevic
+Myles Horgan	0.0	Myles Horgan
+Mélanie Laurent	1.1209858560471472e-17	Mélanie Laurent
+Nabi Tanha	1.8452759891721472e-19	Nabi Tanha
+Nam-Hee Park	6.041038814911691e-20	Nam-Hee Park
+Nancy McDoniel	0.0	Nancy McDoniel
+Naomi Watts	1.8632482296188284e-21	Naomi Watts
+Naomie Harris	3.701608818853821e-19	Naomie Harris
+Natalie Dessay	0.0	Natalie Dessay
+Natalie Portman	2.5676730816618945e-06	Natalie Portman
+Natasa Tapuskovic	0.0	Natasa Tapuskovic
+Nate Parker	5.875914713769466e-21	Nate Parker
+Nathalie Baye	1.0585228930520987e-05	Nathalie Baye
+Nathan Fillion	0.0	Nathan Fillion
+Nathan Grinberg	2.7174602331348954e-20	Nathan Grinberg
+Nathan West	0.0	Nathan West
+Navi Rawat	0.0	Navi Rawat
+Neal McDonough	1.0648090718170066e-17	Neal McDonough
+Ned Beatty	9.084685185765295e-19	Ned Beatty
+Neil McCarthy	0.0	Neil McCarthy
+Nenji Kobayashi	0.0	Nenji Kobayashi
+Neus Sanz	0.0	Neus Sanz
+Nicholas Aaron	4.224726935010595e-18	Nicholas Aaron
+Nicholas Smith	2.6583338142516503e-18	Nicholas Smith
+Nick Frost	1.1536436818598695e-07	Nick Frost
+Nick Nichols	0.0	Nick Nichols
+Nick Roud	0.0	Nick Roud
+Nicola Blackwell	1.3922230530544773e-18	Nicola Blackwell
+Nicola Cunningham	9.479339480139953e-21	Nicola Cunningham
+Nicolas Bro	0.0	Nicolas Bro
+Nicolas Cage	1.5664750354576025e-20	Nicolas Cage
+Nicole Ari Parker	1.191639597881122e-18	Nicole Ari Parker
+Nicole Beharie	0.0	Nicole Beharie
+Nicole Kidman	1.752299608956828e-20	Nicole Kidman
+Nicole Shirer	0.0	Nicole Shirer
+Niels Arestrup	0.0	Niels Arestrup
+Nikola Kojo	0.0	Nikola Kojo
+Nikolaj Lie Kaas	5.4442961302428396e-21	Nikolaj Lie Kaas
+Noah Emmerich	3.669777385744636e-20	Noah Emmerich
+Noah Huntley	0.0	Noah Huntley
+Noah Taylor	0.0	Noah Taylor
+Noel Appleby	6.67150061913179e-19	Noel Appleby
+Noël Baye	5.463156354687379e-21	Noël Baye
+Oh Dal-su	0.0	Oh Dal-su
+Oh Tae-kyung	2.7941273337267044e-21	Oh Tae-kyung
+Olatz López Garmendia	0.0	Olatz López Garmendia
+Ole Thestrup	1.0921646763244595e-20	Ole Thestrup
+Oliver Golding	0.0	Oliver Golding
+Oliver Phelps	0.0	Oliver Phelps
+Oliver Reed	5.710580318097488e-18	Oliver Reed
+Olivia Thirlby	2.3144484876880814e-19	Olivia Thirlby
+Opal Alladin	0.0	Opal Alladin
+Orla Fitzgerald	0.0	Orla Fitzgerald
+Orlando Bloom	1.589641732146727e-05	Orlando Bloom
+Oscar Isaac	3.0737470075088354e-21	Oscar Isaac
+Owen Wilson	1.667304521506739e-19	Owen Wilson
+Paddy Considine	6.412498791773504e-21	Paddy Considine
+Pam Ferris	4.758188696886728e-19	Pam Ferris
+Paprika Steen	0.0	Paprika Steen
+Park Hae-il	0.0	Park Hae-il
+Park No-shik	0.0	Park No-shik
+Park Sang-gyu	0.0	Park Sang-gyu
+Parvez Qadir	5.476487629344987e-21	Parvez Qadir
+Patricia Clarkson	5.530562618272168e-20	Patricia Clarkson
+Patrick Chesnais	2.78084614387545e-08	Patrick Chesnais
+Patrick Dempsey	2.0232606786199863e-07	Patrick Dempsey
+Patrick Fischler	0.0	Patrick Fischler
+Patrick Fugit	6.30264048575e-08	Patrick Fugit
+Patrick Kilpatrick	0.0	Patrick Kilpatrick
+Patrick Louis	0.0	Patrick Louis
+Patrick O'Brien Demsey	0.0	Patrick O'Brien Demsey
+Patrick Stewart	8.695462914990055e-19	Patrick Stewart
+Patrick Swayze	6.825612624694822e-21	Patrick Swayze
+Patrick Wilson	1.3076278729599615e-18	Patrick Wilson
+Patton Oswalt	1.0898403883132433e-07	Patton Oswalt
+Paul Benjamin	0.0	Paul Benjamin
+Paul Bettany	0.0	Paul Bettany
+Paul Blackthorne	0.0	Paul Blackthorne
+Paul Brogren	0.0	Paul Brogren
+Paul Dano	2.730100010452568e-19	Paul Dano
+Paul F. Tompkins	0.0	Paul F. Tompkins
+Paul Giamatti	2.0050839808779536e-19	Paul Giamatti
+Paul Gutrecht	1.1043242576381837e-18	Paul Gutrecht
+Paul Kaye	0.0	Paul Kaye
+Paul L. Nolan	0.0	Paul L. Nolan
+Paul Newman	1.2666339384550744e-18	Paul Newman
+Paul Reubens	0.0	Paul Reubens
+Paul Sanchez	0.0	Paul Sanchez
+Paul Schneider	0.0	Paul Schneider
+Paula Garcés	9.698730914621023e-09	Paula Garcés
+Pei-Pei Cheng	3.72177234736567e-18	Pei-Pei Cheng
+Penelope Wilton	0.0	Penelope Wilton
+Penny Elvira Loftéen	0.0	Penny Elvira Loftéen
+Penélope Cruz	2.3325800649454587e-21	Penélope Cruz
+Peter Berg	0.0	Peter Berg
+Peter Blok	0.0	Peter Blok
+Peter Dennis	2.080820473712139e-17	Peter Dennis
+Peter Dinklage	0.0	Peter Dinklage
+Peter Fonda	5.532632158013356e-21	Peter Fonda
+Peter Friedman	1.1755190312586525e-19	Peter Friedman
+Peter Grosz	3.5552566844863187e-20	Peter Grosz
+Peter Kay	7.376704966709358e-19	Peter Kay
+Peter O'Toole	0.0	Peter O'Toole
+Peter Outerbridge	4.499552468627913e-20	Peter Outerbridge
+Peter Reichhardt	0.0	Peter Reichhardt
+Peter Sallis	1.0446856232883336e-18	Peter Sallis
+Peter Serafinowicz	0.0	Peter Serafinowicz
+Peter Sohn	9.456880335032227e-08	Peter Sohn
+Peter Stormare	7.447049355507484e-21	Peter Stormare
+Peter Von Berg	5.344351721026834e-18	Peter Von Berg
+Peter Wight	1.6860830167856272e-18	Peter Wight
+Peter Youngblood Hills	0.0	Peter Youngblood Hills
+Phellipe Haagensen	0.0	Phellipe Haagensen
+Phil Davis	0.0	Phil Davis
+Philip Barantini	6.467438509075936e-18	Philip Barantini
+Philip Seymour Hoffman	1.0121164258194954e-19	Philip Seymour Hoffman
+Philipp Heiss	9.862561012974617e-21	Philipp Heiss
+Philippe Labro	0.0	Philippe Labro
+Phyllis Somerville	0.0	Phyllis Somerville
+Pierre Curzi	5.244687335056608e-09	Pierre Curzi
+Pina Bausch	9.095467051419756e-20	Pina Bausch
+Pochi Ducasse	0.0	Pochi Ducasse
+Polly Adams	3.31230089324799e-20	Polly Adams
+Poonam Sinha	0.0	Poonam Sinha
+Powers Boothe	9.45967771515394e-19	Powers Boothe
+Preity G Zinta	2.5855709611265374e-21	Preity G Zinta
+Pádraic Delaney	0.0	Pádraic Delaney
+Péter Scherer	0.0	Péter Scherer
+Qiu Yuen	8.227905886935806e-19	Qiu Yuen
+Queen Latifah	1.488435768957714e-20	Queen Latifah
+Rachel Griffiths	0.0	Rachel Griffiths
+Rachel House	5.808365378160354e-20	Rachel House
+Rachel Hurd-Wood	4.35900824498047e-19	Rachel Hurd-Wood
+Rachel McAdams	0.0	Rachel McAdams
+Rachel Shelley	0.0	Rachel Shelley
+Rachel Ticotin	0.0	Rachel Ticotin
+Rachel Weisz	5.2551257016445204e-20	Rachel Weisz
+Radha Mitchell	9.905562485010219e-19	Radha Mitchell
+Rafe Spall	2.7523807014116246e-17	Rafe Spall
+Raghubir Yadav	0.0	Raghubir Yadav
+Rajat Kapoor	0.0	Rajat Kapoor
+Rajendra Gupta	0.0	Rajendra Gupta
+Rajesh Balwani	0.0	Rajesh Balwani
+Rajesh Vivek	0.0	Rajesh Vivek
+Ralph Fiennes	3.263946596383133e-06	Ralph Fiennes
+Rami Malek	0.0	Rami Malek
+Randall Duk Kim	1.249407471064931e-17	Randall Duk Kim
+Randall Wulff	0.0	Randall Wulff
+Randy Quaid	2.947515504854278e-18	Randy Quaid
+Rani Mukerji	1.2255708142383455e-20	Rani Mukerji
+Raoul Max Trujillo	1.6849174987902602e-19	Raoul Max Trujillo
+Raven Goodwin	0.0	Raven Goodwin
+Rawiri Paratene	0.0	Rawiri Paratene
+Ray Godshall Sr.	0.0	Ray Godshall Sr.
+Ray Liotta	5.480862811112788e-22	Ray Liotta
+Ray Romano	0.0	Ray Romano
+Ray Winstone	1.7359530033282547e-18	Ray Winstone
+Raymond J. Barry	1.9996372668222924e-08	Raymond J. Barry
+Raza Murad	7.572942452306554e-09	Raza Murad
+Reese Witherspoon	3.7335946196474256e-20	Reese Witherspoon
+Reg E. Cathey	0.0	Reg E. Cathey
+Regina King	6.416906992157388e-19	Regina King
+Reiko Kusamura	0.0	Reiko Kusamura
+Ren Ôsugi	0.0	Ren Ôsugi
+Rene Bitorajac	0.0	Rene Bitorajac
+Renée Amber	6.9160616094358405e-06	Renée Amber
+Renée Zellweger	2.3896797329168037e-21	Renée Zellweger
+Ricardo Darín	0.0	Ricardo Darín
+Richard Coca	4.2345190697311294e-18	Richard Coca
+Richard Felix	0.0	Richard Felix
+Richard Graham	5.67199299509878e-22	Richard Graham
+Richard Griffiths	9.441087309951658e-19	Richard Griffiths
+Richard Harris	2.6323936386647797e-17	Richard Harris
+Richard Kiel	0.0	Richard Kiel
+Richard Kind	1.5926768911695004e-22	Richard Kind
+Richard Macklin	4.1604974711138536e-17	Richard Macklin
+Richard Roxburgh	7.310393703287644e-21	Richard Roxburgh
+Richard Schiff	0.0	Richard Schiff
+Richard T. Jones	1.9167878908827433e-05	Richard T. Jones
+Richmond Arquette	6.789285795780031e-21	Richmond Arquette
+Ricky Adams	1.533224467093762e-20	Ricky Adams
+Rie Miyazawa	1.3046275025333718e-21	Rie Miyazawa
+Riki Lindhome	2.9448059222653734e-18	Riki Lindhome
+Rita Davies	0.0	Rita Davies
+Rob Curling	0.0	Rob Curling
+Rob Maxey	0.0	Rob Maxey
+Robbie Coltrane	2.523262139388604e-18	Robbie Coltrane
+Robert Bailey Jr.	0.0	Robert Bailey Jr.
+Robert Carlyle	1.6039783929587805e-21	Robert Carlyle
+Robert Downey Jr.	1.2168676515320233e-20	Robert Downey Jr.
+Robert Forster	0.0	Robert Forster
+Robert Guillaume	0.0	Robert Guillaume
+Robert Long	0.0	Robert Long
+Robert Patrick	0.0	Robert Patrick
+Robert Popper	0.0	Robert Popper
+Roberto Sosa	1.696481355067717e-19	Roberto Sosa
+Roberto Álvarez	0.0	Roberto Álvarez
+Rockmond Dunbar	0.0	Rockmond Dunbar
+Rodger Boyce	0.0	Rodger Boyce
+Rodolphe Pauly	1.882427439981609e-21	Rodolphe Pauly
+Rodrigo Murray	1.5974348272398021e-21	Rodrigo Murray
+Rodrigo Santoro	1.2366450853338639e-17	Rodrigo Santoro
+Roger Allam	0.0	Roger Allam
+Roger Casamajor	3.5373509177315444e-19	Roger Casamajor
+Roger Willie	0.0	Roger Willie
+Rolando Villazón	0.0	Rolando Villazón
+Romane Bohringer	2.807332732968254e-06	Romane Bohringer
+Ron Dean	1.2282230953618903e-17	Ron Dean
+Ron Eldard	0.0	Ron Eldard
+Ron Glass	4.807033158826582e-21	Ron Glass
+Ron Livingston	1.1679027048175671e-18	Ron Livingston
+Ron Perlman	0.0	Ron Perlman
+Rory MacGregor	5.434264841687458e-19	Rory MacGregor
+Rosamund Pike	5.477118744766259e-19	Rosamund Pike
+Rosario Dawson	1.228610272445068e-20	Rosario Dawson
+Rosario Flores	1.1437279588462472e-19	Rosario Flores
+Rosemary Harris	0.0	Rosemary Harris
+Rosie Motene	0.0	Rosie Motene
+Roz Michaels	5.217235959838044e-21	Roz Michaels
+Rudy Youngblood	2.447686659880732e-19	Rudy Youngblood
+Rufus	3.0299813399751706e-18	Rufus
+Rufus Sewell	2.1411659737952887e-19	Rufus Sewell
+Ruma Guha Thakurta	0.0	Ruma Guha Thakurta
+Rumi Hiiragi	1.9101718424297976e-18	Rumi Hiiragi
+Rupert Graves	0.0	Rupert Graves
+Rupert Grint	2.0430831066796978e-17	Rupert Grint
+Russ Fega	0.0	Russ Fega
+Russell Crowe	1.258478607893792e-17	Russell Crowe
+Russell Mabey	0.0	Russell Mabey
+Rutger Hauer	6.0855840824933445e-06	Rutger Hauer
+Ruth Sheen	1.6755270553285452e-20	Ruth Sheen
+Ryan Gosling	2.3661696875442286e-06	Ryan Gosling
+Ryan Hurst	0.0	Ryan Hurst
+Ryan Merriman	1.2862947059852366e-19	Ryan Merriman
+Ryu Deok-hwan	4.515882712082095e-20	Ryu Deok-hwan
+Ryu Seung-beom	1.0609221898868267e-08	Ryu Seung-beom
+Ryu Tae-ho	0.0	Ryu Tae-ho
+Ryuichiro Baba	4.658603833694297e-06	Ryuichiro Baba
+Ryunosuke Kamiki	1.5473573706211378e-17	Ryunosuke Kamiki
+Rémy Girard	1.025542324077495e-07	Rémy Girard
+Sacha Kremer	0.0	Sacha Kremer
+Sadie Goldstein	2.385186118009387e-19	Sadie Goldstein
+Sahira Nair	1.2941562868898533e-21	Sahira Nair
+Saif Ali Khan	2.696240232306752e-09	Saif Ali Khan
+Sala Baker	1.922650813232619e-05	Sala Baker
+Sam Okelo	0.0	Sam Okelo
+Sam Rockwell	6.750746741048866e-21	Sam Rockwell
+Sam Shepard	9.550159141533909e-19	Sam Shepard
+Samantha Mathis	1.9994190675705438e-20	Samantha Mathis
+Samantha Morton	2.6348777439507906e-18	Samantha Morton
+Samuel L. Jackson	2.947700971661882e-19	Samuel L. Jackson
+Sandip Deb	6.683086771680766e-22	Sandip Deb
+Sandra Bullock	9.190887900276612e-19	Sandra Bullock
+Sandra Oh	4.397254668981579e-21	Sandra Oh
+Sarah-Jeanne Labrosse	0.0	Sarah-Jeanne Labrosse
+Saunders Triplets	1.024294086969381e-18	Saunders Triplets
+Sayaka Kamiya	0.0	Sayaka Kamiya
+Sayed Badreya	0.0	Sayed Badreya
+Sayed Jafar Masihullah Gharibzada	3.109262858180198e-20	Sayed Jafar Masihullah Gharibzada
+Scarlett Johansson	1.836024152498858e-18	Scarlett Johansson
+Scott Glenn	2.5803804292920305e-19	Scott Glenn
+Scott Grimes	7.137244858081591e-18	Scott Grimes
+Sean Astin	1.9283038839818495e-05	Sean Astin
+Sean Bean	0.0	Sean Bean
+Sean Cory	6.175499020634003e-19	Sean Cory
+Sean Maher	0.0	Sean Maher
+Sean McCann	0.0	Sean McCann
+Sean Penn	8.370668178656586e-19	Sean Penn
+Sebastian Koch	5.7091627068412605e-19	Sebastian Koch
+Semion Sudarikov	2.1162005694966706e-18	Semion Sudarikov
+Seo Jae-kyeong	5.690000698420326e-20	Seo Jae-kyeong
+Seon Ji-hyun	0.0	Seon Ji-hyun
+Serge Merlin	5.252834520961108e-18	Serge Merlin
+Serge-Henri Valcke	0.0	Serge-Henri Valcke
+Sergi López	1.3991365427527554e-19	Sergi López
+Sergio Montalvo	1.0046315741965238e-20	Sergio Montalvo
+Seth Rogen	2.6111512235673975e-17	Seth Rogen
+Seu Jorge	0.0	Seu Jorge
+Seung-shin Lee	1.0420865079668076e-21	Seung-shin Lee
+Seymour Cassel	1.2675429309800502e-19	Seymour Cassel
+Shah Rukh Khan	6.281227224022195e-08	Shah Rukh Khan
+Shake Tukhmanyan	1.866149643794174e-21	Shake Tukhmanyan
+Shane Taylor	5.566292449810107e-18	Shane Taylor
+Shannyn Sossamon	0.0	Shannyn Sossamon
+Sharman Joshi	2.1489418526320298e-21	Sharman Joshi
+Sharon Warren	1.0765374409229462e-18	Sharon Warren
+Shaun Toub	2.4369932636945828e-05	Shaun Toub
+Shawnee Smith	8.732348243116428e-19	Shawnee Smith
+Shelby Lynne	2.530061123241804e-21	Shelby Lynne
+Shin Ha-kyun	1.6525643473566117e-21	Shin Ha-kyun
+Shin'ichi Chiba	0.0	Shin'ichi Chiba
+Shohreh Aghdashloo	0.0	Shohreh Aghdashloo
+Shri Vallabh Vyas	0.0	Shri Vallabh Vyas
+Siddharth	0.0	Siddharth
+Sienna Guillory	5.7420040639346075e-18	Sienna Guillory
+Sihung Lung	2.94923931332683e-18	Sihung Lung
+Simon Abkarian	1.5861086410351185e-17	Simon Abkarian
+Simon Callow	0.0	Simon Callow
+Simon Chandler	0.0	Simon Chandler
+Simon McBurney	4.7169154054849835e-20	Simon McBurney
+Simon Pegg	1.8562258591121595e-19	Simon Pegg
+Sinéad Cusack	1.3360775536899193e-06	Sinéad Cusack
+Siobhan Fallon Hogan	1.2266797256406194e-21	Siobhan Fallon Hogan
+Siu-Lung Leung	0.0	Siu-Lung Leung
+Sky du Mont	1.4123198266873741e-18	Sky du Mont
+Slavko Stimac	0.0	Slavko Stimac
+Smita Jaykar	1.908469893737532e-20	Smita Jaykar
+Smith Seth	0.0	Smith Seth
+Snoop Dogg	2.953460014375901e-19	Snoop Dogg
+Sofie Gråbøl	0.0	Sofie Gråbøl
+Soha Ali Khan	3.167246319365965e-08	Soha Ali Khan
+Son Ye-jin	6.914057216253143e-22	Son Ye-jin
+Sonali Kulkarni	0.0	Sonali Kulkarni
+Song Jae-ho	0.0	Song Jae-ho
+Song Kang-ho	0.0	Song Kang-ho
+Sonoya Mizuno	7.992729352220432e-21	Sonoya Mizuno
+Sonu Sood	0.0	Sonu Sood
+Sophie Okonedo	0.0	Sophie Okonedo
+Sophie Rois	0.0	Sophie Rois
+Sophie Wyburd	0.0	Sophie Wyburd
+Spencer Treat Clark	8.875159444281105e-19	Spencer Treat Clark
+Stanley DeSantis	0.0	Stanley DeSantis
+Stanley Tucci	3.9190908749512386e-20	Stanley Tucci
+Starla Benford	4.495538180246337e-19	Starla Benford
+Starletta DuPois	0.0	Starletta DuPois
+Stephen Chow	1.1091216018991359e-18	Stephen Chow
+Stephen Dillane	0.0	Stephen Dillane
+Stephen Fry	0.0	Stephen Fry
+Stephen Graham	1.440672863897874e-18	Stephen Graham
+Stephen McHattie	2.826012074814393e-19	Stephen McHattie
+Stephen Rea	7.874334406136927e-07	Stephen Rea
+Stephen Root	8.239116509896437e-18	Stephen Root
+Stephen Rwangyezi	2.6333408469548153e-20	Stephen Rwangyezi
+Stephen Tobolowsky	2.9290192408783024e-20	Stephen Tobolowsky
+Steve Buscemi	0.0	Steve Buscemi
+Steve Carell	0.0	Steve Carell
+Steve Eastin	9.76279176499492e-18	Steve Eastin
+Steve Harris	9.138650210642973e-18	Steve Harris
+Steve Taschler	0.0	Steve Taschler
+Stewart Morgan	9.209714092349634e-08	Stewart Morgan
+Stockton Taylor	3.579157377270281e-19	Stockton Taylor
+Stribor Kusturica	0.0	Stribor Kusturica
+Stuart Wells	1.0647539471243929e-18	Stuart Wells
+Stéphane Rousseau	0.0	Stéphane Rousseau
+Suhasini Mulay	0.0	Suhasini Mulay
+Summer Glau	8.16893585872558e-21	Summer Glau
+Suraj Sharma	9.5226582742107e-18	Suraj Sharma
+Surendra Pal	0.0	Surendra Pal
+Susanne Lothar	0.0	Susanne Lothar
+Suzanne Pleshette	1.131952754770481e-17	Suzanne Pleshette
+Suzanne Shepherd	0.0	Suzanne Shepherd
+Suzy Falk	0.0	Suzy Falk
+Sylvester Morand	0.0	Sylvester Morand
+Symara A. Templeman	1.685258374583647e-20	Symara A. Templeman
+Sándor Badár	0.0	Sándor Badár
+Sándor Csányi	0.0	Sándor Csányi
+Sôsuke Takaoka	2.9056016206540866e-21	Sôsuke Takaoka
+T.J. Jagodowski	1.6336506519410393e-20	T.J. Jagodowski
+T.R. Knight	0.0	T.R. Knight
+Tabu	1.8297672966219934e-21	Tabu
+Takashi Naitô	1.9535045752728547e-18	Takashi Naitô
+Takashi Tsukamoto	0.0	Takashi Tsukamoto
+Takayo Fischer	7.866543062077487e-06	Takayo Fischer
+Takayo Mimura	1.1789518963647651e-20	Takayo Mimura
+Take	8.142446877093066e-19	Take
+Takuya Kimura	0.0	Takuya Kimura
+Talulah Riley	1.5307073170723604e-19	Talulah Riley
+Tamar Novas	1.1092048792030893e-07	Tamar Novas
+Tammy Davis	6.847958349509904e-20	Tammy Davis
+Tarô Yamamoto	2.534598603936653e-21	Tarô Yamamoto
+Tatsuya Fujiwara	0.0	Tatsuya Fujiwara
+Tatsuya Gashûin	0.0	Tatsuya Gashûin
+Taungaroa Emile	5.868646350656597e-20	Taungaroa Emile
+Teddy Newton	0.0	Teddy Newton
+Teri Hatcher	3.708658156732771e-19	Teri Hatcher
+Terrence Howard	8.680339255034025e-18	Terrence Howard
+Tess Harper	1.1745088843362088e-18	Tess Harper
+Tessa Mitchell	4.558185326948333e-20	Tessa Mitchell
+Thandiwe Newton	0.0	Thandiwe Newton
+Thom Hoffman	0.0	Thom Hoffman
+Thomas Brown-Lowe	0.0	Thomas Brown-Lowe
+Thomas Haden Church	4.182990526672254e-21	Thomas Haden Church
+Thomas Jay Ryan	1.865081074162129e-19	Thomas Jay Ryan
+Thomas Kretschmann	6.181773666087853e-19	Thomas Kretschmann
+Thomas Lennon	3.364548041818993e-20	Thomas Lennon
+Thomas Thieme	1.5303189884508137e-19	Thomas Thieme
+Thomas Weinhappel	3.088249406788702e-22	Thomas Weinhappel
+Tianyong Zheng	0.0	Tianyong Zheng
+Ticky Holgado	1.2495750508018154e-18	Ticky Holgado
+Tiffany Pisani	0.0	Tiffany Pisani
+Tiku Talsania	1.794304531637704e-20	Tiku Talsania
+Til Schweiger	2.671290931807374e-18	Til Schweiger
+Tilda Swinton	3.679814118194672e-18	Tilda Swinton
+Tim Allen	1.29783675244272e-18	Tim Allen
+Tim Blake Nelson	1.7019060499179477e-19	Tim Blake Nelson
+Tim Ivey	0.0	Tim Ivey
+Tim Pigott-Smith	8.208199737895578e-07	Tim Pigott-Smith
+Tim Robbins	2.0458396473193352e-18	Tim Robbins
+Tim Shadbolt	0.0	Tim Shadbolt
+Timothy Spall	2.774890610209752e-18	Timothy Spall
+Titus Welliver	6.22545031565443e-21	Titus Welliver
+Tobey Maguire	6.012980397830885e-17	Tobey Maguire
+Toby Leonard Moore	0.0	Toby Leonard Moore
+Toby Sedgwick	2.2365785013074605e-19	Toby Sedgwick
+Todd Louiso	1.1561664866016839e-07	Todd Louiso
+Tom Berenger	0.0	Tom Berenger
+Tom Cruise	2.9106287576841207e-06	Tom Cruise
+Tom Fisher	0.0	Tom Fisher
+Tom Gallop	0.0	Tom Gallop
+Tom Guiry	1.369634388328503e-18	Tom Guiry
+Tom Hanks	5.9229774645579365e-18	Tom Hanks
+Tom Noonan	0.0	Tom Noonan
+Tom Sizemore	1.127334193830718e-18	Tom Sizemore
+Tom Wilkinson	1.8241970691967775e-19	Tom Wilkinson
+Tom Wisdom	1.2881619355146992e-17	Tom Wisdom
+Tomas Arana	9.099565978231633e-18	Tomas Arana
+Tomas Milian	3.3725579278117848e-18	Tomas Milian
+Tommy Lee Jones	4.969493824642368e-19	Tommy Lee Jones
+Toni Collette	1.137740058799962e-18	Toni Collette
+Tony Danza	0.0	Tony Danza
+Tony Goldwyn	7.12123991800801e-18	Tony Goldwyn
+Tony Kgoroge	0.0	Tony Kgoroge
+Tony Leung Chiu-wai	6.853994936091509e-18	Tony Leung Chiu-wai
+Tony Siragusa	0.0	Tony Siragusa
+Topi Majaniemi	0.0	Topi Majaniemi
+Trevor Martin	7.025430896047117e-19	Trevor Martin
+Trish Gates	1.8930607535844973e-19	Trish Gates
+Ty Simpkins	6.626520999699903e-21	Ty Simpkins
+Tyler Hilton	1.8567745360538066e-20	Tyler Hilton
+Tyler Hoechlin	1.5780687494894066e-18	Tyler Hoechlin
+Tze-Chung Lam	2.677780357130101e-19	Tze-Chung Lam
+Udo Samel	0.0	Udo Samel
+Ulrich Matthes	0.0	Ulrich Matthes
+Ulrich Mühe	5.8494317768247925e-19	Ulrich Mühe
+Ulrich Thomsen	0.0	Ulrich Thomsen
+Ulrich Tukur	4.823809191690746e-06	Ulrich Tukur
+Uma Thurman	0.0	Uma Thurman
+Val Kilmer	0.0	Val Kilmer
+Valentina Ananina	0.0	Valentina Ananina
+Valerie Planche	0.0	Valerie Planche
+Vanessa Bauche	5.492450712001416e-21	Vanessa Bauche
+Vera Farmiga	0.0	Vera Farmiga
+Vernon Dobtcheff	0.0	Vernon Dobtcheff
+Verónica Langer	0.0	Verónica Langer
+Vesna Trivalic	0.0	Vesna Trivalic
+Vibish Sivakumar	2.1287835377450655e-17	Vibish Sivakumar
+Vicki Lewis	9.85084192581794e-18	Vicki Lewis
+Vicky Haughton	8.029652003338054e-20	Vicky Haughton
+Victor Reyes	0.0	Victor Reyes
+Viggo Mortensen	1.0164047388238298e-05	Viggo Mortensen
+Vijayendra Ghatge	1.0095230918965174e-21	Vijayendra Ghatge
+Vincent Cassel	0.0	Vincent Cassel
+Vincent Ebrahim	2.947839659580977e-06	Vincent Ebrahim
+Vincent Paterson	5.265388090351837e-20	Vincent Paterson
+Vincent Regan	1.4931811472533064e-17	Vincent Regan
+Vinessa Shaw	2.7102723610399834e-21	Vinessa Shaw
+Vinnie Jones	9.956937689088703e-19	Vinnie Jones
+Virginia Madsen	3.3800200877402605e-21	Virginia Madsen
+Vishnudutt Gaur	0.0	Vishnudutt Gaur
+Vivica A. Fox	1.404502127589588e-20	Vivica A. Fox
+Vladica Kostic	4.182054661767966e-21	Vladica Kostic
+Volkmar Kleinert	2.6561485201647167e-19	Volkmar Kleinert
+Vuk Kostic	0.0	Vuk Kostic
+Wagner Moura	0.0	Wagner Moura
+Wah Yuen	4.895789905290206e-19	Wah Yuen
+Waheeda Rehman	1.3996589133222746e-22	Waheeda Rehman
+Waldemar Kobus	0.0	Waldemar Kobus
+Wallace Shawn	1.625439021514188e-18	Wallace Shawn
+Wallace Wolodarsky	3.0903206982124247e-22	Wallace Wolodarsky
+Walton Goggins	1.5535145224597323e-18	Walton Goggins
+Wanja Mues	2.054486664681567e-06	Wanja Mues
+Waylon Payne	6.135841315477774e-21	Waylon Payne
+Wayne Robson	0.0	Wayne Robson
+Will Arnett	1.6947808214118328e-07	Will Arnett
+Will Ferrell	1.1960075514265788e-20	Will Ferrell
+Will Patton	0.0	Will Patton
+Will Smith	0.0	Will Smith
+Willem Dafoe	1.3576335111510572e-17	Willem Dafoe
+William Atherton	0.0	William Atherton
+William Beck	1.3015141402114184e-19	William Beck
+William Dick	1.186658261215468e-20	William Dick
+William Fichtner	0.0	William Fichtner
+William Lee Scott	1.0731126840310683e-18	William Lee Scott
+Wood Harris	2.2424695552299744e-18	Wood Harris
+Woody Harrelson	0.0	Woody Harrelson
+Xian Gao	1.0431775387436777e-18	Xian Gao
+Xiaogang Feng	0.0	Xiaogang Feng
+Xolani Mali	0.0	Xolani Mali
+Yan Hai	6.394058454528147e-18	Yan Hai
+Yan Qin	2.5556286802810717e-18	Yan Qin
+Yasuko Sawaguchi	5.9775306685561874e-18	Yasuko Sawaguchi
+Yelena Popovic	1.3581002852355678e-17	Yelena Popovic
+Yohana Cobo	0.0	Yohana Cobo
+Yoo Ji-tae	6.016108915384471e-21	Yoo Ji-tae
+Yoo Yeon-seok	7.194303842814462e-21	Yoo Yeon-seok
+Yoon Jin-seo	2.569800360137469e-21	Yoon Jin-seo
+Yukihiro Kotani	1.3859147174236025e-20	Yukihiro Kotani
+Yumi Tamai	0.0	Yumi Tamai
+Yves Jacques	0.0	Yves Jacques
+Yô Ôizumi	4.897915215061914e-06	Yô Ôizumi
+Zachary Levi	1.0156737526731356e-17	Zachary Levi
+Zekeria Ebrahimi	0.0	Zekeria Ebrahimi
+Zhihua Dong	0.0	Zhihua Dong
+Zhongyuan Liu	0.0	Zhongyuan Liu
+Ziyi Zhang	2.7236841483041335e-18	Ziyi Zhang
+Zoltán Mucsi	0.0	Zoltán Mucsi
+Zooey Deschanel	8.233813439044331e-08	Zooey Deschanel
+Zsolt Nagy	0.0	Zsolt Nagy
+Zuleikha Robinson	1.815651897032637e-21	Zuleikha Robinson
+Álex Angulo	1.8750664600320812e-19	Álex Angulo
+Álvaro Guerrero	4.3140280881960215e-21	Álvaro Guerrero
+Action, Adventure, Animation, Family	0.00038255756265830916	Action, Adventure, Animation, Family
+Action, Adventure, Comedy	9.072114151331088e-06	Action, Adventure, Comedy
+Action, Adventure, Drama, History, Romance	1.3039604533080857e-06	Action, Adventure, Drama, History, Romance
+Action, Adventure, Drama, History, War	0.0007775857404034212	Action, Adventure, Drama, History, War
+Action, Adventure, Drama, Thriller	9.262281729287844e-05	Action, Adventure, Drama, Thriller
+Action, Adventure, Fantasy	0.008795910483826384	Action, Adventure, Fantasy
+Action, Adventure, War	0.004945202717006978	Action, Adventure, War
+Action, Comedy, Crime, Fantasy	0.00015557360417515047	Action, Comedy, Crime, Fantasy
+Action, Comedy, Crime, Mystery	9.00750782745956e-07	Action, Comedy, Crime, Mystery
+Action, Crime	1.6068756217935696e-05	Action, Crime
+Action, Crime, Drama	0.001234136776095359	Action, Crime, Drama
+Action, Crime, Drama, Thriller	0.00010955725070934662	Action, Crime, Drama, Thriller
+Action, Crime, Thriller	1.4788786099194148e-05	Action, Crime, Thriller
+Action, Drama, Adventure	0.007191584238823434	Action, Drama, Adventure
+Action, Drama, Mystery, Thriller	0.000975021152568971	Action, Drama, Mystery, Thriller
+Action, Drama, Romance	7.336815821222771e-07	Action, Drama, Romance
+Action, Drama, Thriller	3.3930691194884296e-05	Action, Drama, Thriller
+Action, Drama, Thriller, Crime	0.0001310461993373292	Action, Drama, Thriller, Crime
+Action, Drama, War	0.0018966491345582099	Action, Drama, War
+Action, Drama, Western	2.169881759550605e-05	Action, Drama, Western
+Action, History, War	0.00013583471782094563	Action, History, War
+Action, Mystery, Science Fiction	0.00010609002645869336	Action, Mystery, Science Fiction
+Action, Science Fiction, Adventure	0.005226183863625156	Action, Science Fiction, Adventure
+Action, Thriller, Crime	0.0003422445227950241	Action, Thriller, Crime
+Action, Thriller, Fantasy	0.00010757254530060909	Action, Thriller, Fantasy
+Action, Thriller, Science Fiction, Mystery	0.0024686029091458843	Action, Thriller, Science Fiction, Mystery
+Adventure	0.00010167808656870858	Adventure
+Adventure, Action, Thriller	0.007769494812492878	Adventure, Action, Thriller
+Adventure, Animation, Comedy, Drama	1.665222754829999e-06	Adventure, Animation, Comedy, Drama
+Adventure, Animation, Comedy, Family	4.252563583813165e-06	Adventure, Animation, Comedy, Family
+Adventure, Animation, Comedy, Family, Fantasy	0.007856238510001582	Adventure, Animation, Comedy, Family, Fantasy
+Adventure, Animation, Family, Comedy	0.013611003941668566	Adventure, Animation, Family, Comedy
+Adventure, Comedy, Drama, Fantasy, Mystery	2.657961840414715e-06	Adventure, Comedy, Drama, Fantasy, Mystery
+Adventure, Drama	0.003452209454516402	Adventure, Drama
+Adventure, Drama, Action	0.012565428738377198	Adventure, Drama, Action
+Adventure, Drama, Action, Romance	0.0012237019216486194	Adventure, Drama, Action, Romance
+Adventure, Drama, Music, Romance	1.4243230865652886e-06	Adventure, Drama, Music, Romance
+Adventure, Fantasy, Action	0.17841743675997535	Adventure, Fantasy, Action
+Adventure, Fantasy, Drama	7.151651180878372e-05	Adventure, Fantasy, Drama
+Adventure, Fantasy, Family	0.19213461786047945	Adventure, Fantasy, Family
+Adventure, Fantasy, Family, Mystery	0.03010303910641797	Adventure, Fantasy, Family, Mystery
+Animation, Comedy, Family	1.221214637558417e-05	Animation, Comedy, Family
+Animation, Comedy, Family, Adventure	0.001970715221719478	Animation, Comedy, Family, Adventure
+Animation, Comedy, Family, Fantasy	1.2302667448246017e-05	Animation, Comedy, Family, Fantasy
+Animation, Family	0.00013696487265770011	Animation, Family
+Animation, Family, Comedy	0.008883546152455178	Animation, Family, Comedy
+Comedy, Crime, Drama	3.128566507761074e-07	Comedy, Crime, Drama
+Comedy, Crime, Thriller	9.43897210071786e-07	Comedy, Crime, Thriller
+Comedy, Drama	3.5928014307169707e-06	Comedy, Drama
+Comedy, Drama, Fantasy, Romance	2.6825130652923296e-05	Comedy, Drama, Fantasy, Romance
+Comedy, Drama, Romance	0.0009185867527544343	Comedy, Drama, Romance
+Comedy, Romance	0.001488287635814373	Comedy, Romance
+Comedy, Romance, Drama	0.001607642172116711	Comedy, Romance, Drama
+Crime, Action, Comedy	0.00014746807091743335	Crime, Action, Comedy
+Crime, Drama	0.00012695371293936037	Crime, Drama
+Crime, Drama, Mystery	1.5284314424870853e-05	Crime, Drama, Mystery
+Crime, Drama, Mystery, Thriller	2.2013100884554695e-05	Crime, Drama, Mystery, Thriller
+Crime, Drama, Thriller	0.00015166182520509662	Crime, Drama, Thriller
+Crime, Fantasy, Drama	0.00015170845671988654	Crime, Fantasy, Drama
+Documentary	0.00022076934678914875	Documentary
+Documentary, Family	0.0003863901986435131	Documentary, Family
+Drama	0.00014446073671892033	Drama
+Drama, Action, Crime, Thriller	0.031777520529933996	Drama, Action, Crime, Thriller
+Drama, Action, History	1.1060685384815392e-06	Drama, Action, History
+Drama, Action, History, Thriller	0.00010042599353260592	Drama, Action, History, Thriller
+Drama, Action, Thriller, Science Fiction	2.40400664845407e-06	Drama, Action, Thriller, Science Fiction
+Drama, Action, Thriller, War	0.0022518926602802993	Drama, Action, Thriller, War
+Drama, Action, War, History	0.0021156511123860363	Drama, Action, War, History
+Drama, Adventure, Action, History	0.0005449594295130582	Drama, Adventure, Action, History
+Drama, Comedy	3.097524050536367e-06	Drama, Comedy
+Drama, Comedy, Crime	8.567060006362124e-07	Drama, Comedy, Crime
+Drama, Comedy, Music	0.0002461610090446565	Drama, Comedy, Music
+Drama, Crime	9.196373116548218e-06	Drama, Crime
+Drama, Crime, Music	3.175590080702383e-05	Drama, Crime, Music
+Drama, Crime, Thriller	3.58466849051898e-05	Drama, Crime, Thriller
+Drama, Family	4.26160600192283e-05	Drama, Family
+Drama, Fantasy	0.00020034577752948813	Drama, Fantasy
+Drama, History	3.0198027723373718e-05	Drama, History
+Drama, History, Crime	0.00028148265705648783	Drama, History, Crime
+Drama, History, Crime, Thriller, Action	0.0001186675373931841	Drama, History, Crime, Thriller, Action
+Drama, History, War	4.8657523415032465e-05	Drama, History, War
+Drama, Music	1.1971898305014617e-05	Drama, Music
+Drama, Music, Romance	0.0021158348950871112	Drama, Music, Romance
+Drama, Romance	8.765834127148187e-06	Drama, Romance
+Drama, Science Fiction	2.3916148583500693e-05	Drama, Science Fiction
+Drama, Thriller	2.0840572974891403e-05	Drama, Thriller
+Drama, Thriller, Action	0.00019095328641571498	Drama, Thriller, Action
+Drama, Thriller, Adventure	1.5417546066321296e-05	Drama, Thriller, Adventure
+Drama, Thriller, Crime	1.76448979816301e-05	Drama, Thriller, Crime
+Drama, Thriller, Crime, Mystery	3.209974963300838e-05	Drama, Thriller, Crime, Mystery
+Drama, Thriller, Crime, Romance	9.150105214164775e-05	Drama, Thriller, Crime, Romance
+Drama, Thriller, Mystery, Action	1.1647010559882525e-05	Drama, Thriller, Mystery, Action
+Drama, Thriller, War	2.1991274358692162e-06	Drama, Thriller, War
+Drama, War	0.00015524275514858227	Drama, War
+Fantasy, Adventure, Animation, Family	0.0018520737226161218	Fantasy, Adventure, Animation, Family
+Fantasy, Animation, Adventure	0.0008490165282409461	Fantasy, Animation, Adventure
+Fantasy, Drama, Mystery	1.822823082144803e-06	Fantasy, Drama, Mystery
+Fantasy, Drama, Thriller, Mystery, Romance	0.0011222479238891358	Fantasy, Drama, Thriller, Mystery, Romance
+Fantasy, Drama, Thriller, Romance	8.10748549486274e-05	Fantasy, Drama, Thriller, Romance
+Fantasy, Drama, War	0.00015509622806983038	Fantasy, Drama, War
+Horror, Comedy	2.2795022455744506e-05	Horror, Comedy
+Horror, Mystery, Crime	0.0003382568633904477	Horror, Mystery, Crime
+Horror, Thriller, Science Fiction	0.00012404407802259687	Horror, Thriller, Science Fiction
+Mystery, Thriller	3.3144420737621216e-05	Mystery, Thriller
+Romance, Drama	1.6275185308510747e-05	Romance, Drama
+Romance, Drama, Comedy	3.101794941595209e-06	Romance, Drama, Comedy
+Romance, Drama, History	2.0411145888936543e-05	Romance, Drama, History
+Romance, Drama, History, War, Music	1.583410134166391e-06	Romance, Drama, History, War, Music
+Science Fiction, Action, Adventure, Thriller	1.3208773188576916e-06	Science Fiction, Action, Adventure, Thriller
+Science Fiction, Adventure, Action	0.021291096014147328	Science Fiction, Adventure, Action
+Science Fiction, Drama, Romance	7.734790682046617e-05	Science Fiction, Drama, Romance
+Science Fiction, Thriller	0.0002507862895275256	Science Fiction, Thriller
+Thriller, Crime	0.0001266928860546867	Thriller, Crime
+Thriller, Crime, Drama	0.0002374779427518596	Thriller, Crime, Drama
+Thriller, Crime, Drama, Mystery	0.0006979189672634725	Thriller, Crime, Drama, Mystery
+Thriller, Drama	1.2786652122731069e-06	Thriller, Drama
+Thriller, Drama, Crime	2.4768714675174235e-05	Thriller, Drama, Crime
+Thriller, Drama, Mystery	1.833991344987427e-06	Thriller, Drama, Mystery
+War	2.9957505969516923e-05	War
+War, Comedy, Drama, History	3.797008303901324e-05	War, Comedy, Drama, History
+Western	1.4751085240456054e-05	Western
+1492 Pictures, Heyday films, Warner Bros.	2.3872708829790895e-05	1492 Pictures, Heyday films, Warner Bros.
+1492 Pictures, Warner Bros., Heyday Films	0.00216157781059141	1492 Pictures, Warner Bros., Heyday Films
+40 Acres & A Mule Filmworks, Touchstone Pictures	1.2103400591551875e-06	40 Acres & A Mule Filmworks, Touchstone Pictures
+Aamir Khan Productions	1.6377700964438164e-06	Aamir Khan Productions
+Aardman Animations, DreamWorks Animation	0.0017359100660662794	Aardman Animations, DreamWorks Animation
+Altavista Films, Zeta Film	1.6013486203998294e-05	Altavista Films, Zeta Film
+American Zoetrope	0.0007586684961379786	American Zoetrope
+Anonymous Content, This Is That Productions, Focus Features	9.831575200328984e-05	Anonymous Content, This Is That Productions, Focus Features
+Arte, Canal+, Bayerischer Rundfunk (BR), Bavaria Film International, Centre National de la Cinématographie (CNC)	8.737424003579395e-06	Arte, Canal+, Bayerischer Rundfunk (BR), Bavaria Film International, Centre National de la Cinématographie (CNC)
+Arte, Wiedemann & Berg Filmproduktion, Creado Film, Bayerischer Rundfunk (BR)	0.00031381065859546064	Arte, Wiedemann & Berg Filmproduktion, Creado Film, Bayerischer Rundfunk (BR)
+Artisan Entertainment	2.47452793874658e-06	Artisan Entertainment
+Ashutosh Gowariker Productions	2.5899679211894052e-06	Ashutosh Gowariker Productions
+Asymmetrical Productions, Les Films Alain Sarde, Babbo Inc., The Picture Factory, Canal+	1.5655353161364543e-06	Asymmetrical Productions, Les Films Alain Sarde, Babbo Inc., The Picture Factory, Canal+
+Avenue Pictures Productions, Panorama Films, HBO Films	0.00018903469326898595	Avenue Pictures Productions, Panorama Films, HBO Films
+BBC Films, Tiger Aspect Productions, StudioCanal, Arts Council of England, Working Title Films, WT2 Productions	0.00032707294996704614	BBC Films, Tiger Aspect Productions, StudioCanal, Arts Council of England, Working Title Films, WT2 Productions
+BIM Distribuzione, Matador Pictures, Diaphana Films, Bórd Scannán na hÉireann, Element Films, UK Film Council, Pathé Distribution, Irish Film Board, Tornasol Films, Sixteen Films, Regent Capital, EMC Produktion, Cinéart, TV3 Television Network Ireland, Filmcoopi Zürich, Oil Flick Films No.2	5.05411841403019e-07	BIM Distribuzione, Matador Pictures, Diaphana Films, Bórd Scannán na hÉireann, Element Films, UK Film Council, Pathé Distribution, Irish Film Board, Tornasol Films, Sixteen Films, Regent Capital, EMC Produktion, Cinéart, TV3 Television Network Ireland, Filmcoopi Zürich, Oil Flick Films No.2
+BR Petrobrás, HB Filmes	1.8012707573962925e-06	BR Petrobrás, HB Filmes
+Bac Films, Canal+Polska, Heritage Films, Studio Babelsberg, Agencja Produkcji Filmowej, Beverly Detroit, FilmFernsehFonds Bayern, Filmboard Berlin-Brandenburg (FBB), Mainstream S.A., R.P. Productions, StudioCanal, Filmförderungsanstalt (FFA), Canal+, Interscope Communications, Telewizja Polska (TVP), Runteam	0.00017452821380198774	Bac Films, Canal+Polska, Heritage Films, Studio Babelsberg, Agencja Produkcji Filmowej, Beverly Detroit, FilmFernsehFonds Bayern, Filmboard Berlin-Brandenburg (FBB), Mainstream S.A., R.P. Productions, StudioCanal, Filmförderungsanstalt (FFA), Canal+, Interscope Communications, Telewizja Polska (TVP), Runteam
+Bac Films, Pandora Filmproduktion, Procirep, Galatée Films, Eurimages, Canal+, Westdeutscher Rundfunk (WDR), Télévision Suisse-Romande (TSR), Wanda Visión S.A., Conseil Régional de Franche-Comté, Eyescreen S.r.l., France 2 Cinéma, Les Productions de la Guéville, Centre National de la Cinématographie (CNC)	0.0	Bac Films, Pandora Filmproduktion, Procirep, Galatée Films, Eurimages, Canal+, Westdeutscher Rundfunk (WDR), Télévision Suisse-Romande (TSR), Wanda Visión S.A., Conseil Régional de Franche-Comté, Eyescreen S.r.l., France 2 Cinéma, Les Productions de la Guéville, Centre National de la Cinématographie (CNC)
+Bazmark Films, Twentieth Century Fox Film Corporation	2.4187100039108576e-05	Bazmark Films, Twentieth Century Fox Film Corporation
+Bedford Falls Productions, Lonely Film Productions GmbH & Co. KG., Virtual Studios, Spring Creek Productions, Warner Bros., Initial Entertainment Group (IEG), Liberty Pictures	0.00015348664469362023	Bedford Falls Productions, Lonely Film Productions GmbH & Co. KG., Virtual Studios, Spring Creek Productions, Warner Bros., Initial Entertainment Group (IEG), Liberty Pictures
+Beijing New Picture Film Co. Ltd., China Film Co-Production Corporation	0.0006116069063747985	Beijing New Picture Film Co. Ltd., China Film Co-Production Corporation
+Beverly Detroit, Propaganda Films, Clinica Estetico, Intermedia, Good Machine, Magnet Productions	2.671044863200141e-05	Beverly Detroit, Propaganda Films, Clinica Estetico, Intermedia, Good Machine, Magnet Productions
+Bésame Mucho Pictures, Producciones Anhelo, The Criterion Collection	5.78869387510745e-05	Bésame Mucho Pictures, Producciones Anhelo, The Criterion Collection
+CJ Entertainment	3.425476028478328e-06	CJ Entertainment
+CJ Entertainment, Studio Box	8.623244054161952e-07	CJ Entertainment, Studio Box
+Café Film, Bonfire	9.54609522509301e-07	Café Film, Bonfire
+Canal Plus, Sogecine, Himenóptero, Eurimages, Televisión Española (TVE), Union Générale Cinématographique (UGC), Televisión de Galicia (TVG) S.A., Ministerio de Cultura, Sogepaq, Eyescreen S.r.l., Filmanova	5.514428465038585e-05	Canal Plus, Sogecine, Himenóptero, Eurimages, Televisión Española (TVE), Union Générale Cinématographique (UGC), Televisión de Galicia (TVG) S.A., Ministerio de Cultura, Sogepaq, Eyescreen S.r.l., Filmanova
+Castle Rock Entertainment, Detour Film Production, Warner Independent Pictures (WIP)	1.8426089253426528e-05	Castle Rock Entertainment, Detour Film Production, Warner Independent Pictures (WIP)
+CoBo Fund, Studio Babelsberg, Motel Films, Motion Investment Group, Egoli Tossell Film AG, Filmförderungsanstalt (FFA), Nederlands Fonds voor de Film, Medienboard Berlin-Brandenburg, uFilm, Le Tax Shelter du Gouvernement Fédéral de Belgique, Fu Works, Hector BV, Media Programme of the European Community, Euroimages Fund of the Council of Europe, VIP 4 Medienfonds, ContentFilm International, Clockwork Pictures	2.760122343427528e-06	CoBo Fund, Studio Babelsberg, Motel Films, Motion Investment Group, Egoli Tossell Film AG, Filmförderungsanstalt (FFA), Nederlands Fonds voor de Film, Medienboard Berlin-Brandenburg, uFilm, Le Tax Shelter du Gouvernement Fédéral de Belgique, Fu Works, Hector BV, Media Programme of the European Community, Euroimages Fund of the Council of Europe, VIP 4 Medienfonds, ContentFilm International, Clockwork Pictures
+Columbia Pictures	0.00017010635266330752	Columbia Pictures
+Columbia Pictures Corporation, Escape Artists, Relativity Media, Overbrook Entertainment	0.0037442969164036334	Columbia Pictures Corporation, Escape Artists, Relativity Media, Overbrook Entertainment
+Columbia Pictures Corporation, Screen Gems, SKA Films	0.00015389267144620884	Columbia Pictures Corporation, Screen Gems, SKA Films
+Columbia Pictures, Laura Ziskin Productions, Marvel Enterprises	0.007484458994747629	Columbia Pictures, Laura Ziskin Productions, Marvel Enterprises
+Columbia Pictures, The Zanuck Company, Jinks/Cohen Company, Tim Burton Productions	7.863702590827056e-05	Columbia Pictures, The Zanuck Company, Jinks/Cohen Company, Tim Burton Productions
+Columbia Pictures, Vinyl Films, DreamWorks Pictures	6.3699038508008866e-06	Columbia Pictures, Vinyl Films, DreamWorks Pictures
+Cruise/Wagner Productions, Warner Bros., Radar Pictures, Bedford Falls Company, The	0.0021602619403059123	Cruise/Wagner Productions, Warner Bros., Radar Pictures, Bedford Falls Company, The
+DC Comics, Legendary Pictures, Warner Bros., DC Entertainment, Syncopy	0.04029045405691946	DC Comics, Legendary Pictures, Warner Bros., DC Entertainment, Syncopy
+DC Comics, Legendary Pictures, Warner Bros., DC Entertainment, Syncopy, Patalex III Productions Limited	0.0008280660384123099	DC Comics, Legendary Pictures, Warner Bros., DC Entertainment, Syncopy, Patalex III Productions Limited
+DNA Films, British Film Council	0.00016278000325945657	DNA Films, British Film Council
+DNA Films, Universal Pictures International (UPI), Film4, A24	2.0553624603654457e-05	DNA Films, Universal Pictures International (UPI), Film4, A24
+Davis-Films, Nouvelles Éditions de Films (NEF), Rising Star, VIP Medienfonds 4, Ikiru Films, Constantin Film Produktion, Castelao Producciones	0.00019453950500414457	Davis-Films, Nouvelles Éditions de Films (NEF), Rising Star, VIP Medienfonds 4, Ikiru Films, Constantin Film Produktion, Castelao Producciones
+Degeto Film, EOS Entertainment, Rai Cinema, Österreichischer Rundfunk (ORF), Constantin Film Produktion, Westdeutscher Rundfunk (WDR), Norddeutscher Rundfunk (NDR)	0.0002864026685362638	Degeto Film, EOS Entertainment, Rai Cinema, Österreichischer Rundfunk (ORF), Constantin Film Produktion, Westdeutscher Rundfunk (WDR), Norddeutscher Rundfunk (NDR)
+Dimension Films, Troublemaker Studios, Miramax	0.0003691881678335283	Dimension Films, Troublemaker Studios, Miramax
+Double Feature Films, Jersey Films, Kernos Filmproduktionsgesellschaft & Company	3.308930216807788e-05	Double Feature Films, Jersey Films, Kernos Filmproduktionsgesellschaft & Company
+DreamWorks	9.336898426997988e-05	DreamWorks
+DreamWorks Animation	0.01433126689857274	DreamWorks Animation
+DreamWorks SKG, Cobalt Media Group, Bisgrove Entertainment	2.453614172316515e-06	DreamWorks SKG, Cobalt Media Group, Bisgrove Entertainment
+DreamWorks SKG, Cruise/Wagner Productions, Amblin Entertainment, Twentieth Century Fox Film Corporation, Blue Tulip Productions, Ronald Shusett/Gary Goldman, Digital Image Associates	0.0023713538973370164	DreamWorks SKG, Cruise/Wagner Productions, Amblin Entertainment, Twentieth Century Fox Film Corporation, Blue Tulip Productions, Ronald Shusett/Gary Goldman, Digital Image Associates
+DreamWorks SKG, MacDonald/Parkes Productions, Sidney Kimmel Entertainment, Neal Street Productions, China Film Co-Production Corporation, Wonderland Films, Participant Media, Ebeling Group, Beijing Happy Pictures Cultural Communications Co., Kite Runner Holdings	0.00020199798239726077	DreamWorks SKG, MacDonald/Parkes Productions, Sidney Kimmel Entertainment, Neal Street Productions, China Film Co-Production Corporation, Wonderland Films, Participant Media, Ebeling Group, Beijing Happy Pictures Cultural Communications Co., Kite Runner Holdings
+DreamWorks SKG, Pacific Data Images (PDI), DreamWorks Animation	0.007376450761458106	DreamWorks SKG, Pacific Data Images (PDI), DreamWorks Animation
+DreamWorks SKG, The Zanuck Company, Twentieth Century Fox Film Corporation	0.0002814617077516729	DreamWorks SKG, The Zanuck Company, Twentieth Century Fox Film Corporation
+DreamWorks SKG, Twentieth Century Fox Film Corporation, Playtone, ImageMovers	0.0037777988120919646	DreamWorks SKG, Twentieth Century Fox Film Corporation, Playtone, ImageMovers
+DreamWorks SKG, Universal Pictures, Amblin Entertainment, Peninsula Films, Alliance Atlantis Communications, Kennedy/Marshall Company, The, Barry Mendel Productions	0.00014713692572909098	DreamWorks SKG, Universal Pictures, Amblin Entertainment, Peninsula Films, Alliance Atlantis Communications, Kennedy/Marshall Company, The, Barry Mendel Productions
+DreamWorks SKG, Universal Pictures, Scott Free Productions, Red Wagon Entertainment, Mill Film, C & L, Dawliz	0.006144090515288481	DreamWorks SKG, Universal Pictures, Scott Free Productions, Red Wagon Entertainment, Mill Film, C & L, Dawliz
+Egg Films, Show East	1.116502458704763e-05	Egg Films, Show East
+El Deseo	1.0436151712224669e-07	El Deseo
+Eon Productions, Stillking Films, Babelsberg Film	0.007522556727557993	Eon Productions, Stillking Films, Babelsberg Film
+Estudios Picasso, Esperanto Filmoj, Tequila Gang	0.00013802030716371697	Estudios Picasso, Esperanto Filmoj, Tequila Gang
+Eurimages, TPS Cinéma, Man's Films, Counihan Villiers Productions, Rai Cinema, Radio Télévision Belge Francophone (RTBF), Télédistributeurs Wallons, Noé Productions, British Screen Finance Ltd, Studio Maj, Fabrica, Foundation Montecinema Verità, The Centre du Cinema et de l'Audiovisuel de la Communauté Française de Belgique, Slovenian Film Fund, Multivision, Canal + Belgique, Fondazione MonteCinemaVerità Locarno, Direction du Développement et de la Coopération (DDC), Département Fédéral des Affaires Etrangères, The European Co-Production Fund Limited	5.814695231186486e-07	Eurimages, TPS Cinéma, Man's Films, Counihan Villiers Productions, Rai Cinema, Radio Télévision Belge Francophone (RTBF), Télédistributeurs Wallons, Noé Productions, British Screen Finance Ltd, Studio Maj, Fabrica, Foundation Montecinema Verità, The Centre du Cinema et de l'Audiovisuel de la Communauté Française de Belgique, Slovenian Film Fund, Multivision, Canal + Belgique, Fondazione MonteCinemaVerità Locarno, Direction du Développement et de la Coopération (DDC), Département Fédéral des Affaires Etrangères, The European Co-Production Fund Limited
+Excel Entertainment	2.21598692803754e-06	Excel Entertainment
+Film It Suda	3.543709553123012e-05	Film It Suda
+Filmax Entertainment, Castelao Producciones, Canal+ España, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), ICF	1.6221177213022789e-06	Filmax Entertainment, Castelao Producciones, Canal+ España, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), ICF
+Fine Line Features, Zentropa Entertainments, Danmarks Radio (DR), SVT Drama, Arte, Memfis Film, France 3 Cinéma, Angel films, TV 1000, Canal+, Constantin Film Produktion, Yleisradio (YLE), Arte France Cinéma, Westdeutscher Rundfunk (WDR), Blind Spot Pictures Oy, Vrijzinnig Protestantse Radio Omroep (VPRO), Film4, Liberator Productions, Icelandic Film, Film i Väst, Pain Unlimited GmbH Filmproduktion, Trust Film Svenska, Cinematograph A/S, What Else? B.V, Filmek A/S, Lantia Cinema & Audiovisivi	3.1830821117744286e-05	Fine Line Features, Zentropa Entertainments, Danmarks Radio (DR), SVT Drama, Arte, Memfis Film, France 3 Cinéma, Angel films, TV 1000, Canal+, Constantin Film Produktion, Yleisradio (YLE), Arte France Cinéma, Westdeutscher Rundfunk (WDR), Blind Spot Pictures Oy, Vrijzinnig Protestantse Radio Omroep (VPRO), Film4, Liberator Productions, Icelandic Film, Film i Väst, Pain Unlimited GmbH Filmproduktion, Trust Film Svenska, Cinematograph A/S, What Else? B.V, Filmek A/S, Lantia Cinema & Audiovisivi
+Fireworks Pictures	3.0331671146307545e-06	Fireworks Pictures
+Flicks Motion Pictures, UTV Motion Pictures	7.428552727047875e-06	Flicks Motion Pictures, UTV Motion Pictures
+Focus Features, Laika Entertainment	0.0001228418877573527	Focus Features, Laika Entertainment
+Fox Searchlight Pictures, Bona Fide Productions, Big Beach Films	0.0004873569007719565	Fox Searchlight Pictures, Bona Fide Productions, Big Beach Films
+Fox Searchlight Pictures, Cowboy Films, DNA Films, Scottish Screen, UK Film Council, Filmfour, Slate Films, Tatfilm	0.00012595178037997374	Fox Searchlight Pictures, Cowboy Films, DNA Films, Scottish Screen, UK Film Council, Filmfour, Slate Films, Tatfilm
+Fox Searchlight Pictures, Michael London Productions, Sideways Productions Inc.	3.142050404051678e-05	Fox Searchlight Pictures, Michael London Productions, Sideways Productions Inc.
+Fox Searchlight Pictures, Mirabai Films	1.2380911653987373e-05	Fox Searchlight Pictures, Mirabai Films
+Fox Searchlight Pictures, Room 9 Entertainment	3.3086991488846904e-05	Fox Searchlight Pictures, Room 9 Entertainment
+France 3 Cinéma, Claudie Ossard Productions, MMC Independent, Canal+, Tapioca Films, Sofica Sofinergie 5, Victoires Productions, Filmstiftung Nordrhein-Westfalen, Union Générale Cinématographique (UGC)	0.0008095457513686823	France 3 Cinéma, Claudie Ossard Productions, MMC Independent, Canal+, Tapioca Films, Sofica Sofinergie 5, Victoires Productions, Filmstiftung Nordrhein-Westfalen, Union Générale Cinématographique (UGC)
+France 3 Cinéma, The Kennedy/Marshall Company, Pathé Renn Productions, Banques Populaire Image 7, Canal+, CinéCinéma, C.R.R.A.V. Nord Pas de Calais, Région Nord-Pas-de-Calais	3.3801508139440195e-06	France 3 Cinéma, The Kennedy/Marshall Company, Pathé Renn Productions, Banques Populaire Image 7, Canal+, CinéCinéma, C.R.R.A.V. Nord Pas de Calais, Région Nord-Pas-de-Calais
+Gaumont, Disneynature, BBC	0.00017896072554839882	Gaumont, Disneynature, BBC
+Gerber Pictures, 2003 Productions, TF1 Films Production, Canal+, Warner Bros., Région Ile-de-France, Tapioca Films, Centre National de la Cinématographie (CNC), Région Bretagne, Région Poitou-Charentes	0.000726715044069031	Gerber Pictures, 2003 Productions, TF1 Films Production, Canal+, Warner Bros., Région Ile-de-France, Tapioca Films, Centre National de la Cinématographie (CNC), Région Bretagne, Région Poitou-Charentes
+HBO	0.002476860940248158	HBO
+Icon Productions, Icon Entertainment International, Touchstone Pictures	0.000395670127277685	Icon Productions, Icon Entertainment International, Touchstone Pictures
+Imagine Entertainment, DreamWorks SKG, Universal Pictures	0.002471740609740724	Imagine Entertainment, DreamWorks SKG, Universal Pictures
+Imagine Entertainment, Universal Pictures, 40 Acres & A Mule Filmworks	0.0013866434595002186	Imagine Entertainment, Universal Pictures, 40 Acres & A Mule Filmworks
+Ingenious Film Partners, Ingenious Media, Dune Entertainment, Fox 2000 Pictures, Big Screen Productions, Haishang Films	0.00884653382886418	Ingenious Film Partners, Ingenious Media, Dune Entertainment, Fox 2000 Pictures, Big Screen Productions, Haishang Films
+Ingenious Film Partners, Les Films Alain Sarde, UK Film Council, Inside Track 1, Thin Man Films, National Lottery through UK Film Council, Inside Track Productions, Film Council Premiere Fund, Untitled 03	1.624963020270343e-05	Ingenious Film Partners, Les Films Alain Sarde, UK Film Council, Inside Track 1, Thin Man Films, National Lottery through UK Film Council, Inside Track Productions, Film Council Premiere Fund, Untitled 03
+Jerry Bruckheimer Films, Revolution Studios, Scott Free Productions	0.00016793106215989086	Jerry Bruckheimer Films, Revolution Studios, Scott Free Productions
+Kemp Company, Splendid Pictures, Parkes/MacDonald Productions	0.005977743133879708	Kemp Company, Splendid Pictures, Parkes/MacDonald Productions
+Lakeshore Entertainment, Malpaso Productions, Epsilon Motion Pictures, Warner Bros., Albert S. Ruddy Productions	0.0022026190451240623	Lakeshore Entertainment, Malpaso Productions, Epsilon Motion Pictures, Warner Bros., Albert S. Ruddy Productions
+Les Films Alain Sarde, StudioCanal, Rasta Film, Rasta Films	4.5559571958988145e-06	Les Films Alain Sarde, StudioCanal, Rasta Film, Rasta Films
+Les Films Alain Sarde, Thin Man Films	7.58921778472245e-06	Les Films Alain Sarde, Thin Man Films
+Likely Story	0.00011709270050051166	Likely Story
+Lions Gate Films, Edward R. Pressman Film, Muse Productions	2.9368530928135685e-05	Lions Gate Films, Edward R. Pressman Film, Muse Productions
+Lions Gate Films, Twisted Pictures, Evolution Entertainment, Saw Productions Inc.	0.00034859327996097754	Lions Gate Films, Twisted Pictures, Evolution Entertainment, Saw Productions Inc.
+Lions Gate Films, United Artists, Industrial Development Corporation of South Africa, Endgame Entertainment, Miracle Pictures, Sixth Sense Productions, Mikado Film, Inside Track Films	4.769485503799116e-07	Lions Gate Films, United Artists, Industrial Development Corporation of South Africa, Endgame Entertainment, Miracle Pictures, Sixth Sense Productions, Mikado Film, Inside Track Films
+Lionsgate, Blackfriars Bridge Films, Yari Film Group, Bob Yari Productions, ApolloProScreen Filmproduktion, Bull's Eye Entertainment, DEJ Productions, Harris Company	0.0003958973098207316	Lionsgate, Blackfriars Bridge Films, Yari Film Group, Bob Yari Productions, ApolloProScreen Filmproduktion, Bull's Eye Entertainment, DEJ Productions, Harris Company
+Lucasfilm	0.017371387306084916	Lucasfilm
+M&M Productions	1.687427586267947e-06	M&M Productions
+Mandate Pictures, Three Strange Angels	2.547226185909472e-05	Mandate Pictures, Three Strange Angels
+Matila Röhr Productions (MRP), Film i Skåne, Omega Film & Television	1.172232306950713e-06	Matila Röhr Productions (MRP), Film i Skåne, Omega Film & Television
+Michael London Productions, Stillking Films, Bob Yari Productions, Bull's Eye Entertainment, Contagious Entertainment	8.47532246917648e-05	Michael London Productions, Stillking Films, Bob Yari Productions, Bull's Eye Entertainment, Contagious Entertainment
+Mikona Productions GmbH & Co. KG, Universal Pictures, Intermedia Films, Saturn Films, Dirty Hands Productions	5.8464326665448e-06	Mikona Productions GmbH & Co. KG, Universal Pictures, Intermedia Films, Saturn Films, Dirty Hands Productions
+Miramax Films, A Band Apart, Super Cool ManChu	0.0016761946557686549	Miramax Films, A Band Apart, Super Cool ManChu
+Miramax Films, Appian Way, Forward Pass, Cappa Productions, Warner Bros., Initial Entertainment Group (IEG), IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG, Mel's Cite du Cinema	3.0402408650832636e-05	Miramax Films, Appian Way, Forward Pass, Cappa Productions, Warner Bros., Initial Entertainment Group (IEG), IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG, Mel's Cite du Cinema
+Miramax Films, Film Colony	0.0005216761933138607	Miramax Films, Film Colony
+Miramax Films, Ghoulardi Film Company, Paramount Vantage	0.00020896572693482755	Miramax Films, Ghoulardi Film Company, Paramount Vantage
+Miramax Films, Imagine Entertainment, Universal Pictures, Parkway Pictures (I), Touchstone Pictures	1.692315586854393e-05	Miramax Films, Imagine Entertainment, Universal Pictures, Parkway Pictures (I), Touchstone Pictures
+Miramax Films, Initial Entertainment Group (IEG), Alberto Grimaldi Productions	0.00022084358232073972	Miramax Films, Initial Entertainment Group (IEG), Alberto Grimaldi Productions
+Miramax Films, Scott Rudin Productions, Paramount Vantage, Mike Zoss Productions	0.001368799342011783	Miramax Films, Scott Rudin Productions, Paramount Vantage, Mike Zoss Productions
+Miramax Films, The Ladd Company	1.4253459996969476e-05	Miramax Films, The Ladd Company
+Muse Entertainment Enterprises, For Sale Productions (Muse), RHI Entertainment	1.8264212406894157e-05	Muse Entertainment Enterprises, For Sale Productions (Muse), RHI Entertainment
+Naya Films S.A., Patagonik Film Group	1.6193596850320937e-07	Naya Films S.A., Patagonik Film Group
+New Line Cinema	0.0002980939969570485	New Line Cinema
+New Line Cinema, FilmEngine, Katalyst Films, BenderSpink, Province of British Columbia Production Services Tax Credit	0.00023671403401585443	New Line Cinema, FilmEngine, Katalyst Films, BenderSpink, Province of British Columbia Production Services Tax Credit
+New Line Cinema, Standard Film Company, Bona Fide Productions	8.890856813889859e-06	New Line Cinema, Standard Film Company, Bona Fide Productions
+New Zealand Film Commission, 2929 Productions, OLC / Rights Entertainment, Tanlay, New Zealand Film Production Fund, 3 Dogs and a Pony, Park Road Post, WFI Productions Ltd.	8.481763161219601e-05	New Zealand Film Commission, 2929 Productions, OLC / Rights Entertainment, Tanlay, New Zealand Film Production Fund, 3 Dogs and a Pony, Park Road Post, WFI Productions Ltd.
+Next Wednesday Productions, SenArt Films	3.735382318927451e-06	Next Wednesday Productions, SenArt Films
+Nippon Shuppan Hanbai (Nippan) K.K., GAGA, WoWow, AM Associates, Kobi Co., MF Pictures	1.8161646554866142e-05	Nippon Shuppan Hanbai (Nippan) K.K., GAGA, WoWow, AM Associates, Kobi Co., MF Pictures
+O2 Filmes, VideoFilmes, Wild Bunch, Globo filmes, Lumiere, Hank Levine Film, Lereby Productions	3.758758447521206e-05	O2 Filmes, VideoFilmes, Wild Bunch, Globo filmes, Lumiere, Hank Levine Film, Lereby Productions
+Pandora Cinema, Twentieth Century Fox Film Corporation, Flower Films, Adam Fields Productions	8.365010197838505e-07	Pandora Cinema, Twentieth Century Fox Film Corporation, Flower Films, Adam Fields Productions
+Paramount Pictures, DC Comics, Lawrence Gordon Productions, Legendary Pictures, Warner Bros., Cruel and Unusual Films	9.153584341620058e-05	Paramount Pictures, DC Comics, Lawrence Gordon Productions, Legendary Pictures, Warner Bros., Cruel and Unusual Films
+Paramount Pictures, DreamWorks SKG, Parkes/MacDonald Productions, Edge City	0.0010393922401761941	Paramount Pictures, DreamWorks SKG, Parkes/MacDonald Productions, Edge City
+Paramount Pictures, Marvel Studios	0.007727062640354834	Paramount Pictures, Marvel Studios
+Paramount Pictures, Miramax Films, Scott Rudin Productions	1.5706748662720344e-05	Paramount Pictures, Miramax Films, Scott Rudin Productions
+Paramount Pictures, Swanford Films, Mandalay Pictures, Little Bird, KC Medien, Reperage, DOS, MP Film Management	2.8565002028119336e-05	Paramount Pictures, Swanford Films, Mandalay Pictures, Little Bird, KC Medien, Reperage, DOS, MP Film Management
+Paramount Pictures, Warner Bros., Kennedy/Marshall Company, The	0.0013468706128934138	Paramount Pictures, Warner Bros., Kennedy/Marshall Company, The
+Paramount Pictures, Warner Bros., Phoenix Pictures	1.3259826941458941e-05	Paramount Pictures, Warner Bros., Phoenix Pictures
+Paramount Vantage, Media Rights Capital, Anonymous Content, Central Films	0.0006480959368055161	Paramount Vantage, Media Rights Capital, Anonymous Content, Central Films
+Patalex IV Productions Limited, Warner Bros., Heyday Films	0.0005087464118710874	Patalex IV Productions Limited, Warner Bros., Heyday Films
+Pixar Animation Studios	0.07276392943411983	Pixar Animation Studios
+Plan B Entertainment, Virtual Studios, Scott Free Productions, Alberta Film Entertainment, Warner Bros., Jesse Films Inc.	2.3662184777693138e-05	Plan B Entertainment, Virtual Studios, Scott Free Productions, Alberta Film Entertainment, Warner Bros., Jesse Films Inc.
+Playtone, HBO, DreamWorks Television	0.0009250122196765438	Playtone, HBO, DreamWorks Television
+Pyramide Productions, Cinémaginaire Inc., Téléfilm Canada, The Harold Greenberg Fund, Astral Films, Canal+, Société Radio-Canada, Société de Développement des Entreprises Culturelles (SODEC), Centre National de la Cinématographie (CNC)	1.3026128649090907e-06	Pyramide Productions, Cinémaginaire Inc., Téléfilm Canada, The Harold Greenberg Fund, Astral Films, Canal+, Société Radio-Canada, Société de Développement des Entreprises Culturelles (SODEC), Centre National de la Cinématographie (CNC)
+Regency Enterprises, Fox 2000 Pictures, Epsilon Motion Pictures, Scott Free Productions, New Regency Pictures	0.00010889812905375772	Regency Enterprises, Fox 2000 Pictures, Epsilon Motion Pictures, Scott Free Productions, New Regency Pictures
+River Road Entertainment, Alberta Film Entertainment, Focus Features, Good Machine	0.0017231487407103443	River Road Entertainment, Alberta Film Entertainment, Focus Features, Good Machine
+Saturn Films, Ascendant Pictures, Endgame Entertainment, Entertainment Manufacturing Company, Rising Star, Copag V	2.9653289015245623e-05	Saturn Films, Ascendant Pictures, Endgame Entertainment, Entertainment Manufacturing Company, Rising Star, Copag V
+Senator Film Produktion, Media Pro Pictures, TF1 Films Production, Nord-Ouest Productions, The Bureau, Artémis Productions, Les Productions de la Guéville	6.969017730535834e-07	Senator Film Produktion, Media Pro Pictures, TF1 Films Production, Nord-Ouest Productions, The Bureau, Artémis Productions, Les Productions de la Guéville
+Shochiku Company	2.1005330943242095e-06	Shochiku Company
+Sidus Pictures, CJ Entertainment, Muhan Investment	9.931404596637657e-08	Sidus Pictures, CJ Entertainment, Muhan Investment
+Silver Pictures, Warner Bros.	1.7825914801632858e-06	Silver Pictures, Warner Bros.
+Sony Pictures Classics, China Film Co-Production Corporation, Columbia Pictures Film Production Asia, Good Machine, EDKO Film, Asia Union Film & Entertainment Ltd., United China Vision, Zoom Hunt International Productions Company Ltd.	0.0015030663933909459	Sony Pictures Classics, China Film Co-Production Corporation, Columbia Pictures Film Production Asia, Good Machine, EDKO Film, Asia Union Film & Entertainment Ltd., United China Vision, Zoom Hunt International Productions Company Ltd.
+Sony Pictures Classics, Production Champion, Vivi Film	1.8590574829028067e-06	Sony Pictures Classics, Production Champion, Vivi Film
+South Pacific Pictures	4.1397363355569954e-05	South Pacific Pictures
+Spyglass Entertainment, World 2000 Entertainment, Count of Monte Cristo Ltd., Touchstone Pictures	5.9344973899581666e-05	Spyglass Entertainment, World 2000 Entertainment, Count of Monte Cristo Ltd., Touchstone Pictures
+Studio Babelsberg, DC Comics, Virtual Studios, Anarchos Productions, Silver Pictures, Warner Bros., Medienboard Berlin-Brandenburg, Fünfte Babelsberg Film	0.00012261087274031762	Studio Babelsberg, DC Comics, Virtual Studios, Anarchos Productions, Silver Pictures, Warner Bros., Medienboard Berlin-Brandenburg, Fünfte Babelsberg Film
+Studio Ghibli	0.0029432324731063393	Studio Ghibli
+Studio Ghibli, Buena Vista Home Entertainment, Mitsubishi, d-rights, Tohokushinsha Film Corporation	0.0008759339578051916	Studio Ghibli, Buena Vista Home Entertainment, Mitsubishi, d-rights, Tohokushinsha Film Corporation
+Summit Entertainment, Newmarket Capital Group, Team Todd, I Remember Productions	2.783446145996535e-05	Summit Entertainment, Newmarket Capital Group, Team Todd, I Remember Productions
+The Weinstein Company, FilmEngine, Capitol Films, Ascendant Pictures, VIP Medienfonds 4, The Complex Studio	2.7814151342363366e-05	The Weinstein Company, FilmEngine, Capitol Films, Ascendant Pictures, VIP Medienfonds 4, The Complex Studio
+The Weinstein Company, Harpo Films, Marshall Production	2.0440392938361117e-05	The Weinstein Company, Harpo Films, Marshall Production
+This Is That Productions, Y Productions, Mediana Productions Filmgesellschaft	4.7789064273548e-05	This Is That Productions, Y Productions, Mediana Productions Filmgesellschaft
+Touchstone Pictures	0.00017425047503467203	Touchstone Pictures
+Tree Line Films, Konrad Pictures, Catfish Productions, Fox 2000 Pictures, Mars Media Beteiligungs	2.2808213411305445e-05	Tree Line Films, Konrad Pictures, Catfish Productions, Fox 2000 Pictures, Mars Media Beteiligungs
+Tree Line Films, Lionsgate, Relativity Media, Yuma	1.0723353742165482e-05	Tree Line Films, Lionsgate, Relativity Media, Yuma
+Twentieth Century Fox Film Corporation, Blue Sky Studios, Twentieth Century Fox Animation	0.0022483101419419897	Twentieth Century Fox Film Corporation, Blue Sky Studios, Twentieth Century Fox Animation
+Twentieth Century Fox Film Corporation, Regency Enterprises, Indian Paintbrush, American Empirical Pictures	4.851898326050552e-06	Twentieth Century Fox Film Corporation, Regency Enterprises, Indian Paintbrush, American Empirical Pictures
+USA Films, Initial Entertainment Group (IEG), Bedford Falls Company, The, Compulsion Inc., Splendid Medien AG	0.0022062477993202282	USA Films, Initial Entertainment Group (IEG), Bedford Falls Company, The, Compulsion Inc., Splendid Medien AG
+UTV Motion Pictures, Ashutosh Gowariker Productions Pvt. Ltd.	1.2230707882467827e-06	UTV Motion Pictures, Ashutosh Gowariker Productions Pvt. Ltd.
+Universal Pictures, A Band Apart, The Weinstein Company, Zehnte Babelsberg, Visiona Romantica	0.0025356155594042796	Universal Pictures, A Band Apart, The Weinstein Company, Zehnte Babelsberg, Visiona Romantica
+Universal Pictures, Barry Mendel Productions	1.1948587630641623e-06	Universal Pictures, Barry Mendel Productions
+Universal Pictures, Big Talk Productions, StudioCanal, Film4, Working Title Films, WT2 Productions, De Wolfe Music, Inside Track 2	2.5705356894579738e-05	Universal Pictures, Big Talk Productions, StudioCanal, Film4, Working Title Films, WT2 Productions, De Wolfe Music, Inside Track 2
+Universal Pictures, Big Talk Productions, StudioCanal, GAGA, Working Title Films	0.00014263713520643989	Universal Pictures, Big Talk Productions, StudioCanal, GAGA, Working Title Films
+Universal Pictures, Bristol Bay Productions, Baldwin Entertainment Group, Anvil Films	0.000452013968199877	Universal Pictures, Bristol Bay Productions, Baldwin Entertainment Group, Anvil Films
+Universal Pictures, DNA Films, StudioCanal, Working Title Films	0.0016514570235333257	Universal Pictures, DNA Films, StudioCanal, Working Title Films
+Universal Pictures, Kennedy/Marshall Company, The, Hypnotic, Kalima Productions GmbH & Co. KG, Stillking Films	0.0008095682224889509	Universal Pictures, Kennedy/Marshall Company, The, Hypnotic, Kalima Productions GmbH & Co. KG, Stillking Films
+Universal Pictures, Marc Platt Productions	1.4529136633353685e-05	Universal Pictures, Marc Platt Productions
+Universal Pictures, Mike Zoss Productions, Studio Canal, Touchstone Pictures, Working Title Films	0.00012136497359834067	Universal Pictures, Mike Zoss Productions, Studio Canal, Touchstone Pictures, Working Title Films
+Universal Pictures, Strike Entertainment, Hit & Run Productions	3.8117388199716562e-06	Universal Pictures, Strike Entertainment, Hit & Run Productions
+Universal Pictures, StudioCanal, Scion Films, Focus Features, Working Title Films	0.0005892713901287285	Universal Pictures, StudioCanal, Scion Films, Focus Features, Working Title Films
+Universal Pictures, StudioCanal, Sidney Kimmel Entertainment, Working Title Films	0.00010615398192800604	Universal Pictures, StudioCanal, Sidney Kimmel Entertainment, Working Title Films
+Universal Pictures, The Kennedy/Marshall Company, Hypnotic, Motion Picture THETA Produktionsgesellschaft, Ludlum Entertainment	0.002913285262476043	Universal Pictures, The Kennedy/Marshall Company, Hypnotic, Motion Picture THETA Produktionsgesellschaft, Ludlum Entertainment
+Universal Pictures, The Kennedy/Marshall Company, Ludlum Entertainment, Motion Picture BETA Produktionsgesellschaft, Bourne Again	0.008524319095888714	Universal Pictures, The Kennedy/Marshall Company, Ludlum Entertainment, Motion Picture BETA Produktionsgesellschaft, Bourne Again
+Universal Pictures, Twentieth Century Fox Film Corporation, Samuel Goldwyn Films, Miramax	7.897470590806661e-05	Universal Pictures, Twentieth Century Fox Film Corporation, Samuel Goldwyn Films, Miramax
+V.I.P. Films	3.756066832033273e-05	V.I.P. Films
+Vertigo Entertainment, Media Asia Films, Warner Bros., Initial Entertainment Group (IEG), Plan B Entertainment	0.002170414300763468	Vertigo Entertainment, Media Asia Films, Warner Bros., Initial Entertainment Group (IEG), Plan B Entertainment
+Village Roadshow Pictures, Malpaso Productions, NPV Entertainment, Warner Bros.	0.0006164017690892552	Village Roadshow Pictures, Malpaso Productions, NPV Entertainment, Warner Bros.
+Village Roadshow Pictures, NPV Entertainment, Warner Bros., Outlaw Productions (I), WV Films II	0.00010827444418684658	Village Roadshow Pictures, NPV Entertainment, Warner Bros., Outlaw Productions (I), WV Films II
+Village Roadshow Pictures, Section Eight, NPV Entertainment, Jerry Weintraub Productions, Warner Bros., WV Films II	0.011183890408325771	Village Roadshow Pictures, Section Eight, NPV Entertainment, Jerry Weintraub Productions, Warner Bros., WV Films II
+Virtual Studios, Legendary Pictures, Hollywood Gang Productions, Atmosphere Entertainment MM, Warner Bros., Nimar Studios, Cruel and Unusual Films	0.005662698666991167	Virtual Studios, Legendary Pictures, Hollywood Gang Productions, Atmosphere Entertainment MM, Warner Bros., Nimar Studios, Cruel and Unusual Films
+Vía Digital, Good Machine, El Deseo S.A., Antena 3 Televisión	0.00013996650365967792	Vía Digital, Good Machine, El Deseo S.A., Antena 3 Televisión
+WDR, Arte, X-Filme Creative Pool	1.1267679190611976e-07	WDR, Arte, X-Filme Creative Pool
+Walt Disney	4.41968554844463e-05	Walt Disney
+Walt Disney Pictures, Jerry Bruckheimer Films	0.0069343808252678675	Walt Disney Pictures, Jerry Bruckheimer Films
+Walt Disney Pictures, Jerry Bruckheimer Films, Technical Black, Run It Up Productions Inc.	0.0006742751058250653	Walt Disney Pictures, Jerry Bruckheimer Films, Technical Black, Run It Up Productions Inc.
+Walt Disney Pictures, Pixar Animation Studios	0.0828784160460033	Walt Disney Pictures, Pixar Animation Studios
+Walt Disney Pictures, Walt Disney Animation Studios	0.006952606111195434	Walt Disney Pictures, Walt Disney Animation Studios
+Warner Bros.	0.00015822620602899757	Warner Bros.
+Warner Bros., Heyday Films	0.036143950615346865	Warner Bros., Heyday Films
+Wild Bunch, Canal+, Buena Vista International Film Production France, Alliance de Production Cinematographique (APC), L'Institut Polare Français Paul-Émile Victor, National Geographic Films, Bonne Pioche	0.0003907440306970265	Wild Bunch, Canal+, Buena Vista International Film Production France, Alliance de Production Cinematographique (APC), L'Institut Polare Français Paul-Émile Victor, National Geographic Films, Bonne Pioche
+WingNut Films, New Line Cinema	0.0011543182757778954	WingNut Films, New Line Cinema
+WingNut Films, New Line Cinema, The Saul Zaentz Company	0.0014891920203158814	WingNut Films, New Line Cinema, The Saul Zaentz Company
+Yash Raj Films	4.1268104003468136e-05	Yash Raj Films
+Zentropa Entertainments, Danmarks Radio (DR), Trollhättan Film AB, Memfis Film, France 3 Cinéma, Sveriges Television (SVT), Yleisradio (YLE), Arte France Cinéma, Slot Machine, Liberator Productions, Nederlandse Programma Stichting (NPS), Isabella Films B.V., WDR / Arte, Film i Väst, Pain Unlimited GmbH Filmproduktion, Something Else B.V., Sigma Films, Zoma Films Ltd., Norsk TV2 AS	5.829941666356278e-06	Zentropa Entertainments, Danmarks Radio (DR), Trollhättan Film AB, Memfis Film, France 3 Cinéma, Sveriges Television (SVT), Yleisradio (YLE), Arte France Cinéma, Slot Machine, Liberator Productions, Nederlandse Programma Stichting (NPS), Isabella Films B.V., WDR / Arte, Film i Väst, Pain Unlimited GmbH Filmproduktion, Something Else B.V., Sigma Films, Zoma Films Ltd., Norsk TV2 AS
