@@ -415,6 +415,9 @@ tt0032976,Rebecca,actor,8.0,Laurence Olivier,130,Selznick International Pictures
 tt0033038,Seven Sinners,actress,7.0,Marlene Dietrich,87,Universal Pictures,-1
 tt0033038,Seven Sinners,actor,7.0,John Wayne,87,Universal Pictures,-1
 tt0033038,Seven Sinners,actor,7.0,Albert Dekker,87,Universal Pictures,-1
+tt0033107,Stranger on the Third Floor,actor,7.0,John McGuire,64,,-1
+tt0033107,Stranger on the Third Floor,actor,7.0,Peter Lorre,64,,-1
+tt0033107,Stranger on the Third Floor,actress,7.0,Margaret Tallichet,64,,-1
 tt0033397,The Black Cat,actor,6.0,Broderick Crawford,70,Universal Pictures,-1
 tt0033397,The Black Cat,actor,6.0,Hugh Herbert,70,Universal Pictures,-1
 tt0033397,The Black Cat,actor,6.0,Basil Rathbone,70,Universal Pictures,-1
@@ -478,6 +481,8 @@ tt0035896,For Whom the Bell Tolls,actor,7.0,Akim Tamiroff,170,Paramount Pictures
 tt0035959,A Guy Named Joe,actor,7.0,Spencer Tracy,120,Metro-Goldwyn-Mayer (MGM),1
 tt0035959,A Guy Named Joe,actor,7.0,Van Johnson,120,Metro-Goldwyn-Mayer (MGM),1
 tt0035959,A Guy Named Joe,actress,7.0,Irene Dunne,120,Metro-Goldwyn-Mayer (MGM),1
+tt0036154,Meshes of the Afternoon,actress,8.0,Maya Deren,14,,-1
+tt0036154,Meshes of the Afternoon,actor,8.0,Alexander Hammid,14,,-1
 tt0036261,Phantom of the Opera,actress,6.0,Susanna Foster,92,Universal Pictures,-1
 tt0036261,Phantom of the Opera,actor,6.0,Nelson Eddy,92,Universal Pictures,-1
 tt0036261,Phantom of the Opera,actor,6.0,Claude Rains,92,Universal Pictures,-1
@@ -581,6 +586,9 @@ tt0040522,Bicycle Thieves,actor,8.0,Enzo Staiola,89,Produzioni De Sica,1
 tt0040525,The Lady from Shanghai,actor,8.0,Everett Sloane,87,"Columbia Pictures Corporation, Mercury Productions",-1
 tt0040525,The Lady from Shanghai,actress,8.0,Rita Hayworth,87,"Columbia Pictures Corporation, Mercury Productions",-1
 tt0040525,The Lady from Shanghai,actor,8.0,Orson Welles,87,"Columbia Pictures Corporation, Mercury Productions",-1
+tt0040550,Louisiana Story,actor,7.0,Lionel Le Blanc,78,,-1
+tt0040550,Louisiana Story,actor,7.0,Joseph Boudreaux,78,,-1
+tt0040550,Louisiana Story,actress,7.0,E. Bienvenu,78,,-1
 tt0040580,Melody Time,actor,6.0,Roy Rogers,75,"RKO Radio Pictures, Walt Disney Productions",-1
 tt0040580,Melody Time,actor,6.0,Trigger,75,"RKO Radio Pictures, Walt Disney Productions",-1
 tt0040597,Miranda,actress,7.0,Googie Withers,80,"Gainsborough Pictures, Sydney Box Productions",0
@@ -641,6 +649,9 @@ tt0042200,Annie Get Your Gun,actor,7.0,Louis Calhern,107,Metro-Goldwyn-Mayer (MG
 tt0042200,Annie Get Your Gun,actor,7.0,Howard Keel,107,Metro-Goldwyn-Mayer (MGM),1
 tt0042332,Cinderella,actor,7.0,James MacDonald,74,"RKO Radio Pictures, Walt Disney Productions",89
 tt0042332,Cinderella,actress,7.0,Ilene Woods,74,"RKO Radio Pictures, Walt Disney Productions",89
+tt0042384,Day of the Fight,self,6.0,Nat Fleischer,16,,-1
+tt0042384,Day of the Fight,self,6.0,Douglas Edwards,16,,-1
+tt0042384,Day of the Fight,self,6.0,Walter Cartier,16,,-1
 tt0042876,Rashomon,actor,8.0,Masayuki Mori,88,Daiei Motion Picture Company,0
 tt0042876,Rashomon,actress,8.0,Machiko Kyô,88,Daiei Motion Picture Company,0
 tt0042876,Rashomon,actor,8.0,Toshirô Mifune,88,Daiei Motion Picture Company,0
@@ -685,6 +696,8 @@ tt0044081,A Streetcar Named Desire,actress,8.0,Vivien Leigh,122,"Charles K. Feld
 tt0044081,A Streetcar Named Desire,actor,8.0,Marlon Brando,122,"Charles K. Feldman Group, Warner Bros.",3
 tt0044091,Superman and the Mole-Men,actress,6.0,Phyllis Coates,58,Lippert Pictures,-1
 tt0044091,Superman and the Mole-Men,actor,6.0,George Reeves,58,Lippert Pictures,-1
+tt0044177,Valentino,actor,6.0,Richard Carlson,102,,0
+tt0044177,Valentino,actress,6.0,Eleanor Parker,102,,0
 tt0044320,Abbott and Costello Meet Captain Kidd,actor,6.0,Lou Costello,70,Warner Bros.,-1
 tt0044320,Abbott and Costello Meet Captain Kidd,actor,6.0,Charles Laughton,70,Warner Bros.,-1
 tt0044320,Abbott and Costello Meet Captain Kidd,actor,6.0,Bud Abbott,70,Warner Bros.,-1
@@ -725,6 +738,9 @@ tt0045758,Fear and Desire,actor,5.0,Kenneth Harp,62,Stanley Kubrick Productions,
 tt0045793,From Here to Eternity,actress,8.0,Deborah Kerr,118,Columbia Pictures Corporation,17
 tt0045793,From Here to Eternity,actor,8.0,Burt Lancaster,118,Columbia Pictures Corporation,17
 tt0045793,From Here to Eternity,actor,8.0,Montgomery Clift,118,Columbia Pictures Corporation,17
+tt0045827,The Glory Brigade,actor,6.0,Lee Marvin,82,,-1
+tt0045827,The Glory Brigade,actor,6.0,Victor Mature,82,,-1
+tt0045827,The Glory Brigade,actor,6.0,Alexander Scourby,82,,-1
 tt0045888,House of Wax,actor,7.0,Vincent Price,88,"Bryan Foy Productions, Warner Bros.",35
 tt0045888,House of Wax,actress,7.0,Phyllis Kirk,88,"Bryan Foy Productions, Warner Bros.",35
 tt0045888,House of Wax,actor,7.0,Frank Lovejoy,88,"Bryan Foy Productions, Warner Bros.",35
@@ -1069,6 +1085,9 @@ tt0053793,Elmer Gantry,actor,8.0,Arthur Kennedy,146,United Artists,2
 tt0053804,Exodus,actress,7.0,Eva Marie Saint,208,Carlyle Productions,4
 tt0053804,Exodus,actor,7.0,Paul Newman,208,Carlyle Productions,4
 tt0053804,Exodus,actor,7.0,Ralph Richardson,208,Carlyle Productions,4
+tt0053850,Gangster Story,actor,5.0,Walter Matthau,65,,-1
+tt0053850,Gangster Story,actor,5.0,Bruce MacFarlane,65,,-1
+tt0053850,Gangster Story,actress,5.0,Carol Grace,65,,-1
 tt0053925,House of Usher,actress,7.0,Myrna Fahey,79,Alta Vista Productions,4
 tt0053925,House of Usher,actor,7.0,Mark Damon,79,Alta Vista Productions,4
 tt0053925,House of Usher,actor,7.0,Vincent Price,79,Alta Vista Productions,4
@@ -1110,6 +1129,11 @@ tt0054462,The Wasp Woman,actor,5.0,Anthony Eisley,63,"Film Group Feature, Santa 
 tt0054698,Breakfast at Tiffany's,actress,8.0,Audrey Hepburn,115,"Paramount Pictures, Jurow-Shepherd",2
 tt0054698,Breakfast at Tiffany's,actor,8.0,George Peppard,115,"Paramount Pictures, Jurow-Shepherd",2
 tt0054698,Breakfast at Tiffany's,actress,8.0,Patricia Neal,115,"Paramount Pictures, Jurow-Shepherd",2
+tt0054763,The Connection,actor,7.0,William Redfield,110,,-1
+tt0054763,The Connection,actor,7.0,Warren Finnerty,110,,-1
+tt0054763,The Connection,actor,7.0,Garry Goodrow,110,,-1
+tt0054880,Flaming Creatures,self,5.0,Francis Francine,45,,-1
+tt0054880,Flaming Creatures,actor,5.0,Joel Markman,45,,-1
 tt0054953,The Guns of Navarone,actor,8.0,David Niven,158,"Columbia Pictures, Highroad Productions",3
 tt0054953,The Guns of Navarone,actor,8.0,Anthony Quinn,158,"Columbia Pictures, Highroad Productions",3
 tt0054953,The Guns of Navarone,actor,8.0,Gregory Peck,158,"Columbia Pictures, Highroad Productions",3
@@ -1198,6 +1222,9 @@ tt0056255,Mr. Hobbs Takes a Vacation,actor,7.0,James Stewart,116,Twentieth Centu
 tt0056264,Mutiny on the Bounty,actor,7.0,Marlon Brando,178,"Metro-Goldwyn-Mayer (MGM), Arcola Pictures",0
 tt0056264,Mutiny on the Bounty,actor,7.0,Richard Harris,178,"Metro-Goldwyn-Mayer (MGM), Arcola Pictures",0
 tt0056264,Mutiny on the Bounty,actor,7.0,Trevor Howard,178,"Metro-Goldwyn-Mayer (MGM), Arcola Pictures",0
+tt0056389,The Four Days of Naples,actor,8.0,Charles Belmont,120,,-1
+tt0056389,The Four Days of Naples,actor,8.0,Raffaele Barbato,120,,-1
+tt0056389,The Four Days of Naples,actress,8.0,Regina Bianchi,120,,-1
 tt0056412,Ride the High Country,actor,7.0,Joel McCrea,94,Metro-Goldwyn-Mayer (MGM),-1
 tt0056412,Ride the High Country,actress,7.0,Mariette Hartley,94,Metro-Goldwyn-Mayer (MGM),-1
 tt0056412,Ride the High Country,actor,7.0,Randolph Scott,94,Metro-Goldwyn-Mayer (MGM),-1
@@ -1216,6 +1243,9 @@ tt0056687,What Ever Happened to Baby Jane?,actress,8.0,Joan Crawford,134,"Seven 
 tt0056800,55 Days at Peking,actress,7.0,Ava Gardner,154,"Allied Artists Pictures, Samuel Bronston Productions",0
 tt0056800,55 Days at Peking,actor,7.0,David Niven,154,"Allied Artists Pictures, Samuel Bronston Productions",0
 tt0056800,55 Days at Peking,actor,7.0,Charlton Heston,154,"Allied Artists Pictures, Samuel Bronston Productions",0
+tt0056819,The Human Dutch,actor,8.0,Peter Ustinov,90,,-1
+tt0056819,The Human Dutch,actor,8.0,Simon Carmiggelt,90,,-1
+tt0056819,The Human Dutch,actor,8.0,Bert Haanstra,90,,-1
 tt0056869,The Birds,actor,8.0,Rod Taylor,119,Alfred J. Hitchcock Productions,3
 tt0056869,The Birds,actress,8.0,Jessica Tandy,119,Alfred J. Hitchcock Productions,3
 tt0056869,The Birds,actress,8.0,Tippi Hedren,119,Alfred J. Hitchcock Productions,3
@@ -1256,6 +1286,8 @@ tt0057193,It's a Mad Mad Mad Mad World,actor,8.0,Milton Berle,210,"United Artist
 tt0057197,Jason and the Argonauts,actress,7.0,Nancy Kovack,104,"Columbia Pictures Corporation, Morningside Productions, The Criterion Collection",-1
 tt0057197,Jason and the Argonauts,actor,7.0,Todd Armstrong,104,"Columbia Pictures Corporation, Morningside Productions, The Criterion Collection",-1
 tt0057197,Jason and the Argonauts,actor,7.0,Gary Raymond,104,"Columbia Pictures Corporation, Morningside Productions, The Criterion Collection",-1
+tt0057212,13 Assassins,actor,7.0,Kôtarô Satomi,125,,-1
+tt0057212,13 Assassins,actor,7.0,Chiezô Kataoka,125,,-1
 tt0057261,Lord of the Flies,actor,7.0,Tom Chapin,92,Two Arts Ltd.,-1
 tt0057261,Lord of the Flies,actor,7.0,Hugh Edwards,92,Two Arts Ltd.,-1
 tt0057261,Lord of the Flies,actor,7.0,James Aubrey,92,Two Arts Ltd.,-1
@@ -1483,6 +1515,9 @@ tt0061420,The Born Losers,actor,6.0,Jeremy Slate,113,"Fanfare Films, American In
 tt0061452,Casino Royale,actor,5.0,Peter Sellers,131,"Columbia Pictures Corporation, Famous Artists Productions",2
 tt0061452,Casino Royale,actor,5.0,David Niven,131,"Columbia Pictures Corporation, Famous Artists Productions",2
 tt0061452,Casino Royale,actress,5.0,Ursula Andress,131,"Columbia Pictures Corporation, Famous Artists Productions",2
+tt0061465,Chelsea Girls,self,6.0,Brigid Berlin,210,,-1
+tt0061465,Chelsea Girls,self,6.0,Christian Päffgen,210,,-1
+tt0061465,Chelsea Girls,self,6.0,Randy Borscheidt,210,,-1
 tt0061512,Cool Hand Luke,actor,8.0,Strother Martin,127,"Warner Bros., Jalem Productions",4
 tt0061512,Cool Hand Luke,actor,8.0,George Kennedy,127,"Warner Bros., Jalem Productions",4
 tt0061512,Cool Hand Luke,actor,8.0,Paul Newman,127,"Warner Bros., Jalem Productions",4
@@ -1662,6 +1697,9 @@ tt0064373,All Monsters Attack,actor,4.0,Tomonori Yazaki,70,Toho Company,-1
 tt0064382,"Goodbye, Mr. Chips",actor,7.0,Michael Redgrave,155,"Metro-Goldwyn-Mayer (MGM), APJAC Productions",-1
 tt0064382,"Goodbye, Mr. Chips",actor,7.0,Peter O'Toole,155,"Metro-Goldwyn-Mayer (MGM), APJAC Productions",-1
 tt0064382,"Goodbye, Mr. Chips",actress,7.0,Petula Clark,155,"Metro-Goldwyn-Mayer (MGM), APJAC Productions",-1
+tt0064406,Hard Contract,actress,6.0,Lee Remick,106,,0
+tt0064406,Hard Contract,actor,6.0,James Coburn,106,,0
+tt0064406,Hard Contract,actress,6.0,Lilli Palmer,106,,0
 tt0064418,"Hello, Dolly!",actor,7.0,Walter Matthau,146,"Twentieth Century Fox Film Corporation, Chenault Productions",0
 tt0064418,"Hello, Dolly!",actress,7.0,Barbra Streisand,146,"Twentieth Century Fox Film Corporation, Chenault Productions",0
 tt0064418,"Hello, Dolly!",actor,7.0,Michael Crawford,146,"Twentieth Century Fox Film Corporation, Chenault Productions",0
@@ -1674,6 +1712,8 @@ tt0064615,Mackenna's Gold,actor,7.0,Omar Sharif,128,"Columbia Pictures Corporati
 tt0064665,Midnight Cowboy,actress,8.0,Sylvia Miles,113,"United Artists, Florin Productions, Jerome Hellman Productions",11
 tt0064665,Midnight Cowboy,actor,8.0,Dustin Hoffman,113,"United Artists, Florin Productions, Jerome Hellman Productions",11
 tt0064665,Midnight Cowboy,actor,8.0,Jon Voight,113,"United Artists, Florin Productions, Jerome Hellman Productions",11
+tt0064683,Mondo Trasho,actor,6.0,Divine,95,,-1
+tt0064683,Mondo Trasho,actress,6.0,Mary Vivian Pearce,95,,-1
 tt0064747,The Oblong Box,actor,6.0,Alister Williamson,96,American International Productions,-1
 tt0064747,The Oblong Box,actor,6.0,Christopher Lee,96,American International Productions,-1
 tt0064747,The Oblong Box,actor,6.0,Vincent Price,96,American International Productions,-1
@@ -1734,6 +1774,12 @@ tt0065547,Chisum,actor,7.0,Forrest Tucker,111,"Batjac Productions, Warner Bros."
 tt0065571,The Conformist,actress,8.0,Stefania Sandrelli,113,"Paramount Pictures, Mars Films, Marianne Productions, Maran Film",-1
 tt0065571,The Conformist,actor,8.0,Gastone Moschin,113,"Paramount Pictures, Mars Films, Marianne Productions, Maran Film",-1
 tt0065571,The Conformist,actor,8.0,Jean-Louis Trintignant,113,"Paramount Pictures, Mars Films, Marianne Productions, Maran Film",-1
+tt0065579,Cotton Comes to Harlem,actor,7.0,Godfrey Cambridge,97,,-1
+tt0065579,Cotton Comes to Harlem,actor,7.0,Calvin Lockhart,97,,-1
+tt0065579,Cotton Comes to Harlem,actor,7.0,Raymond St. Jacques,97,,-1
+tt0065593,Cromwell,actor,7.0,Robert Morley,139,,-1
+tt0065593,Cromwell,actor,7.0,Alec Guinness,139,,-1
+tt0065593,Cromwell,actor,7.0,Richard Harris,139,,-1
 tt0065597,Cry of the Banshee,actress,6.0,Elisabeth Bergner,91,American International Pictures (AIP),-1
 tt0065597,Cry of the Banshee,actor,6.0,Vincent Price,91,American International Pictures (AIP),-1
 tt0065597,Cry of the Banshee,actress,6.0,Essy Persson,91,American International Pictures (AIP),-1
@@ -1752,6 +1798,9 @@ tt0065874,I Walk the Line,actress,7.0,Estelle Parsons,97,"Columbia Pictures Corp
 tt0065904,The Party at Kitty and Stud's,actress,2.0,Jodi Van Prang,71,Stallion Releasing Inc.,-1
 tt0065904,The Party at Kitty and Stud's,actress,2.0,Henrietta Holm,71,Stallion Releasing Inc.,-1
 tt0065904,The Party at Kitty and Stud's,actor,2.0,Sylvester Stallone,71,Stallion Releasing Inc.,-1
+tt0065916,Joe,actress,7.0,Susan Sarandon,107,,181
+tt0065916,Joe,actor,7.0,Peter Boyle,107,,181
+tt0065916,Joe,actor,7.0,Dennis Patrick,107,,181
 tt0065938,Kelly's Heroes,actor,8.0,Don Rickles,144,"Katzka-Loeb, Avala Film, Metro-Goldwyn-Mayer (MGM)",0
 tt0065938,Kelly's Heroes,actor,8.0,Telly Savalas,144,"Katzka-Loeb, Avala Film, Metro-Goldwyn-Mayer (MGM)",0
 tt0065938,Kelly's Heroes,actor,8.0,Clint Eastwood,144,"Katzka-Loeb, Avala Film, Metro-Goldwyn-Mayer (MGM)",0
@@ -1878,6 +1927,9 @@ tt0067309,Klute,actor,7.0,Charles Cioffi,114,"Gus Productions, Warner Bros.",-1
 tt0067315,The Red Tent,actor,7.0,Peter Finch,158,"Paramount Pictures, Mosfilm, Vides Cinematografica",-1
 tt0067315,The Red Tent,actress,7.0,Claudia Cardinale,158,"Paramount Pictures, Mosfilm, Vides Cinematografica",-1
 tt0067315,The Red Tent,actor,7.0,Sean Connery,158,"Paramount Pictures, Mosfilm, Vides Cinematografica",-1
+tt0067327,The Last Movie,actor,6.0,Daniel Ades,108,,-1
+tt0067327,The Last Movie,actor,6.0,Richmond L. Aguilar,108,,-1
+tt0067327,The Last Movie,actress,6.0,Julie Adams,108,,-1
 tt0067328,The Last Picture Show,actress,8.0,Cybill Shepherd,118,"Columbia Pictures Corporation, BBS Productions",21
 tt0067328,The Last Picture Show,actor,8.0,Jeff Bridges,118,"Columbia Pictures Corporation, BBS Productions",21
 tt0067328,The Last Picture Show,actor,8.0,Timothy Bottoms,118,"Columbia Pictures Corporation, BBS Productions",21
@@ -2019,6 +2071,9 @@ tt0069001,Night Call Nurses,actress,5.0,Alana Stewart,78,New World Pictures,-1
 tt0069049,The Other Side of the Wind,actor,7.0,John Huston,122,"Les Films de l'Astrophore, SACI",-1
 tt0069049,The Other Side of the Wind,actress,7.0,Oja Kodar,122,"Les Films de l'Astrophore, SACI",-1
 tt0069049,The Other Side of the Wind,actor,7.0,Peter Bogdanovich,122,"Les Films de l'Astrophore, SACI",-1
+tt0069067,Payday,actress,7.0,Elayne Heilveil,103,,-1
+tt0069067,Payday,actress,7.0,Ahna Capri,103,,-1
+tt0069067,Payday,actor,7.0,Rip Torn,103,,-1
 tt0069089,Pink Flamingos,actor,6.0,David Lochary,93,Dreamland Productions,499
 tt0069089,Pink Flamingos,actor,6.0,Divine,93,Dreamland Productions,499
 tt0069113,The Poseidon Adventure,actor,7.0,Gene Hackman,117,"Twentieth Century Fox Film Corporation, Kent Productions",15
@@ -2120,6 +2175,9 @@ tt0071110,Airport 1975,actress,6.0,Karen Black,107,Universal Pictures,14
 tt0071141,Ali: Fear Eats the Soul,actor,8.0,El Hedi ben Salem,93,"Filmverlag der Autoren, Tango Film",-1
 tt0071141,Ali: Fear Eats the Soul,actress,8.0,Brigitte Mira,93,"Filmverlag der Autoren, Tango Film",-1
 tt0071141,Ali: Fear Eats the Soul,actress,8.0,Barbara Valentin,93,"Filmverlag der Autoren, Tango Film",-1
+tt0071212,Beyond the Door,actor,5.0,Gabriele Lavia,108,,-1
+tt0071212,Beyond the Door,actor,5.0,Richard Johnson,108,,-1
+tt0071212,Beyond the Door,actress,5.0,Juliet Mills,108,,-1
 tt0071230,Blazing Saddles,actor,8.0,Cleavon Little,93,"Crossbow Productions, Warner Bros.",44
 tt0071230,Blazing Saddles,actor,8.0,Slim Pickens,93,"Crossbow Productions, Warner Bros.",44
 tt0071230,Blazing Saddles,actor,8.0,Gene Wilder,93,"Crossbow Productions, Warner Bros.",44
@@ -2199,6 +2257,9 @@ tt0072271,The Texas Chain Saw Massacre,actress,7.0,Marilyn Burns,83,"New Line Ci
 tt0072308,The Towering Inferno,actor,7.0,Steve McQueen,165,"Twentieth Century Fox Film Corporation, Warner Bros., Irwin Allen Productions, United Films",7
 tt0072308,The Towering Inferno,actor,7.0,Paul Newman,165,"Twentieth Century Fox Film Corporation, Warner Bros., Irwin Allen Productions, United Films",7
 tt0072308,The Towering Inferno,actor,7.0,William Holden,165,"Twentieth Century Fox Film Corporation, Warner Bros., Irwin Allen Productions, United Films",7
+tt0072317,The Trial of Billy Jack,actor,5.0,Victor Izay,170,,-1
+tt0072317,The Trial of Billy Jack,actor,5.0,Tom Laughlin,170,,-1
+tt0072317,The Trial of Billy Jack,actress,5.0,Delores Taylor,170,,-1
 tt0072351,Uptown Saturday Night,actor,7.0,Sidney Poitier,104,"First Artists, Verdon Productions Limited",-1
 tt0072351,Uptown Saturday Night,actor,7.0,Harry Belafonte,104,"First Artists, Verdon Productions Limited",-1
 tt0072351,Uptown Saturday Night,actor,7.0,Bill Cosby,104,"First Artists, Verdon Productions Limited",-1
@@ -2254,6 +2315,9 @@ tt0073282,Let's Do It Again,actor,7.0,Bill Cosby,110,"First Artists, Warner Bros
 tt0073312,Love and Death,actress,8.0,Diane Keaton,85,United Artists,5
 tt0073312,Love and Death,actor,8.0,Woody Allen,85,United Artists,5
 tt0073312,Love and Death,actor,8.0,Georges Adet,85,United Artists,5
+tt0073317,Lucky Lady,actress,5.0,Liza Minnelli,118,,0
+tt0073317,Lucky Lady,actor,5.0,Gene Hackman,118,,0
+tt0073317,Lucky Lady,actor,5.0,Burt Reynolds,118,,0
 tt0073357,The Master Gunfighter,actor,5.0,Tom Laughlin,121,Billy Jack Enterprises,-1
 tt0073357,The Master Gunfighter,actor,5.0,Lincoln Kilpatrick,121,Billy Jack Enterprises,-1
 tt0073357,The Master Gunfighter,actor,5.0,Ron O'Neal,121,Billy Jack Enterprises,-1
@@ -2272,6 +2336,9 @@ tt0073646,Russian Roulette,actress,6.0,Cristina Raines,93,"Incorporated Televisi
 tt0073705,Shivers,actor,6.0,Joe Silver,87,"Canadian Film Development Corporation (CFDC), Cinépix, DAL Productions",-1
 tt0073705,Shivers,actress,6.0,Lynn Lowry,87,"Canadian Film Development Corporation (CFDC), Cinépix, DAL Productions",-1
 tt0073705,Shivers,actor,6.0,Paul Hampton,87,"Canadian Film Development Corporation (CFDC), Cinépix, DAL Productions",-1
+tt0073706,Shocking Asia,writer,5.0,Rolf Olsen,94,,-1
+tt0073706,Shocking Asia,director,5.0,Rolf Olsen,94,,-1
+tt0073706,Shocking Asia,self,5.0,Ingeborg Steinbach,94,,-1
 tt0073812,Tommy,actor,7.0,Roger Daltrey,111,"Columbia Pictures, Hemdale Film, Robert Stigwood Organization (RSO)",5
 tt0073812,Tommy,actor,7.0,Oliver Reed,111,"Columbia Pictures, Hemdale Film, Robert Stigwood Organization (RSO)",5
 tt0073812,Tommy,actress,7.0,Ann-Margret,111,"Columbia Pictures, Hemdale Film, Robert Stigwood Organization (RSO)",5
@@ -2419,9 +2486,15 @@ tt0076141,High Anxiety,actress,7.0,Cloris Leachman,94,"Twentieth Century Fox Fil
 tt0076150,"Alice, Sweet Alice",actress,6.0,Linda Miller,107,Harristown Funding,-1
 tt0076150,"Alice, Sweet Alice",actress,6.0,Mildred Clinton,107,Harristown Funding,-1
 tt0076150,"Alice, Sweet Alice",actress,6.0,Paula E. Sheppard,107,Harristown Funding,-1
+tt0076172,I Never Promised You a Rose Garden,actor,6.0,Ben Piazza,96,,-1
+tt0076172,I Never Promised You a Rose Garden,actress,6.0,Kathleen Quinlan,96,,-1
+tt0076172,I Never Promised You a Rose Garden,actress,6.0,Bibi Andersson,96,,-1
 tt0076191,The Incredible Melting Man,actor,4.0,Burr DeBenning,86,"American International Pictures (AIP), Dynamite Entertainment, Quartet",-1
 tt0076191,The Incredible Melting Man,actor,4.0,Myron Healey,86,"American International Pictures (AIP), Dynamite Entertainment, Quartet",-1
 tt0076191,The Incredible Melting Man,actor,4.0,Alex Rebar,86,"American International Pictures (AIP), Dynamite Entertainment, Quartet",-1
+tt0076207,I Am Self Sufficient,actress,6.0,Simona Frosi,95,,-1
+tt0076207,I Am Self Sufficient,actress,6.0,Lorenza Codignola,95,,-1
+tt0076207,I Am Self Sufficient,actor,6.0,Luciano Agati,95,,-1
 tt0076257,The Kentucky Fried Movie,actor,6.0,Bill Bixby,83,"Kentucky Fried Theatre, United Film Distribution Company (UFDC), KFM Films",-1
 tt0076257,The Kentucky Fried Movie,actor,6.0,Bong Soo Han,83,"Kentucky Fried Theatre, United Film Distribution Company (UFDC), KFM Films",-1
 tt0076257,The Kentucky Fried Movie,actor,6.0,Evan C. Kim,83,"Kentucky Fried Theatre, United Film Distribution Company (UFDC), KFM Films",-1
@@ -2498,6 +2571,8 @@ tt0076868,Valentino,actor,6.0,Rudolf Nureyev,128,"United Artists, Chartoff-Winkl
 tt0076929,Wizards,actor,6.0,Richard Romanus,80,"Twentieth Century Fox Film Corporation, Bakshi Productions",6
 tt0076929,Wizards,actress,6.0,Jesse Welles,80,"Twentieth Century Fox Film Corporation, Bakshi Productions",6
 tt0076929,Wizards,actor,6.0,Bob Holt,80,"Twentieth Century Fox Film Corporation, Bakshi Productions",6
+tt0077157,American Boy: A Profile of Steven Prince,self,7.0,Mardik Martin,55,,-1
+tt0077157,American Boy: A Profile of Steven Prince,self,7.0,Julia Cameron,55,,-1
 tt0077189,Avalanche,actor,4.0,Rock Hudson,91,New World Pictures,-1
 tt0077189,Avalanche,actor,4.0,Robert Forster,91,New World Pictures,-1
 tt0077189,Avalanche,actress,4.0,Mia Farrow,91,New World Pictures,-1
@@ -2591,6 +2666,9 @@ tt0078062,The Clonus Horror,actor,4.0,Rick DiAngelo,90,Clonus Associates,-1
 tt0078087,Piranha,actor,6.0,Bradford Dillman,94,New World Pictures,-1
 tt0078087,Piranha,actress,6.0,Heather Menzies-Urich,94,New World Pictures,-1
 tt0078087,Piranha,actor,6.0,Kevin McCarthy,94,New World Pictures,-1
+tt0078199,"Same Time, Next Year",actor,7.0,Ivan Bonar,119,,0
+tt0078199,"Same Time, Next Year",actor,7.0,Alan Alda,119,,0
+tt0078199,"Same Time, Next Year",actress,7.0,Ellen Burstyn,119,,0
 tt0078239,Sgt. Pepper's Lonely Hearts Club Band,actor,4.0,Barry Gibb,113,"Universal Pictures, Robert Stigwood Organization (RSO), NF Geria II Filmgesellschaft m.b.H.",-1
 tt0078239,Sgt. Pepper's Lonely Hearts Club Band,actor,4.0,Robin Gibb,113,"Universal Pictures, Robert Stigwood Organization (RSO), NF Geria II Filmgesellschaft m.b.H.",-1
 tt0078239,Sgt. Pepper's Lonely Hearts Club Band,actor,4.0,Peter Frampton,113,"Universal Pictures, Robert Stigwood Organization (RSO), NF Geria II Filmgesellschaft m.b.H.",-1
@@ -2611,12 +2689,18 @@ tt0078480,Watership Down,actor,8.0,Ralph Richardson,92,"AVCO Embassy Pictures, N
 tt0078492,The Wild Geese,actor,7.0,Roger Moore,134,Richmond Productions,-1
 tt0078492,The Wild Geese,actor,7.0,Richard Harris,134,Richmond Productions,-1
 tt0078492,The Wild Geese,actor,7.0,Richard Burton,134,Richmond Productions,-1
+tt0078503,Within the Woods,actor,6.0,Bruce Campbell,31,,-1
+tt0078503,Within the Woods,actress,6.0,Ellen Sandweiss,31,,-1
+tt0078503,Within the Woods,actress,6.0,Mary Valenti,31,,-1
 tt0078504,The Wiz,actor,6.0,Nipsey Russell,134,"Universal Pictures, Motown Productions",0
 tt0078504,The Wiz,actress,6.0,Diana Ross,134,"Universal Pictures, Motown Productions",0
 tt0078504,The Wiz,actor,6.0,Michael Jackson,134,"Universal Pictures, Motown Productions",0
 tt0078723,1941,actor,6.0,Treat Williams,118,"Columbia Pictures, Universal Pictures, A-Team",0
 tt0078723,1941,actor,6.0,John Belushi,118,"Columbia Pictures, Universal Pictures, A-Team",0
 tt0078723,1941,actor,6.0,Dan Aykroyd,118,"Columbia Pictures, Universal Pictures, A-Team",0
+tt0078732,Action,actress,4.0,Adriana Asti,121,,-1
+tt0078732,Action,actor,4.0,Luc Merenda,121,,-1
+tt0078732,Action,actress,4.0,Susanna Javicoli,121,,-1
 tt0078740,The Concorde... Airport '79,actress,5.0,Susan Blakely,113,Universal Pictures,0
 tt0078740,The Concorde... Airport '79,actor,5.0,Robert Wagner,113,Universal Pictures,0
 tt0078740,The Concorde... Airport '79,actor,5.0,Alain Delon,113,Universal Pictures,0
@@ -2661,6 +2745,9 @@ tt0079116,Escape from Alcatraz,actor,8.0,Roberts Blossom,112,"Paramount Pictures
 tt0079180,The Frisco Kid,actor,6.0,Ramon Bieri,119,Warner Bros.,0
 tt0079180,The Frisco Kid,actor,6.0,Harrison Ford,119,Warner Bros.,0
 tt0079180,The Frisco Kid,actor,6.0,Gene Wilder,119,Warner Bros.,0
+tt0079227,Good Guys Wear Black,actress,5.0,Anne Archer,95,,17
+tt0079227,Good Guys Wear Black,actor,5.0,Chuck Norris,95,,17
+tt0079227,Good Guys Wear Black,actor,5.0,James Franciscus,95,,17
 tt0079240,The Great Train Robbery,actor,7.0,Sean Connery,110,"United Artists, Starling Films",-1
 tt0079240,The Great Train Robbery,actor,7.0,Donald Sutherland,110,"United Artists, Starling Films",-1
 tt0079240,The Great Train Robbery,actress,7.0,Lesley-Anne Down,110,"United Artists, Starling Films",-1
@@ -2673,6 +2760,9 @@ tt0079261,Hair,actress,8.0,Beverly D'Angelo,121,"United Artists, CIP Filmprodukt
 tt0079336,The In-Laws,actor,7.0,Alan Arkin,103,Warner Bros.,3
 tt0079336,The In-Laws,actor,7.0,Peter Falk,103,Warner Bros.,3
 tt0079336,The In-Laws,actor,7.0,Richard Libertini,103,Warner Bros.,3
+tt0079400,The Kids Are Alright,self,8.0,Roger Daltrey,109,,-1
+tt0079400,The Kids Are Alright,self,8.0,Keith Moon,109,,-1
+tt0079400,The Kids Are Alright,self,8.0,Pete Townshend,109,,-1
 tt0079417,Kramer vs. Kramer,actress,8.0,Meryl Streep,105,Columbia Pictures,12
 tt0079417,Kramer vs. Kramer,actress,8.0,Jane Alexander,105,Columbia Pictures,12
 tt0079417,Kramer vs. Kramer,actor,8.0,Dustin Hoffman,105,Columbia Pictures,12
@@ -2716,6 +2806,9 @@ tt0079871,Scum,actor,8.0,Julian Firth,98,"Berwick Street Productions, Boyd's Com
 tt0079945,Star Trek: The Motion Picture,actor,6.0,DeForest Kelley,143,Paramount Pictures,2
 tt0079945,Star Trek: The Motion Picture,actor,6.0,Leonard Nimoy,143,Paramount Pictures,2
 tt0079945,Star Trek: The Motion Picture,actor,6.0,William Shatner,143,Paramount Pictures,2
+tt0080024,Tim,actor,6.0,Mel Gibson,109,,0
+tt0080024,Tim,actress,6.0,Piper Laurie,109,,0
+tt0080024,Tim,actor,6.0,Alwyn Kurts,109,,0
 tt0080100,The Visitor,actor,5.0,Mel Ferrer,108,"Film Ventures International (FVI), Brouwersgracht Investments, Swan American Film",-1
 tt0080100,The Visitor,actor,5.0,Lance Henriksen,108,"Film Ventures International (FVI), Brouwersgracht Investments, Swan American Film",-1
 tt0080100,The Visitor,actor,5.0,Glenn Ford,108,"Film Ventures International (FVI), Brouwersgracht Investments, Swan American Film",-1
@@ -2840,6 +2933,8 @@ tt0081439,Rough Cut,actress,6.0,Lesley-Anne Down,112,"Paramount Pictures, David 
 tt0081455,Scanners,actor,7.0,Patrick McGoohan,103,"AVCO Embassy Pictures, Canadian Film Development Corporation (CFDC), Filmplan, Victor Solnicki Productions",2
 tt0081455,Scanners,actor,7.0,Stephen Lack,103,"AVCO Embassy Pictures, Canadian Film Development Corporation (CFDC), Filmplan, Victor Solnicki Productions",2
 tt0081455,Scanners,actress,7.0,Jennifer O'Neill,103,"AVCO Embassy Pictures, Canadian Film Development Corporation (CFDC), Filmplan, Victor Solnicki Productions",2
+tt0081457,Scared to Death,actor,4.0,John Stinson,96,,-1
+tt0081457,Scared to Death,actor,4.0,David Moses,96,,-1
 tt0081505,The Shining,actor,8.0,Danny Lloyd,146,"Hawk Films, Warner Bros., Peregrine",1
 tt0081505,The Shining,actress,8.0,Shelley Duvall,146,"Hawk Films, Warner Bros., Peregrine",1
 tt0081505,The Shining,actor,8.0,Jack Nicholson,146,"Hawk Films, Warner Bros., Peregrine",1
@@ -2867,6 +2962,9 @@ tt0081747,When Time Ran Out...,actress,5.0,Jacqueline Bisset,121,"Warner Bros., 
 tt0081764,Without Warning,actor,5.0,Jack Palance,89,"Heritage Enterprises Inc., World Amusement Partnership #106",-1
 tt0081764,Without Warning,actor,5.0,Martin Landau,89,"Heritage Enterprises Inc., World Amusement Partnership #106",-1
 tt0081764,Without Warning,actress,5.0,Tarah Nutter,89,"Heritage Enterprises Inc., World Amusement Partnership #106",-1
+tt0081765,Whitey,actor,7.0,Willy Vandermeulen,106,,-1
+tt0081765,Whitey,actress,7.0,Blanka Heirman,106,,-1
+tt0081765,Whitey,actor,7.0,Eric Clerckx,106,,-1
 tt0081777,Xanadu,actor,5.0,Michael Beck,96,Universal Pictures,0
 tt0081777,Xanadu,actor,5.0,Gene Kelly,96,Universal Pictures,0
 tt0081777,Xanadu,actress,5.0,Olivia Newton-John,96,Universal Pictures,0
@@ -2876,6 +2974,9 @@ tt0081793,Christmas Evil,actor,6.0,Brandon Maggart,100,"Edward R. Pressman Film,
 tt0081974,Absence of Malice,actress,7.0,Sally Field,116,"Columbia Pictures Corporation, Mirage Enterprises",2
 tt0081974,Absence of Malice,actor,7.0,Bob Balaban,116,"Columbia Pictures Corporation, Mirage Enterprises",2
 tt0081974,Absence of Malice,actor,7.0,Paul Newman,116,"Columbia Pictures Corporation, Mirage Enterprises",2
+tt0082005,The Amateur,actress,6.0,Marthe Keller,112,,0
+tt0082005,The Amateur,actor,6.0,Christopher Plummer,112,,0
+tt0082005,The Amateur,actor,6.0,John Savage,112,,0
 tt0082010,An American Werewolf in London,actor,8.0,Joe Belcher,97,"Universal Pictures, Guber/Peters Company, American Werewolf Inc., Lyncanthrope Films",2
 tt0082010,An American Werewolf in London,actress,8.0,Jenny Agutter,97,"Universal Pictures, Guber/Peters Company, American Werewolf Inc., Lyncanthrope Films",2
 tt0082010,An American Werewolf in London,actor,8.0,David Naughton,97,"Universal Pictures, Guber/Peters Company, American Werewolf Inc., Lyncanthrope Films",2
@@ -2975,6 +3076,9 @@ tt0082507,Heartbeeps,actress,4.0,Bernadette Peters,78,Universal Pictures,0
 tt0082509,Heavy Metal,actor,7.0,John Candy,86,Canadian Film Development Corporation (CFDC),-1
 tt0082509,Heavy Metal,actor,7.0,Richard Romanus,86,Canadian Film Development Corporation (CFDC),-1
 tt0082517,History of the World: Part I,actor,7.0,Mel Brooks,92,"Twentieth Century Fox Film Corporation, Brooksfilms",1
+tt0082525,Honky Tonk Freeway,actor,5.0,Paul Jabara,107,,0
+tt0082525,Honky Tonk Freeway,actor,5.0,Howard Hesseman,107,,0
+tt0082525,Honky Tonk Freeway,actor,5.0,David Rasche,107,,0
 tt0082533,The Howling,actress,7.0,Dee Wallace,91,"AVCO Embassy Pictures, International Film Investors, Wescom Productions",16
 tt0082533,The Howling,actor,7.0,Dennis Dugan,91,"AVCO Embassy Pictures, International Film Investors, Wescom Productions",16
 tt0082533,The Howling,actor,7.0,Patrick Macnee,91,"AVCO Embassy Pictures, International Film Investors, Wescom Productions",16
@@ -3045,6 +3149,15 @@ tt0083131,Stripes,actor,7.0,Bill Murray,106,Columbia Pictures Industries,7
 tt0083169,Taps,actor,7.0,Timothy Hutton,126,Twentieth Century Fox Film Corporation,1
 tt0083169,Taps,actor,7.0,Ronny Cox,126,Twentieth Century Fox Film Corporation,1
 tt0083169,Taps,actor,7.0,George C. Scott,126,Twentieth Century Fox Film Corporation,1
+tt0083193,This Is Elvis,archive_footage,8.0,Elvis Presley,110,,0
+tt0083193,This Is Elvis,self,8.0,Elvis Presley,110,,0
+tt0083193,This Is Elvis,actor,8.0,David Scott,110,,0
+tt0083254,Under the Rainbow,actor,5.0,Chevy Chase,98,,0
+tt0083254,Under the Rainbow,actress,5.0,Eve Arden,98,,0
+tt0083254,Under the Rainbow,actress,5.0,Carrie Fisher,98,,0
+tt0083261,The Unseen,actress,5.0,Barbara Bach,89,,-1
+tt0083261,The Unseen,actor,5.0,Sydney Lassick,89,,-1
+tt0083261,The Unseen,actress,5.0,Lelia Goldoni,89,,-1
 tt0083284,Victory,actor,7.0,Michael Caine,116,"Paramount, Lorimar",1
 tt0083284,Victory,actor,7.0,Sylvester Stallone,116,"Paramount, Lorimar",1
 tt0083284,Victory,actor,7.0,Pelé,116,"Paramount, Lorimar",1
@@ -3089,6 +3202,9 @@ tt0083791,The Dark Crystal,actress,7.0,Kathryn Mullen,93,"Universal Pictures, Ji
 tt0083866,E.T. the Extra-Terrestrial,actor,8.0,Henry Thomas,115,"Universal Pictures, Amblin Entertainment",74
 tt0083866,E.T. the Extra-Terrestrial,actor,8.0,Peter Coyote,115,"Universal Pictures, Amblin Entertainment",74
 tt0083866,E.T. the Extra-Terrestrial,actress,8.0,Drew Barrymore,115,"Universal Pictures, Amblin Entertainment",74
+tt0083869,Eating Raoul,actor,7.0,Robert Beltran,90,,-1
+tt0083869,Eating Raoul,actor,7.0,Paul Bartel,90,,-1
+tt0083869,Eating Raoul,actress,7.0,Mary Woronov,90,,-1
 tt0083907,The Evil Dead,actor,7.0,Bruce Campbell,85,Renaissance Pictures,83
 tt0083907,The Evil Dead,actor,7.0,Richard DeManincor,85,Renaissance Pictures,83
 tt0083907,The Evil Dead,actress,7.0,Ellen Sandweiss,85,Renaissance Pictures,83
@@ -3130,6 +3246,12 @@ tt0084268,Lookin' to Get Out,actress,5.0,Ann-Margret,105,"Lorimar Productions, N
 tt0084268,Lookin' to Get Out,actor,5.0,Burt Young,105,"Lorimar Productions, Northstar International",0
 tt0084296,The Man from Snowy River,actor,7.0,Kirk Douglas,102,"Twentieth Century Fox Film Corporation, Cambridge Productions",4
 tt0084296,The Man from Snowy River,actor,7.0,Tom Burlinson,102,"Twentieth Century Fox Film Corporation, Cambridge Productions",4
+tt0084298,Manhattan Baby,actress,5.0,Brigitta Boccoli,89,,-1
+tt0084298,Manhattan Baby,actress,5.0,Laura Lenzi,89,,-1
+tt0084298,Manhattan Baby,actor,5.0,Christopher Connelly,89,,-1
+tt0084472,Parasite,actor,4.0,Robert Glaudini,85,,7
+tt0084472,Parasite,actor,4.0,Luca Bercovici,85,,7
+tt0084472,Parasite,actress,4.0,Demi Moore,85,,7
 tt0084503,Pink Floyd: The Wall,actor,8.0,Bob Geldof,95,"Goldcrest Films International, Metro-Goldwyn-Mayer (MGM), Tin Blue",0
 tt0084503,Pink Floyd: The Wall,actress,8.0,Christine Hargreaves,95,"Goldcrest Films International, Metro-Goldwyn-Mayer (MGM), Tin Blue",0
 tt0084503,Pink Floyd: The Wall,actor,8.0,James Laurenson,95,"Goldcrest Films International, Metro-Goldwyn-Mayer (MGM), Tin Blue",0
@@ -3245,6 +3367,9 @@ tt0085794,The King of Comedy,actor,8.0,Jerry Lewis,109,"Twentieth Century Fox Fi
 tt0085811,Krull,actor,6.0,Ken Marshall,121,"Columbia Pictures Corporation, Barclays Mercantile Industrial Finance",0
 tt0085811,Krull,actor,6.0,Freddie Jones,121,"Columbia Pictures Corporation, Barclays Mercantile Industrial Finance",0
 tt0085811,Krull,actress,6.0,Lysette Anthony,121,"Columbia Pictures Corporation, Barclays Mercantile Industrial Finance",0
+tt0085838,Lianna,actress,7.0,Linda Griffiths,110,,-1
+tt0085838,Lianna,actress,7.0,Jane Hallaren,110,,-1
+tt0085838,Lianna,actor,7.0,Jon DeVries,110,,-1
 tt0085862,Lone Wolf McQuade,actor,6.0,Chuck Norris,107,"1818, Lone Wolf McQuade Associates, Topkick Productions",1
 tt0085862,Lone Wolf McQuade,actor,6.0,David Carradine,107,"1818, Lone Wolf McQuade Associates, Topkick Productions",1
 tt0085862,Lone Wolf McQuade,actress,6.0,Barbara Carrera,107,"1818, Lone Wolf McQuade Associates, Topkick Productions",1
@@ -3269,6 +3394,8 @@ tt0086034,Octopussy,actress,7.0,Maud Adams,131,Eon Productions,5
 tt0086034,Octopussy,actor,7.0,Roger Moore,131,Eon Productions,5
 tt0086036,Of Unknown Origin,actor,6.0,Peter Weller,88,"Canadian Film Development Corporation (CFDC), Warner Bros., Famous Players Limited",-1
 tt0086036,Of Unknown Origin,actress,6.0,Jennifer Dale,88,"Canadian Film Development Corporation (CFDC), Warner Bros., Famous Players Limited",-1
+tt0086050,One Dark Night,actress,6.0,Meg Tilly,89,,-1
+tt0086050,One Dark Night,actress,6.0,Melissa Newman,89,,-1
 tt0086066,The Outsiders,actor,7.0,C. Thomas Howell,91,"American Zoetrope, Warner Bros.",2
 tt0086066,The Outsiders,actor,7.0,Matt Dillon,91,"American Zoetrope, Warner Bros.",2
 tt0086113,The Pit,actress,6.0,Jeannie Elias,96,Amulet Pictures,-1
@@ -3302,6 +3429,8 @@ tt0086361,Staying Alive,actress,5.0,Cynthia Rhodes,93,Paramount Pictures,1
 tt0086383,Sudden Impact,actor,7.0,Clint Eastwood,117,Warner Bros.,2
 tt0086383,Sudden Impact,actress,7.0,Sondra Locke,117,Warner Bros.,2
 tt0086393,Superman III,actor,5.0,Christopher Reeve,125,"Warner Bros., Dovemead Films, Cantharus Productions",0
+tt0086405,Table for Five,actor,6.0,Richard Crenna,122,,0
+tt0086405,Table for Five,actor,6.0,Jon Voight,122,,0
 tt0086425,Terms of Endearment,actress,7.0,Debra Winger,132,Paramount Pictures,-1
 tt0086425,Terms of Endearment,actress,7.0,Shirley MacLaine,132,Paramount Pictures,-1
 tt0086429,Testament,actress,7.0,Jane Alexander,90,"Paramount Pictures, American Playhouse, Entertainment Events",0
@@ -3313,6 +3442,8 @@ tt0086525,Valley Girl,actor,6.0,Nicolas Cage,99,"Atlantic Entertainment Group, V
 tt0086525,Valley Girl,actress,6.0,Deborah Foreman,99,"Atlantic Entertainment Group, Valley 9000",48
 tt0086541,Videodrome,actor,7.0,James Woods,87,"Universal Pictures, Famous Players Ltd, Guardian Trust Company, Filmplan International II",0
 tt0086541,Videodrome,actress,7.0,Debbie Harry,87,"Universal Pictures, Famous Players Ltd, Guardian Trust Company, Filmplan International II",0
+tt0086553,De vlaschaard,actor,6.0,Vic Moeremans,85,,-1
+tt0086553,De vlaschaard,actor,6.0,Rene Van Sambeek,85,,-1
 tt0086567,WarGames,actress,7.0,Ally Sheedy,114,"United Artists, Sherwood Productions",5
 tt0086567,WarGames,actor,7.0,Matthew Broderick,114,"United Artists, Sherwood Productions",5
 tt0086617,The Year of Living Dangerously,actor,7.0,Mel Gibson,115,"Metro-Goldwyn-Mayer (MGM), McElroy & McElroy",0
@@ -3353,6 +3484,8 @@ tt0087015,C.H.U.D.,actor,6.0,John Heard,88,"New World Pictures, C.H.U.D. Product
 tt0087015,C.H.U.D.,actor,6.0,Daniel Stern,88,"New World Pictures, C.H.U.D. Productions",1
 tt0087050,Children of the Corn,actress,6.0,Linda Hamilton,92,"Hal Roach Studios, Cinema Group, Planet Productions, Angeles Entertainment Group, Inverness Productions, Gatlin",16
 tt0087050,Children of the Corn,actor,6.0,Peter Horton,92,"Hal Roach Studios, Cinema Group, Planet Productions, Angeles Entertainment Group, Inverness Productions, Gatlin",16
+tt0087054,Choose Me,actor,7.0,Keith Carradine,106,,-1
+tt0087054,Choose Me,actress,7.0,Geneviève Bujold,106,,-1
 tt0087062,City Heat,actor,6.0,Burt Reynolds,97,"Warner Bros., Deliverance Productions, Malpaso Company, The",0
 tt0087062,City Heat,actor,6.0,Clint Eastwood,97,"Warner Bros., Deliverance Productions, Malpaso Company, The",0
 tt0087075,The Company of Wolves,actress,7.0,Angela Lansbury,95,"Palace Pictures, Incorporated Television Company (ITC)",-1
@@ -3558,6 +3691,8 @@ tt0089501,Screwballs II,actor,4.0,Lance Van Der Kolk,92,Crazy Wheels Film Corpor
 tt0089501,Screwballs II,actor,4.0,Bryan Genesse,92,Crazy Wheels Film Corporation,-1
 tt0089530,Mad Max Beyond Thunderdome,actor,6.0,Mel Gibson,107,Kennedy Miller Productions,1
 tt0089530,Mad Max Beyond Thunderdome,actress,6.0,Tina Turner,107,Kennedy Miller Productions,1
+tt0089537,Mala Noche,actor,7.0,Tim Streeter,78,,-1
+tt0089537,Mala Noche,actor,7.0,Doug Cooeyate,78,,-1
 tt0089539,Malibu Express,actor,5.0,Darby Hinton,101,"Malibu Bay Films, Andy Sidaris Company",-1
 tt0089539,Malibu Express,actress,5.0,Sybil Danning,101,"Malibu Bay Films, Andy Sidaris Company",-1
 tt0089603,Mishima: A Life in Four Chapters,actor,8.0,Ken Ogata,120,"Lucasfilm, American Zoetrope, Tristone Entertainment Inc., M Company",0
@@ -3603,6 +3738,8 @@ tt0089961,Santa Claus,actor,6.0,Dudley Moore,107,"TriStar Pictures, Calash Corpo
 tt0089961,Santa Claus,actor,6.0,John Lithgow,107,"TriStar Pictures, Calash Corporation",0
 tt0090022,Silverado,actor,7.0,Scott Glenn,133,Columbia Pictures,-1
 tt0090022,Silverado,actor,7.0,Kevin Kline,133,Columbia Pictures,-1
+tt0090065,Starchaser: The Legend of Orin,actor,7.0,Carmen Argenziano,100,,0
+tt0090065,Starchaser: The Legend of Orin,actor,7.0,Joe Colligan,100,,0
 tt0090073,Stick,actress,6.0,Candice Bergen,109,Universal Pictures,-1
 tt0090073,Stick,actor,6.0,Burt Reynolds,109,Universal Pictures,-1
 tt0090094,The Stuff,actor,6.0,Michael Moriarty,87,"New World Pictures, Larco Productions",-1
@@ -3731,6 +3868,8 @@ tt0091647,Nomads,actor,5.0,Pierce Brosnan,91,"Cinema VII, PSO",-1
 tt0091647,Nomads,actress,5.0,Lesley-Anne Down,91,"Cinema VII, PSO",-1
 tt0091671,From a Whisper to a Scream,actor,6.0,Clu Gulager,99,Conquest Productions,0
 tt0091671,From a Whisper to a Scream,actor,6.0,Vincent Price,99,Conquest Productions,0
+tt0091724,The Park Is Mine,actress,6.0,Helen Shaver,102,,-1
+tt0091724,The Park Is Mine,actor,6.0,Tommy Lee Jones,102,,-1
 tt0091738,Peggy Sue Got Married,actor,6.0,Nicolas Cage,103,"American Zoetrope, TriStar Pictures",1
 tt0091738,Peggy Sue Got Married,actress,6.0,Kathleen Turner,103,"American Zoetrope, TriStar Pictures",1
 tt0091757,Pirates,actor,6.0,Walter Matthau,121,"Carthago Films S.a.r.l., Cominco, Accent Films",0
@@ -3797,11 +3936,15 @@ tt0092718,Can't Buy Me Love,actor,7.0,Patrick Dempsey,94,"Apollo Pictures, Touch
 tt0092718,Can't Buy Me Love,actress,7.0,Amanda Peterson,94,"Apollo Pictures, Touchstone Pictures, Silver Screen Partners II",16
 tt0092746,Cherry 2000,actress,6.0,Melanie Griffith,99,"Orion Pictures, ERP Productions",0
 tt0092746,Cherry 2000,actor,6.0,David Andrews,99,"Orion Pictures, ERP Productions",0
+tt0092750,Chillers,actress,5.0,Marjorie Fitzsimmons,87,,-1
+tt0092750,Chillers,actor,5.0,Jesse Emery,87,,-1
 tt0092783,Cop,actress,6.0,Lesley Ann Warren,110,"Atlantic Entertainment Group, Harris-Woods Productions",-1
 tt0092783,Cop,actor,6.0,James Woods,110,"Atlantic Entertainment Group, Harris-Woods Productions",-1
 tt0092796,Creepshow 2,actress,6.0,Lois Chiles,92,"New World Pictures, Laurel Entertainment Inc.",3
 tt0092796,Creepshow 2,actor,6.0,George Kennedy,92,"New World Pictures, Laurel Entertainment Inc.",3
 tt0092798,Critical Condition,actor,5.0,Richard Pryor,97,Paramount Pictures,-1
+tt0092863,Deep Space,actress,5.0,Ann Turkel,90,,-1
+tt0092863,Deep Space,actor,5.0,Charles Napier,90,,-1
 tt0092890,Dirty Dancing,actor,7.0,Patrick Swayze,100,"Great American Films Limited Partnership, Vestron Pictures",34
 tt0092890,Dirty Dancing,actress,7.0,Jennifer Grey,100,"Great American Films Limited Partnership, Vestron Pictures",34
 tt0092925,Dragnet,actor,6.0,Dan Aykroyd,106,Universal Pictures,2
@@ -3850,6 +3993,8 @@ tt0093493,Mannequin,actor,6.0,Andrew McCarthy,90,Gladden Entertainment,6
 tt0093493,Mannequin,actress,6.0,Kim Cattrall,90,Gladden Entertainment,6
 tt0093507,Masters of the Universe,actor,5.0,Dolph Lundgren,106,"Cannon Group, Edward R. Pressman Film, Golan-Globus Productions",0
 tt0093507,Masters of the Universe,actor,5.0,Frank Langella,106,"Cannon Group, Edward R. Pressman Film, Golan-Globus Productions",0
+tt0093509,Matewan,actor,8.0,Chris Cooper,135,,0
+tt0093509,Matewan,actor,8.0,James Earl Jones,135,,0
 tt0093543,Mio in the Land of Faraway,actor,6.0,Nick Pickard,99,"Gorky Film Studio, Nordisk Tonefilm International",0
 tt0093560,The Monster Squad,actor,7.0,Andre Gower,82,"TriStar Pictures, Keith Barish Productions, TAFT Entertainment Pictures, Home Box Office (HBO)",0
 tt0093560,The Monster Squad,actor,7.0,Robby Kiger,82,"TriStar Pictures, Keith Barish Productions, TAFT Entertainment Pictures, Home Box Office (HBO)",0
@@ -3867,11 +4012,15 @@ tt0093640,No Way Out,actor,7.0,Gene Hackman,114,Orion Pictures,1
 tt0093640,No Way Out,actor,7.0,Kevin Costner,114,Orion Pictures,1
 tt0093660,Nuts,actor,7.0,Richard Dreyfuss,116,"Barwood Films, Warner Bros.",-1
 tt0093660,Nuts,actress,7.0,Barbra Streisand,116,"Barwood Films, Warner Bros.",-1
+tt0093677,Opera,actress,7.0,Cristina Marsillach,107,,-1
+tt0093677,Opera,actor,7.0,Ian Charleson,107,,-1
 tt0093692,Over the Top,actor,6.0,Robert Loggia,93,"Cannon Group, Golan-Globus, Warner Bros.",0
 tt0093692,Over the Top,actor,6.0,Sylvester Stallone,93,"Cannon Group, Golan-Globus, Warner Bros.",0
 tt0093693,Overboard,actress,7.0,Goldie Hawn,112,"Metro-Goldwyn-Mayer (MGM), Hawn / Sylbert Movie Company, Star Partners",13
 tt0093737,The Pick-up Artist,actor,5.0,Robert Downey Jr.,81,"Twentieth Century Fox Film Corporation, Amercent Films, American Entertainment Partners L.P.",0
 tt0093737,The Pick-up Artist,actress,5.0,Molly Ringwald,81,"Twentieth Century Fox Film Corporation, Amercent Films, American Entertainment Partners L.P.",0
+tt0093743,Pinocchio and the Emperor of the Night,actor,6.0,Edward Asner,87,,0
+tt0093743,Pinocchio and the Emperor of the Night,actor,6.0,Tom Bosley,87,,0
 tt0093744,The New Adventures of Pippi Longstocking,actress,6.0,Tami Erin,100,Columbia Pictures,0
 tt0093744,The New Adventures of Pippi Longstocking,actor,6.0,David Seaman,100,Columbia Pictures,0
 tt0093771,A Prayer for the Dying,actor,6.0,Bob Hoskins,107,The Samuel Goldwyn Company,0
@@ -3888,7 +4037,11 @@ tt0093818,Radio Days,actress,7.0,Mia Farrow,88,Orion Pictures,-1
 tt0093818,Radio Days,actress,7.0,Dianne Wiest,88,Orion Pictures,-1
 tt0093822,Raising Arizona,actress,7.0,Holly Hunter,94,"Twentieth Century Fox Film Corporation, Circle Films",3
 tt0093822,Raising Arizona,actor,7.0,Nicolas Cage,94,"Twentieth Century Fox Film Corporation, Circle Films",3
+tt0093855,A Return to Salem's Lot,actor,4.0,Samuel Fuller,101,,-1
+tt0093855,A Return to Salem's Lot,actor,4.0,Michael Moriarty,101,,-1
 tt0093870,RoboCop,actor,8.0,Peter Weller,102,Orion Pictures,3
+tt0093873,Rock 'n' Roll Nightmare,actor,4.0,Jesse D'Angelo,83,,-1
+tt0093873,Rock 'n' Roll Nightmare,actress,4.0,Cindy Cirile,83,,-1
 tt0093894,The Running Man,actress,7.0,Maria Conchita Alonso,101,"Keith Barish Productions, TAFT Entertainment Pictures, HBO, Braveworld Productions",0
 tt0093894,The Running Man,actor,7.0,Arnold Schwarzenegger,101,"Keith Barish Productions, TAFT Entertainment Pictures, HBO, Braveworld Productions",0
 tt0093936,The Secret of My Success,actor,7.0,Michael J. Fox,111,Universal Pictures,8
@@ -3918,6 +4071,8 @@ tt0094625,Akira,actor,8.0,Mitsuo Iwata,124,"Bandai Visual Company, Toho Company,
 tt0094625,Akira,actor,8.0,Nozomu Sasaki,124,"Bandai Visual Company, Toho Company, Mainichi Broadcasting System (MBS), Kodansha, Tokyo Movie Shinsha (TMS), TMS Entertainment, Akira Committee Company Ltd., Sumitomo Corporation",0
 tt0094631,Alien Nation,actor,6.0,Mandy Patinkin,91,"Twentieth Century Fox Film Corporation, American Entertainment Partners II L.P.",1
 tt0094631,Alien Nation,actor,6.0,James Caan,91,"Twentieth Century Fox Film Corporation, American Entertainment Partners II L.P.",1
+tt0094667,Apartment Zero,actor,7.0,Hart Bochner,124,,0
+tt0094667,Apartment Zero,actor,7.0,Colin Firth,124,,0
 tt0094701,Bad Dreams,actor,6.0,Bruce Abbott,84,No Frills Film Production,1
 tt0094701,Bad Dreams,actress,6.0,Jennifer Rubin,84,No Frills Film Production,1
 tt0094721,Beetlejuice,actress,8.0,Geena Davis,92,"Geffen Company, The, Warner Bros.",3
@@ -4028,6 +4183,8 @@ tt0095774,Off Limits,actor,6.0,Willem Dafoe,102,"Twentieth Century Fox Film Corp
 tt0095774,Off Limits,actor,6.0,Gregory Hines,102,"Twentieth Century Fox Film Corporation, American Entertainment Partners L.P.",0
 tt0095776,Oliver & Company,actor,7.0,Joey Lawrence,74,"Walt Disney Pictures, Silver Screen Partners III",1
 tt0095776,Oliver & Company,actor,7.0,Billy Joel,74,"Walt Disney Pictures, Silver Screen Partners III",1
+tt0095853,Permanent Record,actor,6.0,Alan Boyce,91,,0
+tt0095853,Permanent Record,actor,6.0,Keanu Reeves,91,,0
 tt0095861,The Doublecross,actress,6.0,Eeva Litmanen,92,National Filmi Oy,-1
 tt0095861,The Doublecross,actor,6.0,Paavo Pentikäinen,92,National Filmi Oy,-1
 tt0095863,Phantasm II,actor,6.0,Reggie Bannister,97,"Universal Pictures, Spacegate Productions, Starway International Inc.",1
@@ -4111,6 +4268,8 @@ tt0097008,Cameron's Closet,actress,5.0,Mel Harris,88,Smart Egg Pictures,0
 tt0097008,Cameron's Closet,actor,5.0,Cotter Smith,88,Smart Egg Pictures,0
 tt0097027,Casualties of War,actor,7.0,Michael J. Fox,113,Columbia Pictures Corporation,0
 tt0097027,Casualties of War,actor,7.0,Sean Penn,113,Columbia Pictures Corporation,0
+tt0097053,Cheetah,actor,6.0,Keith Coogan,83,,0
+tt0097053,Cheetah,actress,6.0,Lucy Deakins,83,,0
 tt0097116,Cousins,actress,6.0,Isabella Rossellini,113,Paramount Pictures,0
 tt0097116,Cousins,actor,6.0,Ted Danson,113,Paramount Pictures,0
 tt0097123,Crimes and Misdemeanors,actor,8.0,Woody Allen,104,"Orion Pictures, Jack Rollins & Charles H. Joffe Productions",0
@@ -4174,10 +4333,13 @@ tt0097742,Licence to Kill,actor,7.0,Timothy Dalton,133,Eon Productions,3
 tt0097742,Licence to Kill,actor,7.0,Robert Davi,133,Eon Productions,3
 tt0097757,The Little Mermaid,actress,8.0,Jodi Benson,83,"Walt Disney Pictures, Silver Screen Partners IV",4
 tt0097757,The Little Mermaid,actor,8.0,Samuel E. Wright,83,"Walt Disney Pictures, Silver Screen Partners IV",4
+tt0097758,Little Monsters,actor,6.0,Howie Mandel,100,,0
+tt0097758,Little Monsters,actor,6.0,Fred Savage,100,,0
 tt0097770,Lock Up,actor,6.0,Donald Sutherland,109,"TriStar Pictures, Gordon Company, Carolco Pictures, White Eagle",0
 tt0097770,Lock Up,actor,6.0,Sylvester Stallone,109,"TriStar Pictures, Gordon Company, Carolco Pictures, White Eagle",0
 tt0097778,Look Who's Talking,actor,6.0,John Travolta,93,"TriStar Pictures, Management Company Entertainment Group (MCEG)",38
 tt0097778,Look Who's Talking,actress,6.0,Kirstie Alley,93,"TriStar Pictures, Management Company Entertainment Group (MCEG)",38
+tt0097810,Peter Brook's the Mahabharata,actress,8.0,Erika Alexander,318,,-1
 tt0097814,Kiki's Delivery Service,actress,8.0,Kirsten Dunst,103,"Studio Ghibli, Nibariki",1
 tt0097815,Major League,actor,7.0,Tom Berenger,107,"Paramount Pictures, Mirage Enterprises",3
 tt0097815,Major League,actor,7.0,Charlie Sheen,107,"Paramount Pictures, Mirage Enterprises",3
@@ -4207,6 +4369,8 @@ tt0098180,Red Scorpion,actor,5.0,Dolph Lundgren,105,"abramoff Production, Scorpi
 tt0098180,Red Scorpion,actor,5.0,M. Emmet Walsh,105,"abramoff Production, Scorpion Film Production, Abramoff Production",0
 tt0098206,Road House,actress,7.0,Kelly Lynch,114,"United Artists, Star Partners II Ltd., Silver Pictures",1
 tt0098206,Road House,actor,7.0,Patrick Swayze,114,"United Artists, Star Partners II Ltd., Silver Pictures",1
+tt0098209,Roadkill,actress,7.0,Valerie Buhagiar,85,,-1
+tt0098209,Roadkill,actor,7.0,Gerry Quigley,85,,-1
 tt0098213,Roger & Me,self,8.0,Roger B. Smith,91,"Warner Bros., Dog Eat Dog Films",40
 tt0098213,Roger & Me,self,8.0,Michael Moore,91,"Warner Bros., Dog Eat Dog Films",40
 tt0098253,Santa Sangre,actor,8.0,Axel Jodorowsky,123,"Produzioni Intersound, Productora Filmica Real",-1
@@ -4294,6 +4458,10 @@ tt0099423,Die Hard 2,actor,7.0,William Atherton,124,"Twentieth Century Fox Film 
 tt0099426,Bullet in the Head,actor,8.0,Tony Leung Chiu-wai,136,"Golden Princess Film Production Limited, John Woo Film Production",-1
 tt0099487,Edward Scissorhands,actress,8.0,Winona Ryder,105,Twentieth Century Fox Film Corporation,1
 tt0099487,Edward Scissorhands,actor,8.0,Johnny Depp,105,Twentieth Century Fox Film Corporation,1
+tt0099524,Evil Toons,actor,4.0,David Carradine,90,,-1
+tt0099524,Evil Toons,actor,4.0,Arte Johnson,90,,-1
+tt0099546,Far Out Man,actor,5.0,Tommy Chong,81,,-1
+tt0099546,Far Out Man,actor,5.0,C. Thomas Howell,81,,-1
 tt0099575,Fire Birds,actor,5.0,Nicolas Cage,85,"Nova International Films, Touchstone Pictures",-1
 tt0099575,Fire Birds,actor,5.0,Tommy Lee Jones,85,"Nova International Films, Touchstone Pictures",-1
 tt0099578,The First Power,actress,6.0,Tracy Griffith,98,"Orion Pictures, Nelson Entertainment, Interscope Communications",1
@@ -4346,6 +4514,8 @@ tt0100107,Maniac Cop 2,actor,6.0,Robert Davi,90,"Overseas FilmGroup, Medusa Pict
 tt0100107,Maniac Cop 2,actress,6.0,Claudia Christian,90,"Overseas FilmGroup, Medusa Pictures, The Movie House Sales Company, Fadd Enterprises",-1
 tt0100114,Marked for Death,actress,6.0,Joanna Pacula,93,"Twentieth Century Fox Film Corporation, Steamroller Productions, Victor & Grais Productions",2
 tt0100114,Marked for Death,actor,6.0,Steven Seagal,93,"Twentieth Century Fox Film Corporation, Steamroller Productions, Victor & Grais Productions",2
+tt0100129,Meet the Applegates,actress,6.0,Stockard Channing,90,,0
+tt0100129,Meet the Applegates,actor,6.0,Ed Begley Jr.,90,,0
 tt0100133,Memphis Belle,actor,7.0,Matthew Modine,107,"Warner Bros., Enigma Productions, Fujisankei Communication Group, County Natwest Ventures, British Satellite Broadcasting (BSB)",-1
 tt0100133,Memphis Belle,actor,7.0,Eric Stoltz,107,"Warner Bros., Enigma Productions, Fujisankei Communication Group, County Natwest Ventures, British Satellite Broadcasting (BSB)",-1
 tt0100140,Mermaids,actor,7.0,Bob Hoskins,110,Orion Pictures,0
@@ -4368,6 +4538,8 @@ tt0100258,Night of the Living Dead,actress,7.0,Patricia Tallman,92,"Columbia Pic
 tt0100258,Night of the Living Dead,actor,7.0,Tony Todd,92,"Columbia Pictures Corporation, 21st Century Film Corporation",0
 tt0100260,Nightbreed,actor,7.0,Craig Sheffer,102,"Seraphim Films, Morgan Creek Productions",0
 tt0100260,Nightbreed,actor,7.0,David Cronenberg,102,"Seraphim Films, Morgan Creek Productions",0
+tt0100332,Paris Is Burning,self,8.0,André Christian,78,,6
+tt0100332,Paris Is Burning,self,8.0,Dorian Corey,78,,6
 tt0100361,The Phantom of the Opera,actress,7.0,Teri Polo,84,"Beta Film, Reteitalia, TF1, Hexatel, Saban/Scherick Productions, Saban International N.V., StarCom",-1
 tt0100361,The Phantom of the Opera,actor,7.0,Burt Lancaster,84,"Beta Film, Reteitalia, TF1, Hexatel, Saban/Scherick Productions, Saban International N.V., StarCom",-1
 tt0100361,The Phantom of the Opera,actor,7.0,Charles Dance,84,"Beta Film, Reteitalia, TF1, Hexatel, Saban/Scherick Productions, Saban International N.V., StarCom",-1
@@ -4416,6 +4588,8 @@ tt0100802,Total Recall,actor,8.0,Arnold Schwarzenegger,113,"TriStar Pictures, Ca
 tt0100802,Total Recall,actress,8.0,Sharon Stone,113,"TriStar Pictures, Carolco Pictures, Carolco International N.V.",3
 tt0100814,Tremors,actor,7.0,Kevin Bacon,96,"Universal Pictures, No Frills Film Production",3
 tt0100814,Tremors,actor,7.0,Fred Ward,96,"Universal Pictures, No Frills Film Production",3
+tt0100827,Two Evil Eyes,actress,6.0,Adrienne Barbeau,120,,-1
+tt0100827,Two Evil Eyes,actor,6.0,Harvey Keitel,120,,-1
 tt0100828,The Two Jakes,actor,6.0,Harvey Keitel,137,Paramount Pictures,0
 tt0100828,The Two Jakes,actor,6.0,Jack Nicholson,137,Paramount Pictures,0
 tt0100934,Wild Orchid,actress,5.0,Jacqueline Bisset,105,Vision P.D.G.,-1
@@ -4604,6 +4778,8 @@ tt0103241,What About Bob?,actor,7.0,Bill Murray,99,"Touchwood Pacific Partners 1
 tt0103241,What About Bob?,actor,7.0,Richard Dreyfuss,99,"Touchwood Pacific Partners 1, Touchstone Pictures",0
 tt0103247,White Fang,actor,7.0,Ethan Hawke,107,"Walt Disney Pictures, Silver Screen Partners IV, Hybrid Productions Inc.",1
 tt0103247,White Fang,actor,7.0,Klaus Maria Brandauer,107,"Walt Disney Pictures, Silver Screen Partners IV, Hybrid Productions Inc.",1
+tt0103295,Swordsman II,actor,7.0,Jet Li,112,,-1
+tt0103295,Swordsman II,actress,7.0,Brigitte Lin,112,,-1
 tt0103303,Year of the Gun,actress,6.0,Sharon Stone,111,"J&M Entertainment, Shomedia",-1
 tt0103303,Year of the Gun,actor,6.0,Andrew McCarthy,111,"J&M Entertainment, Shomedia",-1
 tt0103594,1492: Conquest of Paradise,actor,6.0,Gérard Depardieu,154,"Paramount Pictures, Gaumont, France 3 Cinéma, ABC Pictures, Légende Entreprises, Due West, Cyrkfilms, Ministère de la Culture, Spanish Ministry of Culture",0
@@ -4656,6 +4832,8 @@ tt0104057,Daughters of the Dust,actress,7.0,Cora Lee Day,113,"American Playhouse
 tt0104057,Daughters of the Dust,actress,7.0,Alva Rogers,113,"American Playhouse, WMG Film, Geechee Girls",-1
 tt0104070,Death Becomes Her,actress,7.0,Meryl Streep,104,Universal Pictures,1
 tt0104070,Death Becomes Her,actor,7.0,Bruce Willis,104,Universal Pictures,1
+tt0104105,Diên Biên Phú,actor,6.0,Donald Pleasence,140,,-1
+tt0104105,Diên Biên Phú,actor,6.0,Patrick Catalifo,140,,-1
 tt0104107,Diggstown,actor,7.0,Louis Gossett Jr.,98,"Metro-Goldwyn-Mayer (MGM), Eclectic Films",0
 tt0104107,Diggstown,actor,7.0,James Woods,98,"Metro-Goldwyn-Mayer (MGM), Eclectic Films",0
 tt0104109,Dingo,actor,7.0,Colin Friels,109,Vertigo Productions,0
@@ -4664,6 +4842,8 @@ tt0104115,Doctor Mordrid,actor,5.0,Jeffrey Combs,74,Full Moon Entertainment,-1
 tt0104115,Doctor Mordrid,actress,5.0,Yvette Nipar,74,Full Moon Entertainment,-1
 tt0104155,Dust Devil,actress,6.0,Chelsea Field,87,"Channel Four Films, Palace Pictures, Shadow Theatre Films, British Screen Productions",-1
 tt0104155,Dust Devil,actor,6.0,Robert John Burke,87,"Channel Four Films, Palace Pictures, Shadow Theatre Films, British Screen Productions",-1
+tt0104225,Falling from Grace,actor,6.0,John Mellencamp,100,,76
+tt0104225,Falling from Grace,actress,6.0,Mariel Hemingway,100,,76
 tt0104231,Far and Away,actress,7.0,Nicole Kidman,140,"Imagine Entertainment, Universal Pictures",1
 tt0104231,Far and Away,actor,7.0,Tom Cruise,140,"Imagine Entertainment, Universal Pictures",1
 tt0104257,A Few Good Men,actor,8.0,Tom Cruise,138,David Brown Productions,5
@@ -4773,6 +4953,8 @@ tt0105466,Stay Tuned,actor,6.0,John Ritter,88,"Warner Bros., Morgan Creek Produc
 tt0105466,Stay Tuned,actress,6.0,Pam Dawber,88,"Warner Bros., Morgan Creek Productions",0
 tt0105488,Strictly Ballroom,actor,7.0,Paul Mercurio,94,"Beyond Films, Australian Film Finance Corporation (AFFC), M & A",10
 tt0105488,Strictly Ballroom,actress,7.0,Tara Morice,94,"Beyond Films, Australian Film Finance Corporation (AFFC), M & A",10
+tt0105508,Swoon,actor,7.0,Craig Chester,93,,0
+tt0105508,Swoon,actor,7.0,Daniel Schlachet,93,,0
 tt0105636,Trespass,actor,6.0,Ice-T,101,Universal Pictures,-1
 tt0105636,Trespass,actor,6.0,Bill Paxton,101,Universal Pictures,-1
 tt0105652,Pushing Hands,actress,7.0,Lai Wang,105,Ang Lee Productions,0
@@ -4798,6 +4980,8 @@ tt0106223,The Adventures of Huck Finn,actor,6.0,Courtney B. Vance,108,Walt Disne
 tt0106223,The Adventures of Huck Finn,actor,6.0,Elijah Wood,108,Walt Disney Pictures,-1
 tt0106226,The Age of Innocence,actor,7.0,Daniel Day-Lewis,139,Columbia Pictures,0
 tt0106226,The Age of Innocence,actress,7.0,Michelle Pfeiffer,139,Columbia Pictures,0
+tt0106233,Airborne,actor,6.0,Seth Green,91,,0
+tt0106233,Airborne,actor,6.0,Shane McDermott,91,,0
 tt0106246,Alive,actor,7.0,Vincent Spano,128,"Paramount Pictures, Touchstone Pictures",0
 tt0106246,Alive,actor,7.0,Ethan Hawke,128,"Paramount Pictures, Touchstone Pictures",0
 tt0106262,Amityville: A New Generation,actor,4.0,Ross Partridge,91,A. Ninety-Three Productions,-1
@@ -4826,6 +5010,8 @@ tt0106452,Body Snatchers,actress,6.0,Meg Tilly,87,"Warner Bros., Dorset Producti
 tt0106452,Body Snatchers,actress,6.0,Gabrielle Anwar,87,"Warner Bros., Dorset Productions, Robert H. Solo Productions",0
 tt0106453,Body of Evidence,actor,5.0,Willem Dafoe,99,Metro-Goldwyn-Mayer (MGM),0
 tt0106453,Body of Evidence,actress,5.0,Madonna,99,Metro-Goldwyn-Mayer (MGM),0
+tt0106464,Bopha!,actor,7.0,Danny Glover,120,,0
+tt0106464,Bopha!,actor,7.0,Malcolm McDowell,120,,0
 tt0106469,"Blood In, Blood Out",actor,8.0,Damian Chapa,180,Hollywood Pictures,-1
 tt0106469,"Blood In, Blood Out",actor,8.0,Jesse Borrego,180,Hollywood Pictures,-1
 tt0106489,A Bronx Tale,actor,8.0,Chazz Palminteri,121,"HBO Films, Savoy Pictures",0
@@ -5005,6 +5191,8 @@ tt0108327,The Thing Called Love,actress,6.0,Samantha Mathis,116,Paramount Pictur
 tt0108327,The Thing Called Love,actor,6.0,River Phoenix,116,Paramount Pictures,-1
 tt0108333,The Three Musketeers,actor,6.0,Charlie Sheen,105,"Walt Disney Pictures, Caravan Pictures",0
 tt0108333,The Three Musketeers,actor,6.0,Kiefer Sutherland,105,"Walt Disney Pictures, Caravan Pictures",0
+tt0108339,Ticks,actress,6.0,Ami Dolenz,85,,-1
+tt0108339,Ticks,actress,6.0,Rosalind Allen,85,,-1
 tt0108358,Tombstone,actor,8.0,Kurt Russell,130,"Hollywood Pictures, Cinergi Pictures Entertainment",1
 tt0108358,Tombstone,actor,8.0,Val Kilmer,130,"Hollywood Pictures, Cinergi Pictures Entertainment",1
 tt0108395,A Troll in Central Park,actor,5.0,Dom DeLuise,76,"Warner Bros., Don Bluth",0
@@ -5029,6 +5217,8 @@ tt0109254,Beverly Hills Cop III,actor,6.0,Jon Tenney,104,"Paramount Pictures, Ed
 tt0109254,Beverly Hills Cop III,actor,6.0,Eddie Murphy,104,"Paramount Pictures, Eddie Murphy Productions",1
 tt0109287,Blank Check,actor,5.0,Brian Bonsall,93,Walt Disney Pictures,-1
 tt0109287,Blank Check,actress,5.0,Karen Duffy,93,Walt Disney Pictures,-1
+tt0109368,Camilla,actress,6.0,Jessica Tandy,95,,0
+tt0109368,Camilla,actress,6.0,Bridget Fonda,95,,0
 tt0109370,Canadian Bacon,actor,6.0,John Candy,91,PolyGram Filmed Entertainment,0
 tt0109370,Canadian Bacon,actor,6.0,Alan Alda,91,PolyGram Filmed Entertainment,0
 tt0109376,"Car 54, Where Are You?",actor,3.0,John C. McGinley,89,Orion Pictures,0
@@ -5065,10 +5255,14 @@ tt0109731,Hell,actor,7.0,François Cluzet,102,MK2 Productions,-1
 tt0109731,Hell,actress,7.0,Emmanuelle Béart,102,MK2 Productions,-1
 tt0109744,Sunset Riders,actor,6.0,Santeri Kinnunen,88,Harlin/Selin Productions Oy,-1
 tt0109744,Sunset Riders,actor,6.0,Juha Veijonen,88,Harlin/Selin Productions Oy,-1
+tt0109761,The Surgeon,actress,5.0,Isabel Glasser,99,,-1
+tt0109761,The Surgeon,actor,5.0,James Remar,99,,-1
 tt0109770,The Fantastic Four,actor,4.0,Jay Underwood,90,"New Horizons, Constantin Film Produktion",-1
 tt0109770,The Fantastic Four,actor,4.0,Alex Hyde-White,90,"New Horizons, Constantin Film Produktion",-1
 tt0109813,The Flintstones,actor,5.0,Rick Moranis,91,"Universal Pictures, Amblin Entertainment, Hanna-Barbera Productions",6
 tt0109813,The Flintstones,actor,5.0,John Goodman,91,"Universal Pictures, Amblin Entertainment, Hanna-Barbera Productions",6
+tt0109823,For the Moment,actor,6.0,Russell Crowe,120,,-1
+tt0109823,For the Moment,actress,6.0,Christianne Hirt,120,,-1
 tt0109830,Forrest Gump,actor,9.0,Tom Hanks,142,Paramount Pictures,11
 tt0109830,Forrest Gump,actress,9.0,Robin Wright,142,Paramount Pictures,11
 tt0109831,Four Weddings and a Funeral,actor,7.0,Hugh Grant,117,"Channel Four Films, PolyGram Filmed Entertainment, Working Title Films",41
@@ -5076,6 +5270,7 @@ tt0109831,Four Weddings and a Funeral,actress,7.0,Andie MacDowell,117,"Channel F
 tt0109836,Frankenstein,actor,6.0,Robert De Niro,123,"American Zoetrope, TriStar Pictures",1
 tt0109891,Getting Even with Dad,actor,5.0,Macaulay Culkin,109,Metro-Goldwyn-Mayer (MGM),-1
 tt0109891,Getting Even with Dad,actor,5.0,Ted Danson,109,Metro-Goldwyn-Mayer (MGM),-1
+tt0109900,Giorgino,actor,7.0,Jeff Dahlgren,177,,-1
 tt0109916,Godzilla vs. SpaceGodzilla,actor,6.0,Jun Hashizume,106,Toho Film (Eiga) Co. Ltd.,-1
 tt0109916,Godzilla vs. SpaceGodzilla,actress,6.0,Megumi Odaka,106,Toho Film (Eiga) Co. Ltd.,-1
 tt0109951,Guarding Tess,actress,6.0,Shirley MacLaine,96,"TriStar Pictures, Channel Films",-1
@@ -5101,14 +5296,20 @@ tt0110146,Intersection,actress,5.0,Sharon Stone,98,Paramount Pictures,0
 tt0110146,Intersection,actor,5.0,Richard Gere,98,Paramount Pictures,0
 tt0110148,Interview with the Vampire,actor,8.0,Tom Cruise,123,Geffen Pictures,2
 tt0110148,Interview with the Vampire,actor,8.0,Brad Pitt,123,Geffen Pictures,2
+tt0110186,Jason's Lyric,actress,7.0,Jada Pinkett Smith,119,,1
+tt0110186,Jason's Lyric,actor,7.0,Allen Payne,119,,1
 tt0110197,Jimmy Hollywood,actor,5.0,Joe Pesci,112,"Paramount Pictures, Baltimore Pictures",-1
 tt0110197,Jimmy Hollywood,actor,5.0,Christian Slater,112,"Paramount Pictures, Baltimore Pictures",-1
+tt0110202,The Ride,actress,7.0,Anna Geislerová,90,,-1
+tt0110202,The Ride,actor,7.0,Radek Pastrnák,90,,-1
 tt0110216,Junior,actor,5.0,Arnold Schwarzenegger,109,"Universal Pictures, Northern Lights Entertainment",0
 tt0110216,Junior,actor,5.0,Danny DeVito,109,"Universal Pictures, Northern Lights Entertainment",0
 tt0110255,Kickboxer 4: The Aggressor,actor,4.0,Kamel Krifa,90,Kings Road Entertainment,-1
 tt0110255,Kickboxer 4: The Aggressor,actor,4.0,Sasha Mitchell,90,Kings Road Entertainment,-1
 tt0110265,Killing Zoe,actress,6.0,Julie Delpy,96,Live Entertainment,0
 tt0110265,Killing Zoe,actor,6.0,Eric Stoltz,96,Live Entertainment,0
+tt0110289,"Ryaba, My Chicken",actor,7.0,Viktor Mikhaylov,117,,0
+tt0110289,"Ryaba, My Chicken",actress,7.0,Inna Churikova,117,,0
 tt0110308,The Last Seduction,actress,7.0,Linda Fiorentino,110,"October Films, Incorporated Television Company (ITC)",-1
 tt0110308,The Last Seduction,actor,7.0,Peter Berg,110,"October Films, Incorporated Television Company (ITC)",-1
 tt0110322,Legends of the Fall,actor,8.0,Brad Pitt,133,"Bedford Falls Productions, TriStar Pictures, Pangaea",4
@@ -5119,6 +5320,8 @@ tt0110357,The Lion King,actor,9.0,Jeremy Irons,88,"Walt Disney Pictures, Walt Di
 tt0110357,The Lion King,actor,9.0,Matthew Broderick,88,"Walt Disney Pictures, Walt Disney Feature Animation",16
 tt0110367,Little Women,actress,7.0,Susan Sarandon,115,Columbia Pictures,-1
 tt0110367,Little Women,actress,7.0,Winona Ryder,115,Columbia Pictures,-1
+tt0110374,Loaded,actor,5.0,Oliver Milburn,96,,-1
+tt0110374,Loaded,actress,5.0,Dearbhla Molloy,96,,-1
 tt0110391,Love Affair,actress,6.0,Annette Bening,108,Warner Bros.,-1
 tt0110391,Love Affair,actor,6.0,Warren Beatty,108,Warner Bros.,-1
 tt0110399,A Low Down Dirty Shame,actor,6.0,Charles S. Dutton,100,"Caravan Pictures, Hollywood Pictures",1
@@ -5224,6 +5427,8 @@ tt0111756,Wyatt Earp,actor,7.0,Dennis Quaid,191,"Tig Productions, Warner Bros., 
 tt0111756,Wyatt Earp,actor,7.0,Kevin Costner,191,"Tig Productions, Warner Bros., Kasdan Pictures, Paragon Entertainment Corp.",0
 tt0112281,Ace Ventura: When Nature Calls,actor,6.0,Jim Carrey,90,"O Entertainment, Warner Bros., Morgan Creek Productions",6
 tt0112281,Ace Ventura: When Nature Calls,actor,6.0,Ian McNeice,90,"O Entertainment, Warner Bros., Morgan Creek Productions",6
+tt0112318,Galaxy Girls,actor,6.0,Bernie Van De Yacht,85,,-1
+tt0112318,Galaxy Girls,actress,6.0,Gail Thackray,85,,-1
 tt0112346,The American President,actor,7.0,Michael Douglas,114,"Columbia Pictures, Castle Rock Entertainment",0
 tt0112346,The American President,actress,7.0,Annette Bening,114,"Columbia Pictures, Castle Rock Entertainment",0
 tt0112379,Antonia's Line,actor,7.0,Jan Decleir,102,"Bergen Film, Bard Entertainments, NPS Televisie",-1
@@ -5309,6 +5514,8 @@ tt0113161,Get Shorty,actress,7.0,Rene Russo,105,"Jersey Films, Metro-Goldwyn-May
 tt0113161,Get Shorty,actor,7.0,Gene Hackman,105,"Jersey Films, Metro-Goldwyn-Mayer (MGM)",2
 tt0113189,GoldenEye,actor,7.0,Pierce Brosnan,130,"United Artists, Eon Productions",5
 tt0113189,GoldenEye,actor,7.0,Sean Bean,130,"United Artists, Eon Productions",5
+tt0113241,Habit,actor,6.0,Larry Fessenden,112,,-1
+tt0113241,Habit,actress,6.0,Meredith Snaider,112,,-1
 tt0113243,Hackers,actress,6.0,Angelina Jolie,105,"United Artists, Suftley",0
 tt0113243,Hackers,actor,6.0,Jonny Lee Miller,105,"United Artists, Suftley",0
 tt0113247,La haine,actor,8.0,Vincent Cassel,98,"Egg Pictures, PolyGram Filmed Entertainment, Canal+, Les Productions Lazennec, La Sept Cinéma, Kasso Inc. Productions, Studio Image, Cofinergie 6",-1
@@ -5419,6 +5626,8 @@ tt0114388,Sense and Sensibility,actress,8.0,Emma Thompson,136,"Columbia Pictures
 tt0114429,Shirli-myrli,actor,7.0,Valeriy Garkalin,143,Mosfilm,-1
 tt0114436,Showgirls,actor,5.0,Kyle MacLachlan,128,"United Artists, Le Studio Canal+, Carolco Pictures",0
 tt0114436,Showgirls,actress,5.0,Elizabeth Berkley,128,"United Artists, Le Studio Canal+, Carolco Pictures",0
+tt0114474,Small Faces,actor,7.0,Joe McFadden,108,,-1
+tt0114474,Small Faces,actor,7.0,Iain Robertson,108,,-1
 tt0114478,Smoke,actor,7.0,William Hurt,112,Miramax Films,0
 tt0114478,Smoke,actor,7.0,Harvey Keitel,112,Miramax Films,0
 tt0114508,Species,actress,6.0,Natasha Henstridge,108,Metro-Goldwyn-Mayer (MGM),2
@@ -5440,6 +5649,8 @@ tt0114666,The Tie That Binds,actress,5.0,Daryl Hannah,99,"Hollywood Pictures, Po
 tt0114666,The Tie That Binds,actor,5.0,Keith Carradine,99,"Hollywood Pictures, PolyGram Filmed Entertainment, Interscope Communications",0
 tt0114681,To Die For,actor,7.0,Matt Dillon,106,"The Rank Organisation, Columbia Pictures Corporation",0
 tt0114681,To Die For,actress,7.0,Nicole Kidman,106,"The Rank Organisation, Columbia Pictures Corporation",0
+tt0114697,Top Dog,actor,4.0,Chuck Norris,86,,0
+tt0114697,Top Dog,actress,4.0,Michele Lamar Richards,86,,0
 tt0114709,Toy Story,actor,8.0,Tom Hanks,81,Pixar Animation Studios,11
 tt0114709,Toy Story,actor,8.0,Tim Allen,81,Pixar Animation Studios,11
 tt0114720,Tremors II: Aftershocks,actor,6.0,Chris Gartin,100,"MCA/Universal Pictures, Stampede Entertainment",-1
@@ -5606,6 +5817,8 @@ tt0116483,Happy Gilmore,actor,7.0,Christopher McDonald,92,"Universal Pictures, B
 tt0116483,Happy Gilmore,actor,7.0,Adam Sandler,92,"Universal Pictures, Brillstein-Grey Entertainment, Robert Simonds Productions",2
 tt0116493,Harriet the Spy,actress,6.0,Michelle Trachtenberg,100,"Paramount Pictures, Rastar Pictures, Nickelodeon Movies",-1
 tt0116493,Harriet the Spy,actress,6.0,Rosie O'Donnell,100,"Paramount Pictures, Rastar Pictures, Nickelodeon Movies",-1
+tt0116506,Hearts & Minds,actor,6.0,Danny Keogh,100,,-1
+tt0116506,Hearts & Minds,actor,6.0,Patrick Shai,100,,-1
 tt0116508,Heaven's Prisoners,actress,6.0,Kelly Lynch,132,"New Line Cinema, The Rank Organisation, Ruddy Morgan Productions, PVM Entertainment, Savoy Pictures",-1
 tt0116508,Heaven's Prisoners,actor,6.0,Alec Baldwin,132,"New Line Cinema, The Rank Organisation, Ruddy Morgan Productions, PVM Entertainment, Savoy Pictures",-1
 tt0116514,Hellraiser: Bloodline,actor,5.0,Bruce Ramsay,85,"Miramax Films, Dimension Films, Trans Atlantic Entertainment",3
@@ -5623,6 +5836,8 @@ tt0116695,Jerry Maguire,actor,7.0,Tom Cruise,139,"Gracie Films, TriStar Pictures
 tt0116695,Jerry Maguire,actor,7.0,Cuba Gooding Jr.,139,"Gracie Films, TriStar Pictures",4
 tt0116705,Jingle All the Way,actor,6.0,Arnold Schwarzenegger,89,"Twentieth Century Fox Film Corporation, 1492 Pictures",1
 tt0116705,Jingle All the Way,actor,6.0,Sinbad,89,"Twentieth Century Fox Film Corporation, 1492 Pictures",1
+tt0116707,Joe's Apartment,actor,6.0,Jerry O'Connell,80,,0
+tt0116707,Joe's Apartment,actress,6.0,Megan Ward,80,,0
 tt0116722,Jude,actress,7.0,Kate Winslet,123,"Revolution Films, PolyGram Filmed Entertainment, British Broadcasting Corporation (BBC)",0
 tt0116722,Jude,actor,7.0,Christopher Eccleston,123,"Revolution Films, PolyGram Filmed Entertainment, British Broadcasting Corporation (BBC)",0
 tt0116731,The Juror,actress,6.0,Demi Moore,118,Columbia Pictures Corporation,-1
@@ -5718,6 +5933,8 @@ tt0117718,The Spitfire Grill,actress,7.0,Alison Elliott,117,Castle Rock Entertai
 tt0117718,The Spitfire Grill,actress,7.0,Ellen Burstyn,117,Castle Rock Entertainment,1
 tt0117723,Spy Hard,actor,5.0,Leslie Nielsen,81,Hollywood Pictures,-1
 tt0117723,Spy Hard,actress,5.0,Nicollette Sheridan,81,Hollywood Pictures,-1
+tt0117724,Squeeze,actor,6.0,Tyrone Burton,102,,0
+tt0117724,Squeeze,actor,6.0,Eddie Cutanda,102,,0
 tt0117731,Star Trek: First Contact,actor,8.0,Patrick Stewart,111,"Paramount Pictures, Digital Image Associates",2
 tt0117731,Star Trek: First Contact,actor,8.0,Jonathan Frakes,111,"Paramount Pictures, Digital Image Associates",2
 tt0117765,Striptease,actor,5.0,Burt Reynolds,115,"Columbia Pictures, Castle Rock Entertainment",1
@@ -5749,6 +5966,8 @@ tt0118137,Werewolf,actor,2.0,Richard Lynch,99,Tozart Publishing Inc.,-1
 tt0118137,Werewolf,actor,2.0,Jorge Rivero,99,Tozart Publishing Inc.,-1
 tt0118158,White Squall,actress,7.0,Caroline Goodall,129,"Hollywood Pictures, Largo Entertainment, Scott Free Productions",0
 tt0118158,White Squall,actor,7.0,Jeff Bridges,129,"Hollywood Pictures, Largo Entertainment, Scott Free Productions",0
+tt0118163,The Whole Wide World,actor,7.0,Vincent D'Onofrio,111,,-1
+tt0118163,The Whole Wide World,actress,7.0,Renée Zellweger,111,,-1
 tt0118172,Mr. Toad's Wild Ride,actor,6.0,Steve Coogan,88,Allied Filmmakers,0
 tt0118172,Mr. Toad's Wild Ride,actor,6.0,Eric Idle,88,Allied Filmmakers,0
 tt0118523,'Til There Was You,actor,5.0,Dylan McDermott,113,"Paramount Pictures, Lakeshore Entertainment",-1
@@ -5808,6 +6027,8 @@ tt0118755,The Borrowers,actor,6.0,John Goodman,89,"Working Title Films, Polygram
 tt0118755,The Borrowers,actor,6.0,Jim Broadbent,89,"Working Title Films, Polygram Filmed Entertainment",-1
 tt0118771,Breakdown,actor,7.0,J.T. Walsh,93,"Paramount Pictures, Dino De Laurentiis Company, Spelling Films",0
 tt0118771,Breakdown,actor,7.0,Kurt Russell,93,"Paramount Pictures, Dino De Laurentiis Company, Spelling Films",0
+tt0118789,Buffalo '66,actor,7.0,Vincent Gallo,110,,0
+tt0118789,Buffalo '66,actress,7.0,Christina Ricci,110,,0
 tt0118798,Bulworth,actress,7.0,Halle Berry,108,Twentieth Century Fox Film Corporation,0
 tt0118798,Bulworth,actor,7.0,Warren Beatty,108,Twentieth Century Fox Film Corporation,0
 tt0118799,Life Is Beautiful,actor,9.0,Roberto Benigni,116,"Miramax Films, Melampo Cinematografica",10
@@ -5994,6 +6215,8 @@ tt0119832,One Night Stand,actress,6.0,Nastassja Kinski,102,New Line Cinema,0
 tt0119832,One Night Stand,actor,6.0,Wesley Snipes,102,New Line Cinema,0
 tt0119859,Paradise Road,actress,7.0,Frances McDormand,122,"Fox Searchlight Pictures, Village Roadshow Pictures, Samson Productions",-1
 tt0119859,Paradise Road,actress,7.0,Glenn Close,122,"Fox Searchlight Pictures, Village Roadshow Pictures, Samson Productions",-1
+tt0119870,Paws,actor,5.0,Nathan Cavaleri,83,,11
+tt0119870,Paws,actor,5.0,Billy Connolly,83,,11
 tt0119874,The Peacemaker,actress,6.0,Nicole Kidman,124,DreamWorks SKG,-1
 tt0119874,The Peacemaker,actor,6.0,George Clooney,124,DreamWorks SKG,-1
 tt0119887,The Pest,actor,5.0,John Leguizamo,84,"TriStar Pictures, The Bubble Factory",-1
@@ -6020,6 +6243,8 @@ tt0120004,The Relic,actress,6.0,Penelope Ann Miller,110,"Paramount Pictures, Uni
 tt0120004,The Relic,actor,6.0,Tom Sizemore,110,"Paramount Pictures, Universal Pictures, Toho-Towa, Mutual Film Company, Pacific Western, PolyGram Filmed Entertainment, Marubeni, Tele München Fernseh Produktionsgesellschaft (TMG), British Broadcasting Corporation (BBC)",0
 tt0120008,The Replacement Killers,actor,6.0,Chow Yun-Fat,87,Columbia Pictures Corporation,0
 tt0120008,The Replacement Killers,actress,6.0,Mira Sorvino,87,Columbia Pictures Corporation,0
+tt0120028,Robinson in Space,actor,7.0,Paul Scofield,82,,-1
+tt0120028,Robinson in Space,director,7.0,Patrick Keiller,82,,-1
 tt0120029,RocketMan,actress,6.0,Jessica Lundy,95,"Walt Disney Pictures, Caravan Pictures",-1
 tt0120029,RocketMan,actor,6.0,Harland Williams,95,"Walt Disney Pictures, Caravan Pictures",-1
 tt0120036,Rosewood,actor,7.0,Ving Rhames,140,"New Deal Productions, Warner Bros., Peters Entertainment",0
@@ -6095,10 +6320,13 @@ tt0120417,The Unknown Cyclist,actress,6.0,Lea Thompson,96,Watermark Films,-1
 tt0120417,The Unknown Cyclist,actor,6.0,Vincent Spano,96,Watermark Films,-1
 tt0120434,Vegas Vacation,actor,6.0,Chevy Chase,93,"Jerry Weintraub Productions, Warner Bros.",0
 tt0120434,Vegas Vacation,actress,6.0,Beverly D'Angelo,93,"Jerry Weintraub Productions, Warner Bros.",0
+tt0120449,The Dreamlife of Angels,actress,7.0,Élodie Bouchez,113,,-1
+tt0120449,The Dreamlife of Angels,actress,7.0,Natacha Régnier,113,,-1
 tt0120458,Virus,actress,5.0,Jamie Lee Curtis,99,"Universal Pictures, BBC Films, Dark Horse Entertainment, Toho-Towa, Mutual Film Company, Marubeni, Tele München Fernseh Produktionsgesellschaft (TMG), Valhalla Motion Pictures, UGC PH",0
 tt0120458,Virus,actor,5.0,Donald Sutherland,99,"Universal Pictures, BBC Films, Dark Horse Entertainment, Toho-Towa, Mutual Film Company, Marubeni, Tele München Fernseh Produktionsgesellschaft (TMG), Valhalla Motion Pictures, UGC PH",0
 tt0120461,Volcano,actress,6.0,Anne Heche,104,Twentieth Century Fox Film Corporation,-1
 tt0120461,Volcano,actor,6.0,Tommy Lee Jones,104,Twentieth Century Fox Film Corporation,-1
+tt0120467,Vulgar,actor,5.0,Brian O'Halloran,87,,0
 tt0120471,Would I Lie to You?,actor,6.0,Richard Anconina,100,"France 2 Cinéma, Orly Films, M6 Films, Les Productions Jacques Roitfeld, Canal+, Vertigo",6
 tt0120471,Would I Lie to You?,actor,6.0,Richard Bohringer,100,"France 2 Cinéma, Orly Films, M6 Films, Les Productions Jacques Roitfeld, Canal+, Vertigo",6
 tt0120483,The Man Who Knew Too Little,actor,7.0,Bill Murray,94,"Regency Enterprises, Taurus Films, Polar Productions, Warner Bros.",0
@@ -6221,6 +6449,8 @@ tt0120751,Mighty Joe Young,actress,6.0,Charlize Theron,114,"Walt Disney Pictures
 tt0120751,Mighty Joe Young,actor,6.0,Bill Paxton,114,"Walt Disney Pictures, RKO Pictures",-1
 tt0120753,The Million Dollar Hotel,actress,6.0,Milla Jovovich,122,Kintop Pictures,-1
 tt0120753,The Million Dollar Hotel,actor,6.0,Jeremy Davies,122,Kintop Pictures,-1
+tt0120754,The Misadventures of Margaret,actor,5.0,Jeremy Northam,105,,-1
+tt0120754,The Misadventures of Margaret,actress,5.0,Parker Posey,105,,-1
 tt0120755,Mission: Impossible II,actor,6.0,Tom Cruise,123,"Paramount Pictures, Cruise/Wagner Productions, Munich Film Partners & Company (MFP) MI2 Productions",3
 tt0120755,Mission: Impossible II,actor,6.0,Dougray Scott,123,"Paramount Pictures, Cruise/Wagner Productions, Munich Film Partners & Company (MFP) MI2 Productions",3
 tt0120757,The Mod Squad,actress,4.0,Claire Danes,92,Metro-Goldwyn-Mayer (MGM),0
@@ -6237,6 +6467,8 @@ tt0120770,A Night at the Roxbury,actor,6.0,Will Ferrell,82,"Paramount Pictures, 
 tt0120770,A Night at the Roxbury,actor,6.0,Chris Kattan,82,"Paramount Pictures, SNL Studios",0
 tt0120772,The Object of My Affection,actress,6.0,Jennifer Aniston,111,Twentieth Century Fox Film Corporation,2
 tt0120772,The Object of My Affection,actor,6.0,Paul Rudd,111,Twentieth Century Fox Film Corporation,2
+tt0120777,The Opposite of Sex,actress,6.0,Christina Ricci,105,,0
+tt0120777,The Opposite of Sex,actor,6.0,Martin Donovan,105,,0
 tt0120780,Out of Sight,actress,7.0,Jennifer Lopez,123,"Universal Pictures, Jersey Films",0
 tt0120780,Out of Sight,actor,7.0,George Clooney,123,"Universal Pictures, Jersey Films",0
 tt0120784,Payback,actor,7.0,Mel Gibson,100,"Paramount Pictures, Icon Entertainment International",0
@@ -6322,6 +6554,8 @@ tt0121765,Star Wars: Episode II - Attack of the Clones,actress,7.0,Natalie Portm
 tt0121765,Star Wars: Episode II - Attack of the Clones,actor,7.0,Hayden Christensen,142,Lucasfilm,4
 tt0121766,Star Wars: Episode III - Revenge of the Sith,actor,8.0,Hayden Christensen,140,Lucasfilm,6
 tt0121766,Star Wars: Episode III - Revenge of the Sith,actress,8.0,Natalie Portman,140,Lucasfilm,6
+tt0122037,The Dead Pit,actress,5.0,Cheryl Lawson,95,,-1
+tt0122037,The Dead Pit,actor,5.0,Jeremy Slate,95,,-1
 tt0122151,Lethal Weapon 4,actor,7.0,Mel Gibson,127,"Silver Pictures, Donner/Shuler-Donner Productions, Warner Bros.",1
 tt0122151,Lethal Weapon 4,actor,7.0,Danny Glover,127,"Silver Pictures, Donner/Shuler-Donner Productions, Warner Bros.",1
 tt0122459,Return to Me,actress,7.0,Minnie Driver,115,"Metro-Goldwyn-Mayer (MGM), JLT Productions",0
@@ -6392,6 +6626,8 @@ tt0127045,Neon Maniacs,actor,5.0,Clyde Hayes,91,Cimarron Productions,-1
 tt0127045,Neon Maniacs,actress,5.0,Leilani Sarelle,91,Cimarron Productions,-1
 tt0127276,The Shadow Men,actor,5.0,Eric Roberts,95,"Bruin Grip Services, Encounter Productions",-1
 tt0127276,The Shadow Men,actress,5.0,Sherilyn Fenn,95,"Bruin Grip Services, Encounter Productions",-1
+tt0127302,The Sticky Fingers of Time,actress,6.0,Terumi Matthews,81,,-1
+tt0127302,The Sticky Fingers of Time,actress,6.0,Nicole Zaray,81,,-1
 tt0127349,Waking the Dead,actor,6.0,Bill Haugland,105,"Egg Pictures, PolyGram Filmed Entertainment, Gramercy Pictures (I)",0
 tt0127349,Waking the Dead,actor,6.0,Billy Crudup,105,"Egg Pictures, PolyGram Filmed Entertainment, Gramercy Pictures (I)",0
 tt0127536,Elizabeth,actress,7.0,Cate Blanchett,124,"Channel Four Films, PolyGram Filmed Entertainment, Working Title Films",1
@@ -6430,6 +6666,7 @@ tt0131369,Edtv,actor,6.0,Matthew McConaughey,122,"Imagine Entertainment, Univers
 tt0131550,The Final Sacrifice,actor,2.0,Christian Malcolm,78,Flying Dutchman Productions Ltd.,-1
 tt0131646,Wing Commander,actor,4.0,Freddie Prinze Jr.,100,"Carousel Picture Company, The, No Prisoners Productions, Origin Systems Inc., American Entertainment Investors, Wing Commander Productions, Digital Anvil",-1
 tt0131704,The Adventures of Rocky & Bullwinkle,actor,4.0,Robert De Niro,92,"Universal Pictures, Capella International, KC Medien AG, Tribeca Productions",0
+tt0132082,The Devil at Your Heels,actor,8.0,Gordon Pinsent,102,,-1
 tt0132245,Driven,actor,5.0,Sylvester Stallone,116,"Epsilon Motion Pictures, Franchise Pictures, Trackform Film Productions, Mel's Cite du Cinema",0
 tt0132347,Mystery Men,actor,6.0,Ben Stiller,121,"Universal Pictures, Dark Horse Entertainment, Golar Productions",0
 tt0132910,The Crow: Salvation,actress,5.0,Kirsten Dunst,102,"Jeff Most Productions, Edward R. Pressman Film, IMF Internationale Medien und Film GmbH & Co. Produktions KG",-1
@@ -6472,6 +6709,7 @@ tt0139151,Inferno,actor,5.0,Jean-Claude Van Damme,95,"Davis-Films, PM Entertainm
 tt0139239,Go,actress,7.0,Sarah Polley,102,Columbia Pictures,3
 tt0139414,Lake Placid,actress,6.0,Bridget Fonda,82,"Fox 2000 Pictures, Phoenix Pictures, Rocking Chair Productions",1
 tt0139462,Message in a Bottle,actor,6.0,Kevin Costner,126,"Bel Air Entertainment, DiNovi Pictures, Tiger Productions",0
+tt0139615,Slam,actor,7.0,Saul Williams,100,,-1
 tt0139654,Training Day,actor,8.0,Denzel Washington,122,"Village Roadshow Pictures, NPV Entertainment, Warner Bros., Outlaw Productions (I), WV Films II",1
 tt0139809,The Thirteenth Floor,actor,7.0,Craig Bierko,100,"Columbia Pictures, Centropolis Film Productions",0
 tt0140352,The Insider,actor,8.0,Russell Crowe,157,"Spyglass Entertainment, Forward Pass, Kaitz Productions, Mann/Roth Productions, Touchstone Pictures",0
@@ -6491,14 +6729,18 @@ tt0143145,The World Is Not Enough,actor,6.0,Pierce Brosnan,128,"Eon Productions,
 tt0144084,American Psycho,actor,8.0,Christian Bale,102,"Lions Gate Films, Edward R. Pressman Film, Muse Productions",3
 tt0144117,The Boondock Saints,actor,8.0,Willem Dafoe,108,"Franchise Pictures, Brood Syndicate, B.D.S. Productions Inc.",0
 tt0144120,Bride of Chucky,actress,6.0,Jennifer Tilly,89,"Universal Pictures, Midwinter Productions Inc.",1
+tt0144134,The Cherry Orchard,actress,6.0,Charlotte Rampling,141,,26
 tt0144142,Committed,actress,5.0,Heather Graham,98,Miramax Films,-1
 tt0144168,Dick,actress,6.0,Kirsten Dunst,94,Columbia Pictures,1
 tt0144178,Dreaming of Joseph Lees,actor,6.0,Rupert Graves,92,Fox Entertainment Group,0
 tt0144214,The General's Daughter,actor,6.0,John Travolta,116,"Paramount Pictures, MFP Munich Film Partners GmbH & Company I. Produktions KG, Krane Entertainment, Neufeld Rehme Productions",1
 tt0144528,Nutty Professor II: The Klumps,actor,5.0,Eddie Murphy,106,"Imagine Entertainment, Universal Pictures",0
+tt0144555,Premutos: The Fallen Angel,actor,5.0,André Stryi,106,,-1
 tt0144640,Three to Tango,actress,6.0,Neve Campbell,98,"Village Roadshow Pictures, Warner Bros.",-1
 tt0144814,The Rage: Carrie 2,actress,5.0,Emily Bergl,104,"United Artists, Red Bank Films",0
 tt0144964,Highlander: Endgame,actor,5.0,Christopher Lambert,87,"Davis-Panzer Productions, Dimension Films",0
+tt0145394,A Place Called Chiapas,writer,7.0,Manfred Becker,89,,0
+tt0145394,A Place Called Chiapas,self,7.0,Samuel Ruiz García,89,,0
 tt0145487,Spider-Man,actor,7.0,Tobey Maguire,121,"Columbia Pictures, Marvel Enterprises",4
 tt0145531,Stigmata,actress,6.0,Patricia Arquette,103,"FGM Entertainment, Metro-Goldwyn-Mayer (MGM)",0
 tt0145653,Angela's Ashes,actress,7.0,Emily Watson,145,"Paramount Pictures, Universal Pictures",0
@@ -6520,6 +6762,7 @@ tt0149261,Deep Blue Sea,actor,6.0,Thomas Jane,105,"Village Roadshow Pictures, Wa
 tt0149624,All the Pretty Horses,actor,6.0,Matt Damon,116,"Columbia Pictures, Miramax Films",-1
 tt0149691,Anywhere But Here,actress,6.0,Susan Sarandon,114,"Twentieth Century Fox Film Corporation, Fox 2000 Pictures",0
 tt0158622,The Flintstones in Viva Rock Vegas,actor,4.0,John Taylor,90,"Universal Pictures, Amblin Entertainment",0
+tt0158692,Juha,director,7.0,Aki Kaurismäki,78,,-1
 tt0170016,How the Grinch Stole Christmas,actress,6.0,Taylor Momsen,104,"Imagine Entertainment, Universal Pictures",1
 tt0170691,Tigerland,actor,7.0,Matthew Davis,101,"Regency Enterprises, Haft Entertainment, New Regency Pictures, KirchMedia",-1
 tt0170705,Train of Life,actor,8.0,Rufus,103,"Canal Plus, Centre National de la Cinématographie",-1
@@ -6533,6 +6776,7 @@ tt0172156,Bad Boys II,actor,7.0,Martin Lawrence,147,"Columbia Pictures Corporati
 tt0172396,The End of the Affair,actress,7.0,Julianne Moore,102,Columbia Pictures Corporation,0
 tt0172493,"Girl, Interrupted",actress,7.0,Angelina Jolie,127,"Columbia Pictures Corporation, 3 Arts Entertainment, Global Entertainment Productions GmbH & Company Medien KG, Red Wagon Entertainment",-1
 tt0172495,Gladiator,actor,9.0,Joaquin Phoenix,155,"DreamWorks SKG, Universal Pictures, Scott Free Productions, Red Wagon Entertainment, Mill Film, C & L, Dawliz",3
+tt0172684,Kuch Kuch Hota Hai,actress,8.0,Kajol,185,,9
 tt0173716,Cecil B. Demented,actor,6.0,Stephen Dorff,87,"Canal+, Artic Productions LLC, Polar Entertainment Corporation",-1
 tt0173840,Final Fantasy: The Spirits Within,actor,6.0,Steve Buscemi,106,"Columbia Pictures, Square USA, Chris Lee Productions",0
 tt0174204,Simpatico,actor,5.0,Jeff Bridges,106,"Fine Line Features, Emotion Pictures, Canal+, Zeal Pictures",0
@@ -6541,14 +6785,19 @@ tt0174480,Autumn in New York,actress,6.0,Winona Ryder,103,"Lakeshore Entertainme
 tt0174856,The Hurricane,actor,8.0,Vicellous Shannon,146,"Universal Pictures, Beacon Communications, Azoff Entertainment",0
 tt0175142,Scary Movie,actor,6.0,Jon Abrahams,88,"Gold/Miller Productions, Wayans Bros. Entertainment, Dimension Films, Brad Grey Pictures",13
 tt0175880,Magnolia,actor,8.0,Jason Robards,188,"New Line Cinema, Ghoulardi Film Company, The Magnolia Project",0
+tt0176093,Return with Honor,actor,8.0,Ron Bliss,101,,-1
 tt0176269,Universal Soldier: The Return,actor,4.0,Bill Goldberg,83,"TriStar Pictures, Baumgarten-Prophet Entertainment",0
 tt0176269,Universal Soldier: The Return,actor,4.0,Jean-Claude Van Damme,83,"TriStar Pictures, Baumgarten-Prophet Entertainment",0
 tt0176783,Gossip,actor,6.0,James Marsden,90,"Village Roadshow Pictures, NPV Entertainment, Warner Bros., Outlaw Productions (I)",0
 tt0176783,Gossip,actress,6.0,Lena Headey,90,"Village Roadshow Pictures, NPV Entertainment, Warner Bros., Outlaw Productions (I)",0
+tt0177769,Fever,actor,6.0,Henry Thomas,92,,-1
+tt0177769,Fever,actor,6.0,David O'Hara,92,,-1
 tt0177789,Galaxy Quest,actress,7.0,Sigourney Weaver,102,"DreamWorks SKG, Gran Via Productions",1
 tt0177789,Galaxy Quest,actor,7.0,Tim Allen,102,"DreamWorks SKG, Gran Via Productions",1
 tt0177971,The Perfect Storm,actor,7.0,Mark Wahlberg,130,"Warner Bros., Baltimore Spring Creek Productions, Radiant Productions",1
 tt0177971,The Perfect Storm,actor,7.0,George Clooney,130,"Warner Bros., Baltimore Spring Creek Productions, Radiant Productions",1
+tt0178145,Joan of Arc,actress,7.0,Leelee Sobieski,90,,-1
+tt0178145,Joan of Arc,actor,7.0,Chad Willett,90,,-1
 tt0178655,Exit,actor,5.0,Patrick Fontana,110,"TPS Cinéma, Avalanche Productions",-1
 tt0178868,Ringu,actress,7.0,Nanako Matsushima,96,"Kadokawa Shoten Publishing Co. Ltd., Omega Project",6
 tt0178868,Ringu,actress,7.0,Miki Nakatani,96,"Kadokawa Shoten Publishing Co. Ltd., Omega Project",6
@@ -6603,6 +6852,8 @@ tt0183659,Pollock,actress,7.0,Marcia Gay Harden,122,"Fred Berner Films, Zeke Pro
 tt0183659,Pollock,actor,7.0,Ed Harris,122,"Fred Berner Films, Zeke Productions",0
 tt0183790,A Knight's Tale,actor,7.0,Mark Addy,132,"Columbia Pictures Corporation, Escape Artists, Black and Blu Entertainment, Finestkind",0
 tt0183790,A Knight's Tale,actor,7.0,Heath Ledger,132,"Columbia Pictures Corporation, Escape Artists, Black and Blu Entertainment, Finestkind",0
+tt0183808,Spanish Judges,actor,5.0,Matthew Lillard,98,,-1
+tt0183808,Spanish Judges,actor,5.0,Vincent D'Onofrio,98,,-1
 tt0184858,Reindeer Games,actor,6.0,Ben Affleck,104,"Dimension Films, Marty Katz Productions",0
 tt0184858,Reindeer Games,actor,6.0,Gary Sinise,104,"Dimension Films, Marty Katz Productions",0
 tt0184894,Shanghai Noon,actor,7.0,Jackie Chan,110,"Spyglass Entertainment, Roger Birnbaum Productions, Touchstone Pictures",0
@@ -6685,6 +6936,8 @@ tt0192657,Shiri,actor,7.0,Han Suk-kyu,125,Samsung Entertainment,-1
 tt0192657,Shiri,actor,7.0,Choi Min-sik,125,Samsung Entertainment,-1
 tt0192731,Urban Legends: Final Cut,actor,4.0,Matthew Davis,97,"Original Film, Phoenix Pictures, Canal+ Droits Audiovisuels",1
 tt0192731,Urban Legends: Final Cut,actress,4.0,Jennifer Morrison,97,"Original Film, Phoenix Pictures, Canal+ Droits Audiovisuels",1
+tt0194218,Panic,actor,7.0,William H. Macy,88,,0
+tt0194218,Panic,actress,7.0,Neve Campbell,88,,0
 tt0194368,Chain of Fools,actress,6.0,Salma Hayek,98,Bel Air Entertainment,-1
 tt0194368,Chain of Fools,actor,6.0,Steve Zahn,98,Bel Air Entertainment,-1
 tt0195234,Saving Grace,actor,7.0,Craig Ferguson,93,"Fine Line Features, Homerun Productions, Portman Entertainment Group, Rich Pickings, Sky Pictures, Wave Pictures",1
@@ -6696,10 +6949,14 @@ tt0195714,Final Destination,actress,7.0,Ali Larter,98,"New Line Cinema, Zide-Per
 tt0195945,Next Friday,actor,6.0,Mike Epps,98,New Line Cinema,4
 tt0195945,Next Friday,actor,6.0,Ice Cube,98,New Line Cinema,4
 tt0196069,Samsara,actor,8.0,Shawn Ku,138,Fandango,-1
+tt0196158,Ticker,actor,4.0,Tom Sizemore,92,,-1
+tt0196158,Ticker,actor,4.0,Dennis Hopper,92,,-1
 tt0196229,Zoolander,actor,7.0,Ben Stiller,90,"Paramount Pictures, Village Roadshow Pictures, NPV Entertainment, Scott Rudin Productions, Red Hour Productions, Tenth Planet Productions, VH1 Television, Red Hour Films, MFP Munich Film Partners GmbH & Company I. Produktions KG",1
 tt0196229,Zoolander,actor,7.0,Owen Wilson,90,"Paramount Pictures, Village Roadshow Pictures, NPV Entertainment, Scott Rudin Productions, Red Hour Productions, Tenth Planet Productions, VH1 Television, Red Hour Films, MFP Munich Film Partners GmbH & Company I. Produktions KG",1
 tt0196503,Dibu: The Movie,actor,4.0,Germán Kraus,105,"Bueprint Pictures, Patagonik Film Group, Televisión Federal (Telefe)",-1
 tt0196503,Dibu: The Movie,actress,4.0,Stella Maris Closas,105,"Bueprint Pictures, Patagonik Film Group, Televisión Federal (Telefe)",-1
+tt0196723,Forever Lulu,actress,6.0,Melanie Griffith,99,,-1
+tt0196723,Forever Lulu,actor,6.0,Patrick Swayze,99,,-1
 tt0196857,Play It to the Bone,actor,6.0,Woody Harrelson,124,Touchstone Pictures,0
 tt0196857,Play It to the Bone,actor,6.0,Antonio Banderas,124,Touchstone Pictures,0
 tt0197521,Godzilla: King of the Monsters!,actor,6.0,Raymond Burr,80,"Toho Company, Jewell Enterprises Inc.",-1
@@ -6708,11 +6965,16 @@ tt0197857,Schoolgirls in Chains,actor,5.0,John Parker,90,Mirror Releasing,-1
 tt0197857,Schoolgirls in Chains,actor,5.0,Gary Kent,90,Mirror Releasing,-1
 tt0198021,Where the Heart Is,actor,7.0,James Frain,120,"Twentieth Century Fox Film Corporation, Wind Dancer Films",1
 tt0198021,Where the Heart Is,actress,7.0,Natalie Portman,120,"Twentieth Century Fox Film Corporation, Wind Dancer Films",1
+tt0198279,Absence of the Good,actor,5.0,Stephen Baldwin,95,,-1
+tt0198279,Absence of the Good,actress,5.0,Tyne Daly,95,,-1
+tt0198307,Another State of Mind,self,8.0,Dennis Danell,78,,-1
 tt0198781,"Monsters, Inc.",actor,8.0,Billy Crystal,92,"Walt Disney Pictures, Pixar Animation Studios",3
 tt0198781,"Monsters, Inc.",actor,8.0,John Goodman,92,"Walt Disney Pictures, Pixar Animation Studios",3
 tt0198913,Plankton,actor,4.0,Tony Domenici,86,Production Film 82,-1
 tt0199232,Jesus,actor,6.0,Jeremy Sisto,77,"Five Mile River Films, Beta Film, CBS Television, Lux Vide, Ceská televize",-1
 tt0199232,Jesus,actress,6.0,Debra Messing,77,"Five Mile River Films, Beta Film, CBS Television, Lux Vide, Ceská televize",-1
+tt0199290,3 Strikes,actor,5.0,Brian Hooks,82,,0
+tt0199290,3 Strikes,actress,5.0,N'Bushe Wright,82,,0
 tt0199626,In the Cut,actor,5.0,Mark Ruffalo,119,"Pathe Productions, Red Turtle",0
 tt0199626,In the Cut,actress,5.0,Meg Ryan,119,"Pathe Productions, Red Turtle",0
 tt0199650,Jill Rips,actor,4.0,Dolph Lundgren,94,"Phoenician Entertainment, Franchise Pictures, Annex Entertainment, Ripped Productions Inc.",-1
@@ -6731,10 +6993,14 @@ tt0200669,The Golden Bowl,actress,6.0,Uma Thurman,130,"Merchant Ivory Production
 tt0200669,The Golden Bowl,actor,6.0,Jeremy Northam,130,"Merchant Ivory Productions, TF1 International",-1
 tt0200720,The House of Mirth,actor,7.0,Dan Aykroyd,135,"Granada Film Productions, Arts Council of England, Diaphana Films, The Glasgow Film Fund, National Lottery, Showtime Networks, Filmfour, Scottish Arts Council, The, Three Rivers Production, Progres Film Distribution, Kinowelt Median",0
 tt0200720,The House of Mirth,actress,7.0,Gillian Anderson,135,"Granada Film Productions, Arts Council of England, Diaphana Films, The Glasgow Film Fund, National Lottery, Showtime Networks, Filmfour, Scottish Arts Council, The, Three Rivers Production, Progres Film Distribution, Kinowelt Median",0
+tt0201394,The Shrink Is In,actor,5.0,David Arquette,92,,-1
+tt0201394,The Shrink Is In,actress,5.0,Courteney Cox,92,,-1
 tt0202402,Whatever It Takes,actress,6.0,Marla Sokoloff,94,Columbia Pictures Corporation,0
 tt0202402,Whatever It Takes,actor,6.0,Shane West,94,Columbia Pictures Corporation,0
 tt0202470,Rock Star,actor,6.0,Mark Wahlberg,105,"Bel Air Entertainment, Warner Bros., Robert Lawrence Productions, Metal Productions Inc., Maysville Pictures",0
 tt0202470,Rock Star,actress,6.0,Jennifer Aniston,105,"Bel Air Entertainment, Warner Bros., Robert Lawrence Productions, Metal Productions Inc., Maysville Pictures",0
+tt0202677,The Way of the Gun,actor,7.0,Ryan Phillippe,119,,1
+tt0202677,The Way of the Gun,actor,7.0,Benicio Del Toro,119,,1
 tt0203009,Moulin Rouge!,actress,8.0,Nicole Kidman,127,"Bazmark Films, Twentieth Century Fox Film Corporation",2
 tt0203009,Moulin Rouge!,actor,8.0,Ewan McGregor,127,"Bazmark Films, Twentieth Century Fox Film Corporation",2
 tt0203019,Men of Honor,actor,7.0,Robert De Niro,129,Fox 2000 Pictures,0
@@ -6799,6 +7065,8 @@ tt0210382,The Weight of Water,actor,6.0,Sean Penn,114,"StudioCanal, Miracle Pict
 tt0210382,The Weight of Water,actress,6.0,Catherine McCormack,114,"StudioCanal, Miracle Pictures, Palomar Pictures (II), Manifest Film Company",0
 tt0210616,Center Stage,actor,7.0,Ethan Stiefel,115,Columbia Pictures,0
 tt0210616,Center Stage,actress,7.0,Amanda Schull,115,Columbia Pictures,0
+tt0210777,The Journey,self,7.0,Eric Saperston,93,,-1
+tt0210777,The Journey,self,7.0,Jimmy Carter,93,,-1
 tt0210945,Remember the Titans,actor,8.0,Will Patton,113,"Walt Disney Pictures, Jerry Bruckheimer Films, Technical Black, Run It Up Productions Inc.",3
 tt0210945,Remember the Titans,actor,8.0,Denzel Washington,113,"Walt Disney Pictures, Jerry Bruckheimer Films, Technical Black, Run It Up Productions Inc.",3
 tt0211181,102 Dalmatians,actress,5.0,Glenn Close,100,"Walt Disney Pictures, Cruella Productions",1
@@ -6858,14 +7126,23 @@ tt0217756,Ready to Rumble,actor,5.0,Oliver Platt,107,"Bel Air Entertainment, War
 tt0217756,Ready to Rumble,actor,5.0,David Arquette,107,"Bel Air Entertainment, Warner Bros.",0
 tt0217869,Unbreakable,actor,7.0,Bruce Willis,106,"Limited Edition Productions Inc., Touchstone Pictures, Blinding Edge Pictures, Barry Mendel Productions",2
 tt0217869,Unbreakable,actor,7.0,Samuel L. Jackson,106,"Limited Edition Productions Inc., Touchstone Pictures, Blinding Edge Pictures, Barry Mendel Productions",2
+tt0217898,You're Human Like the Rest of Them,actor,7.0,William Hoyland,18,,-1
 tt0218043,Beyond the Mat,self,8.0,Terry Funk,102,"Imagine Entertainment, Universal Pictures, Lionsgate",0
 tt0218043,Beyond the Mat,self,8.0,Mick Foley,102,"Imagine Entertainment, Universal Pictures, Lionsgate",0
+tt0218553,Ring 2,actress,6.0,Miki Nakatani,95,,2
+tt0218553,Ring 2,actress,6.0,Hitomi Satô,95,,2
 tt0218817,Antitrust,actor,6.0,Ryan Phillippe,108,"Industry Entertainment, Epsilon Motion Pictures, Hyde Park Films, Metro-Goldwyn-Mayer (MGM)",0
 tt0218817,Antitrust,actor,6.0,Tim Robbins,108,"Industry Entertainment, Epsilon Motion Pictures, Hyde Park Films, Metro-Goldwyn-Mayer (MGM)",0
 tt0218922,Original Sin,actor,6.0,Antonio Banderas,116,"Intermedia Films, DiNovi Pictures, Epsilon Motion Pictures, Metro-Goldwyn-Mayer (MGM), Via Rosa Productions, Hyde Park Entertainment, UGC DA International",0
 tt0218922,Original Sin,actress,6.0,Angelina Jolie,116,"Intermedia Films, DiNovi Pictures, Epsilon Motion Pictures, Metro-Goldwyn-Mayer (MGM), Via Rosa Productions, Hyde Park Entertainment, UGC DA International",0
 tt0218967,The Family Man,actor,7.0,Nicolas Cage,125,Universal Pictures,-1
 tt0218967,The Family Man,actress,7.0,Téa Leoni,125,Universal Pictures,-1
+tt0219126,The Learning Curve,actor,5.0,Carmine Giovinazzo,113,,-1
+tt0219126,The Learning Curve,actor,5.0,Norbert Weisser,113,,-1
+tt0219405,Waydowntown,actor,7.0,Fab Filippo,87,,-1
+tt0219405,Waydowntown,actor,7.0,Don McKellar,87,,-1
+tt0219636,Dancing in September,actress,6.0,Tichina Arnold,107,,-1
+tt0219636,Dancing in September,actor,6.0,James Avery,107,,-1
 tt0219653,Dracula 2000,actor,5.0,Gerard Butler,99,"Neo Art & Logic, Dimension Films, Wes Craven Films",0
 tt0219653,Dracula 2000,actress,5.0,Justine Waddell,99,"Neo Art & Logic, Dimension Films, Wes Craven Films",0
 tt0219699,The Gift,actress,7.0,Katie Holmes,111,"Lakeshore Entertainment, Alphaville Films",0
@@ -6899,12 +7176,18 @@ tt0222012,Hey Ram,actor,8.0,Shah Rukh Khan,186,Raaj Kamal Films International,0
 tt0222012,Hey Ram,actor,8.0,Kamal Haasan,186,Raaj Kamal Films International,0
 tt0222812,Beyond Re-Animator,actor,6.0,Jeffrey Combs,96,"Vía Digital, Filmax, Castelao Producciones, Fantastic Factory (Filmax)",-1
 tt0222812,Beyond Re-Animator,actor,6.0,Tommy Dean Musset,96,"Vía Digital, Filmax, Castelao Producciones, Fantastic Factory (Filmax)",-1
+tt0222850,The Broken Hearts Club: A Romantic Comedy,actor,7.0,Timothy Olyphant,94,,0
+tt0222850,The Broken Hearts Club: A Romantic Comedy,actor,7.0,Dean Cain,94,,0
 tt0222851,Brother,actor,7.0,Claude Maki,114,"Bandai Visual Company, Office Kitano, Tokyo FM Broadcasting Co., Recorded Picture Company (RPC), Fuzzy Bunny Films (I), Little Brother Inc.",0
 tt0222851,Brother,actor,7.0,Takeshi Kitano,114,"Bandai Visual Company, Office Kitano, Tokyo FM Broadcasting Co., Recorded Picture Company (RPC), Fuzzy Bunny Films (I), Little Brother Inc.",0
 tt0223897,Pay It Forward,actor,7.0,Haley Joel Osment,123,"Bel Air Entertainment, Warner Bros.",0
 tt0223897,Pay It Forward,actor,7.0,Kevin Spacey,123,"Bel Air Entertainment, Warner Bros.",0
+tt0224025,Wild Roomies,actor,4.0,A.J. Buckley,88,,-1
+tt0224025,Wild Roomies,actress,4.0,Holly Fields,88,,-1
 tt0225071,Angel Eyes,actress,6.0,Jennifer Lopez,102,"Epsilon Motion Pictures, Morgan Creek Productions, The Canton Company, AE Two Film Productions, Angel Eyes Productions",0
 tt0225071,Angel Eyes,actor,6.0,Jim Caviezel,102,"Epsilon Motion Pictures, Morgan Creek Productions, The Canton Company, AE Two Film Productions, Angel Eyes Productions",0
+tt0225481,The Dead Hate the Living!,actress,4.0,Jamie Donahue,90,,-1
+tt0225481,The Dead Hate the Living!,actor,4.0,Eric Clawson,90,,-1
 tt0226168,Multi-Facial,actor,7.0,Vin Diesel,20,One Race Productions,-1
 tt0226168,Multi-Facial,actor,7.0,Lewis Steidl,20,One Race Productions,-1
 tt0227005,Made,actor,6.0,Jon Favreau,95,Artisan Entertainment,0
@@ -6950,11 +7233,14 @@ tt0234748,Slime City,actor,5.0,Craig Sabin,81,Bare Bones Productions,-1
 tt0234829,Summer Catch,actress,5.0,Jessica Biel,104,"Tollin/Robbins Productions, Warner Bros.",0
 tt0234829,Summer Catch,actor,5.0,Freddie Prinze Jr.,104,"Tollin/Robbins Productions, Warner Bros.",0
 tt0235679,Pokémon 3 the Movie: Spell of the Unown,actress,6.0,Veronica Taylor,93,"TV Tokyo, 4 Kids Entertainment, Nintendo, Pikachu Project, Oriental Light and Magic (OLM), Kids' WB, Pikachu Project 2001, Shoakuken",3
+tt0235712,Ring 0: Birthday,actor,6.0,Seiichi Tanabe,99,,-1
+tt0235712,Ring 0: Birthday,actress,6.0,Yukie Nakama,99,,-1
 tt0235737,The Salton Sea,actor,7.0,Val Kilmer,103,"Castle Rock Entertainment, Darkwoods Productions, Humble Journey Films",0
 tt0236348,Josie and the Pussycats,actress,6.0,Rachael Leigh Cook,98,"Universal Pictures, Marc Platt Productions, Metro-Goldwyn-Mayer (MGM), Riverdale Productions",-1
 tt0236348,Josie and the Pussycats,actress,6.0,Tara Reid,98,"Universal Pictures, Marc Platt Productions, Metro-Goldwyn-Mayer (MGM), Riverdale Productions",-1
 tt0236493,The Mexican,actress,6.0,Julia Roberts,123,"DreamWorks SKG, Newmarket Capital Group, Lawrence Bender Productions, Pistolero Productions LLC",1
 tt0236784,The Tailor of Panama,actor,6.0,Geoffrey Rush,109,"Columbia Pictures, Merlin Films",0
+tt0237320,Hunger,actor,8.0,Robert Culp,82,,-1
 tt0237534,Brotherhood of the Wolf,actor,7.0,Mark Dacascos,142,"Davis-Films, Eskwad, TF1 Films Production, Canal+, Studio Image Soficas, Natexis Banques Populaires Images",1
 tt0237572,The Pledge,actor,7.0,Benicio Del Toro,124,"Epsilon Motion Pictures, Franchise Pictures, Morgan Creek Productions, Clyde Is Hungry Films, Pledge Productions",0
 tt0237680,Sacred Flesh,actress,3.0,Moyna Cope,75,Heretic Films,-1
@@ -6962,6 +7248,7 @@ tt0238112,Captain Corelli's Mandolin,actress,6.0,Penélope Cruz,131,"Miramax Fil
 tt0238380,Equilibrium,actor,7.0,Sean Bean,107,"Dimension Films, Blue Tulip Productions",0
 tt0238546,Queen of the Damned,actor,5.0,Stuart Townsend,101,"Village Roadshow Pictures, NPV Entertainment, Warner Bros., WV Films LLC, Material",0
 tt0238552,Replicant,actor,5.0,Jean-Claude Van Damme,100,"Artisan Entertainment, 777 Films Corporation, Millennium Films",-1
+tt0238883,Brat 2,actor,8.0,Viktor Sukhorukov,122,,-1
 tt0238936,Devdas,actress,8.0,Aishwarya Rai Bachchan,185,V.I.P. Films,-1
 tt0239395,Cats & Dogs,actor,5.0,Tobey Maguire,87,"Village Roadshow Pictures, NPV Entertainment, Mad Chance, Zide-Perry Productions, Warner Bros., BenderSpink",0
 tt0239641,Mimic 2,actor,5.0,Bruno Campos,82,"Neo Art & Logic, Dimension Films",-1
@@ -6974,6 +7261,7 @@ tt0240772,Ocean's Eleven,actor,8.0,Brad Pitt,116,"Village Roadshow Pictures, Sec
 tt0240890,Serendipity,actress,7.0,Kate Beckinsale,90,"Miramax Films, Tapestry Films, Simon Fields Productions",1
 tt0240900,Slackers,actor,5.0,Robert B. Martin Jr.,86,"Sony Pictures, Screen Gems",0
 tt0241025,Vanity Fair,actress,6.0,Romola Garai,141,"Alliance Films, Focus Features",0
+tt0241073,Whispering Corridors,actress,6.0,Yun Ji-hye,105,,-1
 tt0241183,Angels Don't Sleep Here,actor,3.0,Dana Ashbrook,88,Silverline Pictures,-1
 tt0241303,Chocolat,actor,7.0,Johnny Depp,121,"Miramax Films, David Brown Productions, Fat Free",5
 tt0241527,Harry Potter and the Sorcerer's Stone,actor,8.0,Rupert Grint,152,"1492 Pictures, Warner Bros., Heyday Films",6
@@ -6981,8 +7269,11 @@ tt0241760,The New Guy,actor,6.0,Lyle Lovett,88,"Revolution Studios, Frontier Pic
 tt0242256,Alai Payuthey,actress,8.0,Shalini,156,Madras Talkies,2
 tt0242423,"Dude, Where's My Car?",actor,6.0,Seann William Scott,83,"Twentieth Century Fox Film Corporation, Alcon Entertainment",4
 tt0242445,Exit Wounds,actor,6.0,DMX,101,"Village Roadshow Pictures, NPV Entertainment, Warner Bros.",0
+tt0242572,Kandukondain Kandukondain,actress,8.0,Tabu,151,,0
+tt0242587,L.I.E.,actor,7.0,Paul Dano,97,,1
 tt0242653,The Matrix Revolutions,actor,7.0,Laurence Fishburne,129,"Village Roadshow Pictures, NPV Entertainment, Silver Pictures, Warner Bros.",1
 tt0243155,Bridget Jones's Diary,actor,7.0,Colin Firth,97,"Miramax Films, Universal Pictures, Studio Canal, Working Title Films, Little Bird",10
+tt0243554,When Strangers Appear,actor,6.0,Josh Lucas,98,,-1
 tt0243558,Revolutionary Girl Utena: The Movie,actress,7.0,Yuriko Fuchizaki,100,"TV Tokyo, Movic, King Record Co., Shogakukan, J.C.Staff, Star Child Recording, Sega of America, Shôjo Kakumei Utena Production Co.",-1
 tt0243585,Stuart Little 2,actress,6.0,Geena Davis,77,"Columbia Pictures, Sony Pictures Entertainment",0
 tt0243655,Wet Hot American Summer,actor,7.0,David Hyde Pierce,97,Eureka Pictures,0
@@ -6990,6 +7281,7 @@ tt0243736,40 Days and 40 Nights,actress,6.0,Shannyn Sossamon,96,"Miramax Films, 
 tt0243991,Intimate Affairs,actress,5.0,Julie Delpy,108,"Janus Films, Kingsgate Films, MMC Independent, ApolloMedia Distribution, Gemini Film",-1
 tt0244000,American Outlaws,actor,6.0,Scott Caan,94,Morgan Creek Productions,0
 tt0244173,The King Is Dancing,actor,7.0,Boris Terral,115,"France 2 Cinéma, Canal+, K-Star",-1
+tt0244196,Second Skin,actor,5.0,Angus Macfadyen,95,,-1
 tt0244244,Swordfish,actor,7.0,Hugh Jackman,99,"Village Roadshow Pictures, NPV Entertainment, Silver Pictures, Warner Bros., Jonathan Krane Group",0
 tt0244353,The Mists of Avalon,actress,7.0,Julianna Margulies,92,"Wolper Organization, Turner Network Television (TNT), Constantin Film Produktion, Warner Bros., Stillking Films",-1
 tt0244479,Dark Blue World,actor,7.0,Krystof Hádek,112,"Portobello Pictures, Eurimages, Helkon Media AG, Fandango, Ceská televize, Biograf Jan Sverák, Phoenix Film Investments, The Czech Republic State Fund for Support and Development of Cinematography",-1
@@ -7018,17 +7310,22 @@ tt0247586,Nine Queens,actor,8.0,Gastón Pauls,114,"Naya Films S.A., Patagonik Fi
 tt0247638,The Princess Diaries,actress,6.0,Anne Hathaway,115,"Walt Disney Pictures, BrownHouse Productions, Bottom of the Ninth Productions",3
 tt0247645,The Quickie,actress,6.0,Jennifer Jason Leigh,99,"Pandora Filmproduktion, Flach Films, Pyramide Films, Portman Film, Pendragon Pictures",-1
 tt0247745,Super Troopers,actor,7.0,Kevin Heffernan,100,"Fox Searchlight Pictures, Broken Lizard Industries",5
+tt0248012,Fiza,actor,6.0,Hrithik Roshan,170,,0
 tt0248216,Na Tum Jaano Na Hum,actor,5.0,Saif Ali Khan,158,"PFH Entertainment, Saregama HMV",16
 tt0248667,Ali,actor,7.0,Jon Voight,157,Columbia Pictures Corporation,0
 tt0248667,Ali,actor,7.0,Will Smith,157,Columbia Pictures Corporation,0
 tt0248928,The River,actor,7.0,Antti Ikkala,104,"Yleisradio (YLE), Lasihelmi Filmi",-1
 tt0248928,The River,actor,7.0,Antti Mikkola,104,"Yleisradio (YLE), Lasihelmi Filmi",-1
+tt0249131,Rollo and the Spirit of the Woods,actress,6.0,Maria Järvenhelmi,92,,-1
+tt0249131,Rollo and the Spirit of the Woods,actor,6.0,Kari Hietalahti,92,,-1
 tt0249462,Billy Elliot,actor,8.0,Jamie Draven,110,"BBC Films, Tiger Aspect Productions, StudioCanal, Arts Council of England, Working Title Films, WT2 Productions",21
 tt0249462,Billy Elliot,actress,8.0,Julie Walters,110,"BBC Films, Tiger Aspect Productions, StudioCanal, Arts Council of England, Working Title Films, WT2 Productions",21
 tt0249478,Domestic Disturbance,actor,6.0,Ruben Santiago-Hudson,89,Paramount Pictures,0
 tt0249478,Domestic Disturbance,actor,6.0,Nick Loren,89,Paramount Pictures,0
 tt0249516,Foodfight!,actress,1.0,Eva Longoria,91,"Threshold Entertainment, Lions Gate Family Entertainment",0
 tt0249516,Foodfight!,actress,1.0,Haylie Duff,91,"Threshold Entertainment, Lions Gate Family Entertainment",0
+tt0249567,Hansel and Gretel,actress,6.0,Alison Hong,45,,-1
+tt0249567,Hansel and Gretel,actor,6.0,Michael Yama,45,,-1
 tt0250224,Crazy/Beautiful,actor,6.0,Herman Osorio,99,"Touchstone Pictures, Ufland",0
 tt0250224,Crazy/Beautiful,actor,6.0,Jay Hernandez,99,"Touchstone Pictures, Ufland",0
 tt0250310,Corky Romano,actor,5.0,Peter Berg,86,"Robert Simonds Productions, Touchstone Pictures",1
@@ -7059,6 +7356,8 @@ tt0252028,Surviving Christmas,actress,6.0,Christina Applegate,91,"DreamWorks SKG
 tt0252028,Surviving Christmas,actress,6.0,Catherine O'Hara,91,"DreamWorks SKG, LivePlanet, Tall Trees Productions",0
 tt0252076,Maid in Manhattan,actor,5.0,Stanley Tucci,105,Red Om Films,1
 tt0252076,Maid in Manhattan,actor,5.0,Ralph Fiennes,105,Red Om Films,1
+tt0252223,All the Queen's Men,actor,5.0,Matt LeBlanc,99,,0
+tt0252223,All the Queen's Men,actor,5.0,James Cosmo,99,,0
 tt0252299,Buffalo Soldiers,actress,7.0,Anna Paquin,98,"Grosvenor Park Films LLP, Film4, Good Machine",-1
 tt0252299,Buffalo Soldiers,actor,7.0,Scott Glenn,98,"Grosvenor Park Films LLP, Film4, Good Machine",-1
 tt0252501,Hearts in Atlantis,actress,7.0,Mika Boorem,101,"Village Roadshow Pictures, Castle Rock Entertainment, Warner Bros.",0
@@ -7115,10 +7414,14 @@ tt0257516,Cursed,actor,5.0,Jesse Eisenberg,97,"Craven-Maddalena Films, Outerbank
 tt0257516,Cursed,actress,5.0,Mya,97,"Craven-Maddalena Films, Outerbanks Entertainment, Dimension Films, Kalis Productions GmbH & Co. Zweite KG",0
 tt0257756,High Crimes,actor,6.0,Jim Caviezel,115,"Twentieth Century Fox Film Corporation, Regency Enterprises, Monarch Pictures, Epsilon Motion Pictures, New Regency Pictures, Manifest Film Company",0
 tt0257756,High Crimes,actress,6.0,Ashley Judd,115,"Twentieth Century Fox Film Corporation, Regency Enterprises, Monarch Pictures, Epsilon Motion Pictures, New Regency Pictures, Manifest Film Company",0
+tt0257935,Morlang,actress,6.0,Diana Kent,94,,-1
+tt0257935,Morlang,actor,6.0,Eric van der Donk,94,,-1
 tt0258000,Panic Room,actor,7.0,Dwight Yoakam,112,"Hofflund/Polone, Indelible Productions",3
 tt0258000,Panic Room,actress,7.0,Kristen Stewart,112,"Hofflund/Polone, Indelible Productions",3
 tt0258068,The Quiet American,actor,7.0,Rade Serbedzija,101,"Miramax Films, Intermedia Films, Mirage Enterprises",0
 tt0258068,The Quiet American,actor,7.0,Brendan Fraser,101,"Miramax Films, Intermedia Films, Mirage Enterprises",0
+tt0258273,Lovely & Amazing,actress,7.0,Brenda Blethyn,91,,15
+tt0258273,Lovely & Amazing,actress,7.0,Emily Mortimer,91,,15
 tt0258463,The Bourne Identity,actor,8.0,Matt Damon,119,"Universal Pictures, Kennedy/Marshall Company, The, Hypnotic, Kalima Productions GmbH & Co. KG, Stillking Films",2
 tt0258463,The Bourne Identity,actor,8.0,Clive Owen,119,"Universal Pictures, Kennedy/Marshall Company, The, Hypnotic, Kalima Productions GmbH & Co. KG, Stillking Films",2
 tt0259288,Dragonfly,actor,6.0,Ron Rifkin,104,"Universal Pictures, Spyglass Entertainment, Shady Acres Entertainment, Gran Via Productions, Kalima Productions GmbH & Co. KG, NDE Productions",0
@@ -7128,6 +7431,8 @@ tt0259324,Ghost Rider,actor,5.0,Sam Elliott,110,"Columbia Pictures Corporation, 
 tt0259324,Ghost Rider,actor,5.0,Nicolas Cage,110,"Columbia Pictures Corporation, Relativity Media, Michael De Luca Productions, Marvel Enterprises, Crystal Sky Pictures, GH One, Vengeance Productions Pty. Ltd.",1
 tt0259446,My Big Fat Greek Wedding,actor,7.0,John Corbett,95,"Home Box Office (HBO), Playtone, Gold Circle Films, Ontario Film Development Corporation, MPH Entertainment Productions",72
 tt0259446,My Big Fat Greek Wedding,actress,7.0,Christina Eleusiniotis,95,"Home Box Office (HBO), Playtone, Gold Circle Films, Ontario Film Development Corporation, MPH Entertainment Productions",72
+tt0259567,Perfect Opposites,actress,6.0,Piper Perabo,99,,-1
+tt0259567,Perfect Opposites,actor,6.0,Andrew Keegan,99,,-1
 tt0259711,Vanilla Sky,actress,7.0,Penélope Cruz,136,"Paramount Pictures, Cruise-Wagner Productions, Vinyl Films",1
 tt0259711,Vanilla Sky,actor,7.0,Kurt Russell,136,"Paramount Pictures, Cruise-Wagner Productions, Vinyl Films",1
 tt0259822,.45,actor,6.0,Angus Macfadyen,101,"Media Talent Group, Möbius Entertainment",-1
@@ -7144,6 +7449,8 @@ tt0261289,Serving Sara,actress,5.0,Elizabeth Hurley,99,Paramount Pictures,0
 tt0261289,Serving Sara,actor,5.0,Vincent Pastore,99,Paramount Pictures,0
 tt0261392,Jay and Silent Bob Strike Back,actress,7.0,Harley Quinn Smith,104,"Dimension Films, View Askew Productions, Miramax",0
 tt0261392,Jay and Silent Bob Strike Back,actor,7.0,Kevin Smith,104,"Dimension Films, View Askew Productions, Miramax",0
+tt0261755,Jackpot,actor,6.0,Garrett Morris,97,,0
+tt0261755,Jackpot,actor,6.0,Jon Gries,97,,0
 tt0261983,Session 9,actor,6.0,Stephen Gevedon,97,"October Films, USA Films, Scout Productions",0
 tt0261983,Session 9,actor,6.0,Josh Lucas,97,"October Films, USA Films, Scout Productions",0
 tt0262396,Empire,actor,6.0,Vincent Laresca,90,Universal Studios,3
@@ -7152,6 +7459,8 @@ tt0262699,The Pornographer,actor,5.0,Jérémie Renier,108,"Haut et Court, TPS Ci
 tt0262699,The Pornographer,actress,5.0,Catherine Mouchet,108,"Haut et Court, TPS Cinéma, Telefilm Canada, Centre National de la Cinématographie (CNC), In Extremis Images, Ministère de la Culture et de la Communication",-1
 tt0263488,Jeepers Creepers,actor,6.0,Justin Long,90,"United Artists, American Zoetrope, Cinerenta Medienbeteiligungs KG, Cinerenta-Cinebeta, VCL Communications",4
 tt0263488,Jeepers Creepers,actress,6.0,Patricia Belcher,90,"United Artists, American Zoetrope, Cinerenta Medienbeteiligungs KG, Cinerenta-Cinebeta, VCL Communications",4
+tt0263734,Men with Brooms,actor,6.0,Leslie Nielsen,102,,0
+tt0263734,Men with Brooms,actress,6.0,Molly Parker,102,,0
 tt0263757,Uptown Girls,actor,6.0,Jesse Spencer,92,"GreeneStreet Films, Metro-Goldwyn-Mayer (MGM)",0
 tt0263757,Uptown Girls,actress,6.0,Dakota Fanning,92,"GreeneStreet Films, Metro-Goldwyn-Mayer (MGM)",0
 tt0264323,2001 Maniacs,actress,5.0,Lin Shaye,87,"Raw Nerve, Velvet Steamroller Entertainment, BloodWorks",-1
@@ -7162,6 +7471,8 @@ tt0264464,Catch Me If You Can,actor,8.0,Tom Hanks,141,"Kemp Company, Splendid Pi
 tt0264464,Catch Me If You Can,actor,8.0,Martin Sheen,141,"Kemp Company, Splendid Pictures, Parkes/MacDonald Productions",5
 tt0264472,Changing Lanes,actress,7.0,Toni Collette,98,Paramount Pictures,1
 tt0264472,Changing Lanes,actor,7.0,Samuel L. Jackson,98,Paramount Pictures,1
+tt0264508,Dagon,actress,6.0,Macarena Gómez,98,,-1
+tt0264508,Dagon,actor,6.0,Francisco Rabal,98,,-1
 tt0264616,Frailty,actor,7.0,Matt O'Leary,100,"Cinerenta Medienbeteiligungs KG, American Entertainment Partners L.P., David Kirschner Productions",0
 tt0264616,Frailty,actor,7.0,Matthew McConaughey,100,"Cinerenta Medienbeteiligungs KG, American Entertainment Partners L.P., David Kirschner Productions",0
 tt0264761,Kissing Jessica Stein,actress,7.0,Heather Juergensen,97,"Fox Searchlight Pictures, Eden Wurmfeld Films, Cineric, Michael Alden Productions, Brad Zions Films",9
@@ -7190,6 +7501,8 @@ tt0265666,The Royal Tenenbaums,actor,8.0,Ben Stiller,110,Touchstone Pictures,2
 tt0265666,The Royal Tenenbaums,actress,8.0,Gwyneth Paltrow,110,Touchstone Pictures,2
 tt0265825,Addictions and Subtractions,actress,7.0,María Isabel Gaviria,108,"A.T.P.I.P. Producciones, Latin Cinema Group, La Ducha Fria Producciones",-1
 tt0265825,Addictions and Subtractions,actor,7.0,Fabio Restrepo,108,"A.T.P.I.P. Producciones, Latin Cinema Group, La Ducha Fria Producciones",-1
+tt0265944,Untold,actress,4.0,Andrea Roth,86,,-1
+tt0265944,Untold,actor,4.0,Philip Granger,86,,-1
 tt0266308,Battle Royale,actress,8.0,Chiaki Kuriyama,114,"Nippon Shuppan Hanbai (Nippan) K.K., GAGA, WoWow, AM Associates, Kobi Co., MF Pictures",4
 tt0266308,Battle Royale,actress,8.0,Aki Maeda,114,"Nippon Shuppan Hanbai (Nippan) K.K., GAGA, WoWow, AM Associates, Kobi Co., MF Pictures",4
 tt0266391,The Cat's Meow,actress,6.0,Eddie Izzard,114,"Lions Gate Films, Dan Films, CP Medien AG",0
@@ -7216,6 +7529,8 @@ tt0267248,Abandon,actress,5.0,Zooey Deschanel,99,"Paramount Pictures, Spyglass E
 tt0267248,Abandon,actor,5.0,Benjamin Bratt,99,"Paramount Pictures, Spyglass Entertainment, Touchstone Pictures",0
 tt0267287,Avalon,actor,6.0,Wladyslaw Kowalski,107,"Bandai Visual Company, Nippon Herald Films, Dentsu Productions Ltd., Deiz Production, Media Factory",0
 tt0267287,Avalon,actor,6.0,Dariusz Biskupski,107,"Bandai Visual Company, Nippon Herald Films, Dentsu Productions Ltd., Deiz Production, Media Factory",0
+tt0267601,Truth About Demons,actress,5.0,Katie Wolfe,90,,-1
+tt0267601,Truth About Demons,actress,5.0,Sally Stockwell,90,,-1
 tt0267626,K-19: The Widowmaker,actor,7.0,Sam Spruell,138,"Paramount Pictures, Intermedia Films, National Geographic Society, New Regency Pictures, Palomar Pictures (II), First Light Production",0
 tt0267626,K-19: The Widowmaker,actor,7.0,Christian Camargo,138,"Paramount Pictures, Intermedia Films, National Geographic Society, New Regency Pictures, Palomar Pictures (II), First Light Production",0
 tt0267804,The One,actor,6.0,Jet Li,87,"Columbia Pictures, Revolution Studios, Hard Eight Pictures, Wonder works studios entertainment group",0
@@ -7243,6 +7558,8 @@ tt0269347,The Hunted,actress,6.0,Leslie Stefanson,94,"Lakeshore Entertainment, A
 tt0269347,The Hunted,actor,6.0,Benicio Del Toro,94,"Lakeshore Entertainment, Alphaville Films",0
 tt0270288,Confessions of a Dangerous Mind,actress,7.0,Drew Barrymore,113,"Miramax Films, Allied Filmmakers, Mad Chance",0
 tt0270288,Confessions of a Dangerous Mind,actress,7.0,Julia Roberts,113,"Miramax Films, Allied Filmmakers, Mad Chance",0
+tt0270480,Mad Love,actor,7.0,Giuliano Gemma,115,,-1
+tt0270480,Mad Love,actor,7.0,Daniele Liotti,115,,-1
 tt0270980,My Boss's Daughter,actress,5.0,Tara Reid,86,Dimension Films,-1
 tt0270980,My Boss's Daughter,actress,5.0,Molly Shannon,86,Dimension Films,-1
 tt0271027,Kiss of the Dragon,actor,7.0,Ric Young,98,"Twentieth Century Fox Film Corporation, Current Entertainment, Immortal Entertainment, Canal+, EuropaCorp, Quality Growth International Ltd.",1
@@ -7253,6 +7570,10 @@ tt0271259,Welcome to Collinwood,actor,6.0,Isaiah Washington,86,"Section Eight, P
 tt0271259,Welcome to Collinwood,actor,6.0,Sam Rockwell,86,"Section Eight, Pandora Cinema, Gaylord Films, Warner Bros., H5B5 Media AG",-1
 tt0271543,Hidden Agenda,actor,5.0,Ted Whittall,94,"Dream Rock, EGM Productions, Cinequest Films",-1
 tt0271543,Hidden Agenda,actress,5.0,Maxim Roy,94,"Dream Rock, EGM Productions, Cinequest Films",-1
+tt0271580,Jet Boy,actor,7.0,Joe Norman Shaw,99,,-1
+tt0271580,Jet Boy,actor,7.0,Randy Birch,99,,-1
+tt0271946,The Accidental Spy,actress,6.0,Vivian Hsu,87,,0
+tt0271946,The Accidental Spy,actress,6.0,Min Kim,87,,0
 tt0272020,The Last Castle,actor,7.0,Steve Burton,131,DreamWorks SKG,0
 tt0272020,The Last Castle,actor,7.0,James Gandolfini,131,DreamWorks SKG,0
 tt0272152,K-PAX,actor,7.0,Jeff Bridges,120,"Intermedia Films, Lawrence Gordon Productions, Pathé Pictures International, IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG",0
@@ -7272,6 +7593,9 @@ tt0274546,Hellraiser: Hellseeker,actor,5.0,Dean Winters,89,"Miramax Films, Neo A
 tt0274558,The Hours,actor,8.0,Stephen Dillane,110,"Paramount Pictures, Miramax Films, Scott Rudin Productions",0
 tt0274558,The Hours,actress,8.0,Nicole Kidman,110,"Paramount Pictures, Miramax Films, Scott Rudin Productions",0
 tt0274558,The Hours,actress,8.0,Meryl Streep,110,"Paramount Pictures, Miramax Films, Scott Rudin Productions",0
+tt0274711,People I Know,actress,5.0,Téa Leoni,100,,-1
+tt0274711,People I Know,actor,5.0,Al Pacino,100,,-1
+tt0274711,People I Know,actress,5.0,Kim Basinger,100,,-1
 tt0274812,Secretary,actor,7.0,James Spader,107,"Slough Pond, double A Films",1
 tt0274812,Secretary,actress,7.0,Lesley Ann Warren,107,"Slough Pond, double A Films",1
 tt0274812,Secretary,actress,7.0,Maggie Gyllenhaal,107,"Slough Pond, double A Films",1
@@ -7289,6 +7613,9 @@ tt0275773,Versus,actor,6.0,Hideo Sakaki,119,KSS,-1
 tt0275847,Lilo & Stitch,actor,7.0,Chris Sanders,85,"Walt Disney Pictures, Walt Disney Feature Animation",0
 tt0275847,Lilo & Stitch,actress,7.0,Daveigh Chase,85,"Walt Disney Pictures, Walt Disney Feature Animation",0
 tt0275847,Lilo & Stitch,actor,7.0,David Ogden Stiers,85,"Walt Disney Pictures, Walt Disney Feature Animation",0
+tt0276011,Children of the Living Dead,actress,2.0,Jamie McCoy,90,,-1
+tt0276011,Children of the Living Dead,actor,2.0,Tom Savini,90,,-1
+tt0276011,Children of the Living Dead,actor,2.0,Marty Schiff,90,,-1
 tt0276033,The Country Bears,actress,4.0,Candy Ford,88,Walt Disney Pictures,-1
 tt0276033,The Country Bears,actor,4.0,Haley Joel Osment,88,Walt Disney Pictures,-1
 tt0276033,The Country Bears,actor,4.0,Diedrich Bader,88,Walt Disney Pictures,-1
@@ -7315,6 +7642,9 @@ tt0277371,Not Another Teen Movie,actor,6.0,Eric Christian Olsen,89,"Original Fil
 tt0277434,We Were Soldiers,actress,7.0,Madeleine Stowe,138,"Icon Entertainment International, Wheelhouse Entertainment, Motion Picture Production GmbH & Co. Erste KG",0
 tt0277434,We Were Soldiers,actor,7.0,Sam Elliott,138,"Icon Entertainment International, Wheelhouse Entertainment, Motion Picture Production GmbH & Co. Erste KG",0
 tt0277434,We Were Soldiers,actor,7.0,Mel Gibson,138,"Icon Entertainment International, Wheelhouse Entertainment, Motion Picture Production GmbH & Co. Erste KG",0
+tt0277895,Mickey,actor,7.0,Harry Connick Jr.,105,,0
+tt0277895,Mickey,actor,7.0,Shawn Salinas,105,,0
+tt0277895,Mickey,actor,7.0,Mike Starr,105,,0
 tt0278295,All About the Benjamins,actor,6.0,Ice Cube,95,New Line Cinema,0
 tt0278295,All About the Benjamins,actress,6.0,Carmen Chaplin,95,New Line Cinema,0
 tt0278295,All About the Benjamins,actor,6.0,Mike Epps,95,New Line Cinema,0
@@ -7333,6 +7663,9 @@ tt0278723,The Skulls II,actor,5.0,Nathan West,99,"Original Film, Newmarket Capit
 tt0278823,Hollywood Ending,actor,7.0,Ivan Martin,112,DreamWorks SKG,-1
 tt0278823,Hollywood Ending,actor,7.0,Woody Allen,112,DreamWorks SKG,-1
 tt0278823,Hollywood Ending,actress,7.0,Téa Leoni,112,DreamWorks SKG,-1
+tt0279037,Heart of America,actor,4.0,Jürgen Prochnow,87,,-1
+tt0279037,Heart of America,actor,4.0,Michael Paré,87,,-1
+tt0279037,Heart of America,actor,4.0,Birkett Turton,87,,-1
 tt0279111,Gods and Generals,actor,6.0,Stephen Lang,219,"Warner Bros. Pictures, Turner Pictures, Antietam Filmworks",0
 tt0279111,Gods and Generals,actress,6.0,Donzaleigh Abernathy,219,"Warner Bros. Pictures, Turner Pictures, Antietam Filmworks",0
 tt0279111,Gods and Generals,actor,6.0,Robert Duvall,219,"Warner Bros. Pictures, Turner Pictures, Antietam Filmworks",0
@@ -7347,6 +7680,9 @@ tt0279331,Dark Blue,actor,7.0,Kurt Russell,118,"United Artists, Intermedia Films
 tt0279331,Dark Blue,actor,7.0,Ving Rhames,118,"United Artists, Intermedia Films, IM Filmproduktion, Cosmic Pictures, Metro-Goldwyn-Mayer (MGM), Alphaville Films",0
 tt0279493,Undercover Brother,actor,6.0,Eddie Griffin,86,Universal Pictures,0
 tt0279493,Undercover Brother,actress,6.0,Aunjanue Ellis-Taylor,86,Universal Pictures,0
+tt0279695,Blackwoods,actor,3.0,Patrick Muldoon,92,,-1
+tt0279695,Blackwoods,actor,3.0,Michael Paré,92,,-1
+tt0279695,Blackwoods,actress,3.0,Keegan Connor Tracy,92,,-1
 tt0279730,Children of the Corn: Revelation,actor,3.0,Kyle Cassie,82,"Neo Art & Logic, Creepersin Films",-1
 tt0279730,Children of the Corn: Revelation,actor,3.0,Troy Yorke,82,"Neo Art & Logic, Creepersin Films",-1
 tt0279730,Children of the Corn: Revelation,actress,3.0,Claudette Mink,82,"Neo Art & Logic, Creepersin Films",-1
@@ -7406,8 +7742,20 @@ tt0281364,Wasabi,actress,7.0,Carole Bouquet,94,"Canal Plus, TF1 Films Production
 tt0281373,Snow Dogs,actor,5.0,Cuba Gooding Jr.,99,Walt Disney Pictures,-1
 tt0281373,Snow Dogs,actor,5.0,James Coburn,99,Walt Disney Pictures,-1
 tt0281373,Snow Dogs,actress,5.0,Nichelle Nichols,99,Walt Disney Pictures,-1
+tt0281680,"The Bread, My Sweet",actor,7.0,John Seitz,105,,0
+tt0281680,"The Bread, My Sweet",actor,7.0,Scott Baio,105,,0
+tt0281680,"The Bread, My Sweet",actor,7.0,Zachary Mott,105,,0
 tt0281686,Bubba Ho-Tep,actor,7.0,Bob Ivy,92,"MGM, Silver Sphere Corporation",-1
 tt0281686,Bubba Ho-Tep,actor,7.0,Bruce Campbell,92,"MGM, Silver Sphere Corporation",-1
+tt0281726,The Circle,actor,5.0,Treat Williams,100,,-1
+tt0281726,The Circle,actor,5.0,Daniel Enright,100,,-1
+tt0281726,The Circle,actor,5.0,Robin Dunne,100,,-1
+tt0281938,Joe and Max,actor,7.0,Til Schweiger,106,,-1
+tt0281938,Joe and Max,actor,7.0,David Paymer,106,,-1
+tt0281938,Joe and Max,actor,7.0,Leonard Roberts,106,,-1
+tt0282108,Quo vadis,actor,6.0,Michal Bajor,165,,-1
+tt0282108,Quo vadis,actor,6.0,Pawel Delag,165,,-1
+tt0282108,Quo vadis,actress,6.0,Magdalena Mielcarz,165,,-1
 tt0282120,The Wild Thornberrys,actor,6.0,Flea,85,"Paramount Pictures, Nickelodeon Movies, Paramount Animation",-1
 tt0282120,The Wild Thornberrys,actor,6.0,Tim Curry,85,"Paramount Pictures, Nickelodeon Movies, Paramount Animation",-1
 tt0282410,Chance,actor,7.0,Andy Hallett,75,Independent,-1
@@ -7422,6 +7770,9 @@ tt0283003,Spun,actor,7.0,John Leguizamo,101,"Muse Productions, Brink Films, Silv
 tt0283026,Swimfan,actress,5.0,Kate Burton,85,"Twentieth Century Fox Film Corporation, Greenestreet Films, Cobalt Media Group, Furthur Films, Forrest Films",3
 tt0283026,Swimfan,actor,5.0,Jesse Bradford,85,"Twentieth Century Fox Film Corporation, Greenestreet Films, Cobalt Media Group, Furthur Films, Forrest Films",3
 tt0283026,Swimfan,actress,5.0,Erika Christensen,85,"Twentieth Century Fox Film Corporation, Greenestreet Films, Cobalt Media Group, Furthur Films, Forrest Films",3
+tt0283077,Triggermen,actor,6.0,Neil Morrissey,96,,-1
+tt0283077,Triggermen,actor,6.0,Pete Postlethwaite,96,,-1
+tt0283077,Triggermen,actor,6.0,James Collins,96,,-1
 tt0283084,Tuck Everlasting,actor,7.0,William Hurt,90,Walt Disney Pictures,0
 tt0283084,Tuck Everlasting,actress,7.0,Alexis Bledel,90,Walt Disney Pictures,0
 tt0283084,Tuck Everlasting,actor,7.0,Jonathan Jackson,90,Walt Disney Pictures,0
@@ -7437,6 +7788,8 @@ tt0283160,Extreme Ops,actor,4.0,Rupert Graves,93,"Paramount Pictures, Extreme Pr
 tt0283426,The Jungle Book 2,actor,5.0,John Goodman,72,"Walt Disney Pictures, Walt Disney Television Animation, Walt Disney Animation Australia, DisneyToon Studios",5
 tt0283426,The Jungle Book 2,actor,5.0,Haley Joel Osment,72,"Walt Disney Pictures, Walt Disney Television Animation, Walt Disney Animation Australia, DisneyToon Studios",5
 tt0283426,The Jungle Book 2,actress,5.0,Mae Whitman,72,"Walt Disney Pictures, Walt Disney Television Animation, Walt Disney Animation Australia, DisneyToon Studios",5
+tt0283452,The Long Ride Home,actor,5.0,Randy Travis,87,,-1
+tt0283452,The Long Ride Home,actor,5.0,Ernest Borgnine,87,,-1
 tt0283503,Brooklyn Rules,actor,6.0,Brian O'Neill,99,City Light Films,0
 tt0283503,Brooklyn Rules,actor,6.0,Daniel Tay,99,City Light Films,0
 tt0283509,No Man's Land,actor,8.0,Georges Siatidis,98,"Eurimages, TPS Cinéma, Man's Films, Counihan Villiers Productions, Rai Cinema, Radio Télévision Belge Francophone (RTBF), Télédistributeurs Wallons, Noé Productions, British Screen Finance Ltd, Studio Maj, Fabrica, Foundation Montecinema Verità, The Centre du Cinema et de l'Audiovisuel de la Communauté Française de Belgique, Slovenian Film Fund, Multivision, Canal + Belgique, Fondazione MonteCinemaVerità Locarno, Direction du Développement et de la Coopération (DDC), Département Fédéral des Affaires Etrangères, The European Co-Production Fund Limited",-1
@@ -7463,12 +7816,18 @@ tt0284491,No News from God,actor,6.0,Gerardo Giacinti,112,"Ensueño Films, Flame
 tt0284978,Cypher,actress,7.0,Lucy Liu,95,"Miramax Films, Pandora Cinema",-1
 tt0284978,Cypher,actor,7.0,Jeremy Northam,95,"Miramax Films, Pandora Cinema",-1
 tt0284978,Cypher,actor,7.0,Timothy Webber,95,"Miramax Films, Pandora Cinema",-1
+tt0285175,Havoc,actor,5.0,Michael Biehn,85,,-1
+tt0285175,Havoc,actress,5.0,Anne Hathaway,85,,-1
+tt0285175,Havoc,actress,5.0,Bijou Phillips,85,,-1
 tt0285441,Atanarjuat: The Fast Runner,actor,7.0,Natar Ungalaaq,172,Igloolik Isuma Productions Inc.,0
 tt0285441,Atanarjuat: The Fast Runner,actress,7.0,Sylvia Ivalu,172,Igloolik Isuma Productions Inc.,0
 tt0285441,Atanarjuat: The Fast Runner,actress,7.0,Lucy Tulugarjuk,172,Igloolik Isuma Productions Inc.,0
 tt0285462,Boat Trip,actor,5.0,Horatio Sanz,94,"Motion Picture Corporation of America, Artisan Entertainment",0
 tt0285462,Boat Trip,actor,5.0,Cuba Gooding Jr.,94,"Motion Picture Corporation of America, Artisan Entertainment",0
 tt0285462,Boat Trip,actress,5.0,Vivica A. Fox,94,"Motion Picture Corporation of America, Artisan Entertainment",0
+tt0285487,Crazy as Hell,actor,6.0,Ronny Cox,113,,-1
+tt0285487,Crazy as Hell,actor,6.0,Michael Beach,113,,-1
+tt0285487,Crazy as Hell,actress,6.0,Jane Carr,113,,-1
 tt0285531,Dreamcatcher,actor,6.0,Damian Lewis,134,"Village Roadshow Pictures, Castle Rock Entertainment, NPV Entertainment, Kasdan Pictures, WV Films II",0
 tt0285531,Dreamcatcher,actor,6.0,Thomas Jane,134,"Village Roadshow Pictures, Castle Rock Entertainment, NPV Entertainment, Kasdan Pictures, WV Films II",0
 tt0285531,Dreamcatcher,actor,6.0,Morgan Freeman,134,"Village Roadshow Pictures, Castle Rock Entertainment, NPV Entertainment, Kasdan Pictures, WV Films II",0
@@ -7484,6 +7843,9 @@ tt0285823,Once Upon a Time in Mexico,actor,6.0,Antonio Banderas,102,"Columbia Pi
 tt0286106,Signs,actor,7.0,Mel Gibson,106,"Kennedy/Marshall Company, The, Touchstone Pictures, Blinding Edge Pictures",4
 tt0286106,Signs,actor,7.0,Joaquin Phoenix,106,"Kennedy/Marshall Company, The, Touchstone Pictures, Blinding Edge Pictures",4
 tt0286106,Signs,actress,7.0,Abigail Breslin,106,"Kennedy/Marshall Company, The, Touchstone Pictures, Blinding Edge Pictures",4
+tt0286152,Stark Raving Mad,actor,6.0,Timm Sharp,101,,-1
+tt0286152,Stark Raving Mad,actor,6.0,Seann William Scott,101,,-1
+tt0286152,Stark Raving Mad,actor,6.0,John B. Crye,101,,-1
 tt0286244,The Triplets of Belleville,actor,8.0,Jean-Claude Donda,80,"Sony Pictures Classics, Production Champion, Vivi Film",0
 tt0286244,The Triplets of Belleville,actress,8.0,Michèle Caucheteux,80,"Sony Pictures Classics, Production Champion, Vivi Film",0
 tt0286261,All or Nothing,actress,8.0,Alison Garland,128,"Les Films Alain Sarde, Thin Man Films",-1
@@ -7498,6 +7860,9 @@ tt0286499,Bend It Like Beckham,actress,7.0,Parminder Nagra,112,"Fox Searchlight 
 tt0286716,Hulk,actor,6.0,Josh Lucas,138,"Universal Pictures, Good Machine, Valhalla Motion Pictures, Marvel Enterprises",0
 tt0286716,Hulk,actor,6.0,Eric Bana,138,"Universal Pictures, Good Machine, Valhalla Motion Pictures, Marvel Enterprises",0
 tt0286716,Hulk,actress,6.0,Jennifer Connelly,138,"Universal Pictures, Good Machine, Valhalla Motion Pictures, Marvel Enterprises",0
+tt0286855,Now You Know,actress,6.0,Suzette Andrea,102,,-1
+tt0286855,Now You Know,actor,6.0,Jeff Anderson,102,,-1
+tt0286855,Now You Know,actor,6.0,Earl Boen,102,,-1
 tt0287467,Talk to Her,actress,8.0,Rosario Flores,112,"Vía Digital, Good Machine, El Deseo S.A., Antena 3 Televisión",4
 tt0287467,Talk to Her,actor,8.0,Javier Cámara,112,"Vía Digital, Good Machine, El Deseo S.A., Antena 3 Televisión",4
 tt0287467,Talk to Her,actress,8.0,Leonor Watling,112,"Vía Digital, Good Machine, El Deseo S.A., Antena 3 Televisión",4
@@ -7538,6 +7903,9 @@ tt0289992,The Life of David Gale,actress,8.0,Kate Winslet,130,"Mikona Production
 tt0290002,Meet the Fockers,actor,6.0,Robert De Niro,115,"DreamWorks SKG, Universal Pictures, Everyman Pictures, Tribeca Productions",5
 tt0290002,Meet the Fockers,actress,6.0,Teri Polo,115,"DreamWorks SKG, Universal Pictures, Everyman Pictures, Tribeca Productions",5
 tt0290002,Meet the Fockers,actor,6.0,Ben Stiller,115,"DreamWorks SKG, Universal Pictures, Everyman Pictures, Tribeca Productions",5
+tt0290145,Blue Car,actress,7.0,Frances Fisher,96,,0
+tt0290145,Blue Car,actress,7.0,Agnes Bruckner,96,,0
+tt0290145,Blue Car,actor,7.0,David Strathairn,96,,0
 tt0290210,Max,actor,6.0,John Cusack,106,"Film Council, Alliance Atlantis Communications, Pathé Pictures International, AAMPI Inc., Bioskop Film, Canadian Film or Video Production Tax Credit (CPTC), H2O Motion Pictures, Aconit Pictures, JAP Films, Natural Nylon II",-1
 tt0290210,Max,actress,6.0,Molly Parker,106,"Film Council, Alliance Atlantis Communications, Pathé Pictures International, AAMPI Inc., Bioskop Film, Canadian Film or Video Production Tax Credit (CPTC), H2O Motion Pictures, Aconit Pictures, JAP Films, Natural Nylon II",-1
 tt0290210,Max,actor,6.0,Noah Taylor,106,"Film Council, Alliance Atlantis Communications, Pathé Pictures International, AAMPI Inc., Bioskop Film, Canadian Film or Video Production Tax Credit (CPTC), H2O Motion Pictures, Aconit Pictures, JAP Films, Natural Nylon II",-1
@@ -7617,6 +7985,8 @@ tt0295289,A Guy Thing,actor,6.0,James Brolin,101,"Metro-Goldwyn-Mayer (MGM), Dav
 tt0295297,Harry Potter and the Chamber of Secrets,actor,7.0,Richard Harris,161,"1492 Pictures, Heyday films, Warner Bros.",7
 tt0295297,Harry Potter and the Chamber of Secrets,actor,7.0,Rupert Grint,161,"1492 Pictures, Heyday films, Warner Bros.",7
 tt0295297,Harry Potter and the Chamber of Secrets,actor,7.0,Daniel Radcliffe,161,"1492 Pictures, Heyday films, Warner Bros.",7
+tt0295369,Killjoy 2: Deliverance from Evil,actor,3.0,Wayland Geremy Boyd,77,,-1
+tt0295369,Killjoy 2: Deliverance from Evil,actor,3.0,Austin Priester,77,,-1
 tt0295552,Rare Birds,actor,6.0,Andy Jones,99,"Pope Productions, BIG Pictures",-1
 tt0295552,Rare Birds,actor,6.0,William Hurt,99,"Pope Productions, BIG Pictures",-1
 tt0295552,Rare Birds,actress,6.0,Vicky Hynes,99,"Pope Productions, BIG Pictures",-1
@@ -7641,6 +8011,9 @@ tt0296574,Company,actor,8.0,Mohanlal,142,Varma Corporation,3
 tt0296712,A Death Sentence,actor,6.0,Stefan Pagels Andersen,90,Nimbus Film Productions,-1
 tt0296712,A Death Sentence,actor,6.0,William Haugaard Petersen,90,Nimbus Film Productions,-1
 tt0296712,A Death Sentence,actress,6.0,Julie Zangenberg,90,Nimbus Film Productions,-1
+tt0297037,Brown Sugar,actress,7.0,Nicole Ari Parker,109,,2
+tt0297037,Brown Sugar,actor,7.0,Taye Diggs,109,,2
+tt0297037,Brown Sugar,actress,7.0,Sanaa Lathan,109,,2
 tt0297120,Firestarter: Rekindled,actor,5.0,Danny Nucci,82,"USA Films, Traveler's Rest Films, USA Cable Network",-1
 tt0297120,Firestarter: Rekindled,actress,5.0,Marguerite Moreau,82,"USA Films, Traveler's Rest Films, USA Cable Network",-1
 tt0297120,Firestarter: Rekindled,actor,5.0,Malcolm McDowell,82,"USA Films, Traveler's Rest Films, USA Cable Network",-1
@@ -7679,6 +8052,8 @@ tt0298744,Auto Focus,actor,7.0,Willem Dafoe,105,"Sony Pictures Classics, Propaga
 tt0298814,The Core,actor,6.0,Aaron Eckhart,135,"Paramount Pictures, David Foster Productions, Horsepower Films, LivePlanet, Core Productions, Munich Film Partners New Century & Company (MFP) Core Productions",0
 tt0298814,The Core,actress,6.0,Hilary Swank,135,"Paramount Pictures, David Foster Productions, Horsepower Films, LivePlanet, Core Productions, Munich Film Partners New Century & Company (MFP) Core Productions",0
 tt0298814,The Core,actor,6.0,Bruce Greenwood,135,"Paramount Pictures, David Foster Productions, Horsepower Films, LivePlanet, Core Productions, Munich Film Partners New Century & Company (MFP) Core Productions",0
+tt0299045,The Movie Hero,actor,6.0,Jeremy Sisto,98,,-1
+tt0299045,The Movie Hero,actress,6.0,Dina Meyer,98,,-1
 tt0299172,Home on the Range,actor,5.0,Cuba Gooding Jr.,76,Walt Disney Pictures,0
 tt0299172,Home on the Range,actress,5.0,Judi Dench,76,Walt Disney Pictures,0
 tt0299172,Home on the Range,actor,5.0,Randy Quaid,76,Walt Disney Pictures,0
@@ -7708,6 +8083,9 @@ tt0300532,Blue Crush,actress,6.0,Kate Bosworth,104,"Imagine Entertainment, Mikon
 tt0300556,Timeline,actor,6.0,Gerard Butler,116,"Paramount Pictures, Donners' Company, Mutual Film Company, Cobalt Media Group, Artists Production Group (APG)",0
 tt0300556,Timeline,actress,6.0,Frances O'Connor,116,"Paramount Pictures, Donners' Company, Mutual Film Company, Cobalt Media Group, Artists Production Group (APG)",0
 tt0300556,Timeline,actor,6.0,Paul Walker,116,"Paramount Pictures, Donners' Company, Mutual Film Company, Cobalt Media Group, Artists Production Group (APG)",0
+tt0300657,The Hexer,actor,4.0,Michal Zebrowski,130,,-1
+tt0300657,The Hexer,actor,4.0,Maciej Lagodzinski,130,,-1
+tt0300657,The Hexer,actor,4.0,Wojciech Duryasz,130,,-1
 tt0301357,Good Bye Lenin!,actor,8.0,Florian Lukas,121,"WDR, Arte, X-Filme Creative Pool",15
 tt0301357,Good Bye Lenin!,actor,8.0,Daniel Brühl,121,"WDR, Arte, X-Filme Creative Pool",15
 tt0301357,Good Bye Lenin!,actress,8.0,Katrin Sass,121,"WDR, Arte, X-Filme Creative Pool",15
@@ -7732,6 +8110,9 @@ tt0302674,Gerry,actor,6.0,Matt Damon,103,"Epsilon Motion Pictures, Tango Films, 
 tt0302886,Old School,actor,7.0,Vince Vaughn,88,"DreamWorks SKG, The Montecito Picture Company",2
 tt0302886,Old School,actor,7.0,Luke Wilson,88,"DreamWorks SKG, The Montecito Picture Company",2
 tt0302886,Old School,actor,7.0,Jeremy Piven,88,"DreamWorks SKG, The Montecito Picture Company",2
+tt0303243,Happy Times,actor,7.0,Biao Fu,102,,0
+tt0303243,Happy Times,actress,7.0,Lifan Dong,102,,0
+tt0303243,Happy Times,actor,7.0,Benshan Zhao,102,,0
 tt0303313,The Business of Fancydancing,actor,7.0,Swil Kanim,103,FallsApart Productions,-1
 tt0303313,The Business of Fancydancing,actress,7.0,Michelle St. John,103,FallsApart Productions,-1
 tt0303313,The Business of Fancydancing,actor,7.0,Evan Adams,103,FallsApart Productions,-1
@@ -7744,6 +8125,9 @@ tt0303361,May,actor,7.0,Jeremy Sisto,93,"A Loopy Production LLC, 2 Loop Films",0
 tt0303714,Barbershop,actor,6.0,Anthony Anderson,102,Metro-Goldwyn-Mayer (MGM),5
 tt0303714,Barbershop,actor,6.0,Cedric The Entertainer,102,Metro-Goldwyn-Mayer (MGM),5
 tt0303714,Barbershop,actor,6.0,Ice Cube,102,Metro-Goldwyn-Mayer (MGM),5
+tt0303732,Bloody Murder 2: Closing Camp,actor,4.0,Kelly Gunning,92,,-1
+tt0303732,Bloody Murder 2: Closing Camp,actress,4.0,Katy Woodruff,92,,-1
+tt0303732,Bloody Murder 2: Closing Camp,actor,4.0,Tyler Sedustine,92,,-1
 tt0303816,Cabin Fever,actress,6.0,Cerina Vincent,93,"Lions Gate Films, Tonic Films, Down Home Entertainment, Cabin Pictures, Black Sky Entertainment, Deer Path Films",19
 tt0303816,Cabin Fever,actor,6.0,Rider Strong,93,"Lions Gate Films, Tonic Films, Down Home Entertainment, Cabin Pictures, Black Sky Entertainment, Deer Path Films",19
 tt0303816,Cabin Fever,actress,6.0,Jordan Ladd,93,"Lions Gate Films, Tonic Films, Down Home Entertainment, Cabin Pictures, Black Sky Entertainment, Deer Path Films",19
@@ -7785,6 +8169,9 @@ tt0305669,Bringing Down the House,actress,6.0,Joan Plowright,105,"Hyde Park Film
 tt0305711,Just Married,actor,6.0,Ashton Kutcher,95,"Twentieth Century Fox Film Corporation, Robert Simonds Productions, Mediastream Dritte Film GmbH & Co. Beteiligungs KG",4
 tt0305711,Just Married,actress,6.0,Brittany Murphy,95,"Twentieth Century Fox Film Corporation, Robert Simonds Productions, Mediastream Dritte Film GmbH & Co. Beteiligungs KG",4
 tt0305711,Just Married,actor,6.0,David Moscow,95,"Twentieth Century Fox Film Corporation, Robert Simonds Productions, Mediastream Dritte Film GmbH & Co. Beteiligungs KG",4
+tt0305973,Sonny,actor,6.0,James Franco,110,,-1
+tt0305973,Sonny,actor,6.0,Harry Dean Stanton,110,,-1
+tt0305973,Sonny,actress,6.0,Brenda Blethyn,110,,-1
 tt0306047,Scary Movie 3,actor,6.0,Charlie Sheen,84,"Dimension Films, Brad Grey Pictures",3
 tt0306047,Scary Movie 3,actress,6.0,Pamela Anderson,84,"Dimension Films, Brad Grey Pictures",3
 tt0306047,Scary Movie 3,actress,6.0,Anna Faris,84,"Dimension Films, Brad Grey Pictures",3
@@ -7805,6 +8192,8 @@ tt0307453,Shark Tale,actor,6.0,Will Smith,90,"DreamWorks SKG, Pacific Data Image
 tt0307479,Solaris,actor,6.0,George Clooney,99,"Twentieth Century Fox Film Corporation, Lightstorm Entertainment",0
 tt0307479,Solaris,actress,6.0,Natascha McElhone,99,"Twentieth Century Fox Film Corporation, Lightstorm Entertainment",0
 tt0307479,Solaris,actress,6.0,Viola Davis,99,"Twentieth Century Fox Film Corporation, Lightstorm Entertainment",0
+tt0307596,"The Tulse Luper Suitcases, Part 1: The Moab Story",actor,7.0,JJ Feild,127,,0
+tt0307596,"The Tulse Luper Suitcases, Part 1: The Moab Story",actress,7.0,Michèle Bernier,127,,0
 tt0307901,25th Hour,actor,8.0,Barry Pepper,135,"40 Acres & A Mule Filmworks, Touchstone Pictures",0
 tt0307901,25th Hour,actor,8.0,Edward Norton,135,"40 Acres & A Mule Filmworks, Touchstone Pictures",0
 tt0307901,25th Hour,actress,8.0,Rosario Dawson,135,"40 Acres & A Mule Filmworks, Touchstone Pictures",0
@@ -7850,6 +8239,9 @@ tt0309832,Malefique,actor,6.0,Dimitri Rataud,90,Bee Movies,-1
 tt0309987,The Dreamers,actor,7.0,Michael Pitt,115,"Peninsula Films, Recorded Picture Company (RPC), Fiction Films",0
 tt0309987,The Dreamers,actor,7.0,Louis Garrel,115,"Peninsula Films, Recorded Picture Company (RPC), Fiction Films",0
 tt0309987,The Dreamers,actress,7.0,Anna Chancellor,115,"Peninsula Films, Recorded Picture Company (RPC), Fiction Films",0
+tt0310024,Project Viper,actor,4.0,Patrick Muldoon,85,,-1
+tt0310024,Project Viper,actress,4.0,Theresa Russell,85,,-1
+tt0310024,Project Viper,actor,4.0,Joe Avalon,85,,-1
 tt0310203,Ruby & Quentin,actor,7.0,Jean Reno,85,"DD Productions, Union Générale Cinématographique (UGC), EFVE",-1
 tt0310203,Ruby & Quentin,actor,7.0,Gérard Depardieu,85,"DD Productions, Union Générale Cinématographique (UGC), EFVE",-1
 tt0310203,Ruby & Quentin,actor,7.0,André Dussollier,85,"DD Productions, Union Générale Cinématographique (UGC), EFVE",-1
@@ -7888,6 +8280,9 @@ tt0312329,Against the Ropes,actor,5.0,Tony Shalhoub,111,"Paramount Pictures, Cor
 tt0312549,Veronica Guerin,actor,7.0,Colin Farrell,98,"Jerry Bruckheimer Films, Touchstone Pictures",0
 tt0312549,Veronica Guerin,actor,7.0,Ciarán Hinds,98,"Jerry Bruckheimer Films, Touchstone Pictures",0
 tt0312549,Veronica Guerin,actress,7.0,Cate Blanchett,98,"Jerry Bruckheimer Films, Touchstone Pictures",0
+tt0312612,Wolves in the Snow,actress,6.0,Marie-Josée Croze,90,,-1
+tt0312612,Wolves in the Snow,actress,6.0,Anne Roussel,90,,-1
+tt0312612,Wolves in the Snow,actor,6.0,Jean-Philippe Écoffey,90,,-1
 tt0312700,The Foreigner,actor,3.0,Jeffrey Pierce,95,"Columbia Pictures, Franchise Pictures",-1
 tt0312700,The Foreigner,actor,3.0,Harry Van Gorkum,95,"Columbia Pictures, Franchise Pictures",-1
 tt0312700,The Foreigner,actor,3.0,Steven Seagal,95,"Columbia Pictures, Franchise Pictures",-1
@@ -7933,12 +8328,18 @@ tt0314353,Tears of the Sun,actor,7.0,Eamonn Walker,121,"Columbia Pictures, Revol
 tt0314390,"I, Cesar",actor,6.0,Jules Sitruk,91,EuropaCorp,-1
 tt0314390,"I, Cesar",actress,6.0,Maria de Medeiros,91,EuropaCorp,-1
 tt0314390,"I, Cesar",actress,6.0,Joséphine Berry,91,EuropaCorp,-1
+tt0314502,Phileine Says Sorry,actress,6.0,Tara Elders,95,,-1
+tt0314502,Phileine Says Sorry,actor,6.0,Michiel Huisman,95,,-1
+tt0314502,Phileine Says Sorry,actress,6.0,Kim van Kooten,95,,-1
 tt0314524,Popular Music,actress,7.0,Kati Outinen,105,"Happy End Filmproductions AB, Filmpool Nord, Solar Films inc., Svensk Filmindustri",11
 tt0314524,Popular Music,actor,7.0,Andreas af Enehielm,105,"Happy End Filmproductions AB, Filmpool Nord, Solar Films inc., Svensk Filmindustri",11
 tt0314524,Popular Music,actor,7.0,Max Enderfors,105,"Happy End Filmproductions AB, Filmpool Nord, Solar Films inc., Svensk Filmindustri",11
 tt0315297,Twisted,actress,5.0,Ashley Judd,97,"Paramount Pictures, Kopelson Entertainment, Harlequin Pictures, Intertainment AG, Blackout Productions Inc.",0
 tt0315297,Twisted,actor,5.0,Samuel L. Jackson,97,"Paramount Pictures, Kopelson Entertainment, Harlequin Pictures, Intertainment AG, Blackout Productions Inc.",0
 tt0315297,Twisted,actor,5.0,David Strathairn,97,"Paramount Pictures, Kopelson Entertainment, Harlequin Pictures, Intertainment AG, Blackout Productions Inc.",0
+tt0315312,Borderline,actress,5.0,Gina Gershon,94,,-1
+tt0315312,Borderline,actor,5.0,Michael Biehn,94,,-1
+tt0315312,Borderline,actress,5.0,Natasha Napoli,94,,-1
 tt0315327,Bruce Almighty,actor,7.0,Jim Carrey,101,"Universal Pictures, Spyglass Entertainment, Shady Acres Entertainment, Pit Bull Productions",5
 tt0315327,Bruce Almighty,actress,7.0,Jennifer Aniston,101,"Universal Pictures, Spyglass Entertainment, Shady Acres Entertainment, Pit Bull Productions",5
 tt0315327,Bruce Almighty,actor,7.0,Philip Baker Hall,101,"Universal Pictures, Spyglass Entertainment, Shady Acres Entertainment, Pit Bull Productions",5
@@ -7954,6 +8355,12 @@ tt0315824,The Big Bounce,actress,5.0,Sara Foster,88,"Shangri-La Entertainment, M
 tt0315983,House of Sand and Fog,actress,8.0,Jennifer Connelly,126,"DreamWorks SKG, Cobalt Media Group, Bisgrove Entertainment",0
 tt0315983,House of Sand and Fog,actress,8.0,Frances Fisher,126,"DreamWorks SKG, Cobalt Media Group, Bisgrove Entertainment",0
 tt0315983,House of Sand and Fog,actor,8.0,Ben Kingsley,126,"DreamWorks SKG, Cobalt Media Group, Bisgrove Entertainment",0
+tt0316187,LolliLove,actor,6.0,James Gunn,64,,-1
+tt0316187,LolliLove,actress,6.0,Jenna Fischer,64,,-1
+tt0316187,LolliLove,actress,6.0,Sarah Sido,64,,-1
+tt0316188,Raising Victor Vargas,actress,7.0,Krystal Rodriguez,88,,2
+tt0316188,Raising Victor Vargas,actor,7.0,Victor Rasuk,88,,2
+tt0316188,Raising Victor Vargas,actress,7.0,Donna Maldonado,88,,2
 tt0316356,Open Range,actor,7.0,Abraham Benrubi,139,"Tig Productions, Touchstone Pictures, Beacon Pictures, Cobalt Media Group",2
 tt0316356,Open Range,actor,7.0,Kevin Costner,139,"Tig Productions, Touchstone Pictures, Beacon Pictures, Cobalt Media Group",2
 tt0316356,Open Range,actor,7.0,Robert Duvall,139,"Tig Productions, Touchstone Pictures, Beacon Pictures, Cobalt Media Group",2
@@ -8013,6 +8420,9 @@ tt0318202,To Be and to Have,actor,8.0,Guillaume,104,"Les Films d'Ici, Gimages 20
 tt0318202,To Be and to Have,actress,8.0,Alizé,104,"Les Films d'Ici, Gimages 204",-1
 tt0318283,Alex & Emma,actor,6.0,Luke Wilson,96,"Epsilon Motion Pictures, Franchise Pictures, Escape Artists, Reiner / Greisman Productions",0
 tt0318283,Alex & Emma,actress,6.0,Kate Hudson,96,"Epsilon Motion Pictures, Franchise Pictures, Escape Artists, Reiner / Greisman Productions",0
+tt0318292,Amar te duele,actress,7.0,Karla Alvarado,104,,-1
+tt0318292,Amar te duele,actress,7.0,Martha Higareda,104,,-1
+tt0318292,Amar te duele,actor,7.0,Luis Fernando Peña,104,,-1
 tt0318374,The Cooler,actor,7.0,Shawn Hatosy,101,"ContentFilm, Pierce/Williams Entertainment",-1
 tt0318374,The Cooler,actress,7.0,Maria Bello,101,"ContentFilm, Pierce/Williams Entertainment",-1
 tt0318374,The Cooler,actor,7.0,William H. Macy,101,"ContentFilm, Pierce/Williams Entertainment",-1
@@ -8036,6 +8446,9 @@ tt0319262,The Day After Tomorrow,actor,7.0,Dennis Quaid,124,"Lions Gate Films, T
 tt0319343,Elf,actor,7.0,James Caan,97,"New Line Cinema, Gold/Miller Productions, Guy Walks into a Bar Productions",4
 tt0319343,Elf,actress,7.0,Zooey Deschanel,97,"New Line Cinema, Gold/Miller Productions, Guy Walks into a Bar Productions",4
 tt0319343,Elf,actor,7.0,Will Ferrell,97,"New Line Cinema, Gold/Miller Productions, Guy Walks into a Bar Productions",4
+tt0319736,The Legend of Bhagat Singh,actor,8.0,Ajay Devgn,155,,1
+tt0319736,The Legend of Bhagat Singh,actor,8.0,Akhilendra Mishra,155,,1
+tt0319736,The Legend of Bhagat Singh,actor,8.0,Sushant Singh,155,,1
 tt0319769,Mondays in the Sun,actor,8.0,Luis Tosar,113,"Vía Digital, Eurimages, Continental Producciones, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Televisión de Galicia (TVG) S.A., Antena 3 Televisión, Sogepaq, Elías Querejeta Producciones Cinematográficas S.L., Mediapro, Quo Vadis Cinéma, Eyescreen S.r.l.",0
 tt0319769,Mondays in the Sun,actress,8.0,Nieve de Medina,113,"Vía Digital, Eurimages, Continental Producciones, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Televisión de Galicia (TVG) S.A., Antena 3 Televisión, Sogepaq, Elías Querejeta Producciones Cinematográficas S.L., Mediapro, Quo Vadis Cinéma, Eyescreen S.r.l.",0
 tt0319769,Mondays in the Sun,actor,8.0,Javier Bardem,113,"Vía Digital, Eurimages, Continental Producciones, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Televisión de Galicia (TVG) S.A., Antena 3 Televisión, Sogepaq, Elías Querejeta Producciones Cinematográficas S.L., Mediapro, Quo Vadis Cinéma, Eyescreen S.r.l.",0
@@ -8078,9 +8491,15 @@ tt0323033,Laws of Attraction,actor,6.0,Michael Sheen,90,"New Line Cinema, Irish 
 tt0323120,Loving Annabelle,actress,6.0,Erin Kelly,77,"Big Easy Pictures, Divine Light Pictures",-1
 tt0323120,Loving Annabelle,actress,6.0,Michelle Horn,77,"Big Easy Pictures, Divine Light Pictures",-1
 tt0323120,Loving Annabelle,actress,6.0,Diane Gaidry,77,"Big Easy Pictures, Divine Light Pictures",-1
+tt0323298,The Mother,actor,7.0,Daniel Craig,112,,0
+tt0323298,The Mother,actor,7.0,Peter Vaughan,112,,0
+tt0323298,The Mother,actress,7.0,Anne Reid,112,,0
 tt0323465,Octane,actor,4.0,Norman Reedus,91,"Delux Productions, Four Horsemen Films, Random Harvest Pictures",-1
 tt0323465,Octane,actress,4.0,Mischa Barton,91,"Delux Productions, Four Horsemen Films, Random Harvest Pictures",-1
 tt0323465,Octane,actress,4.0,Madeleine Stowe,91,"Delux Productions, Four Horsemen Films, Random Harvest Pictures",-1
+tt0323531,Out for a Kill,actor,3.0,Steven Seagal,90,,-1
+tt0323531,Out for a Kill,actress,3.0,Michelle Goh,90,,-1
+tt0323531,Out for a Kill,actor,3.0,Tom Wu,90,,-1
 tt0323808,The Wicker Tree,actress,4.0,Jacqueline Leonard,96,"British Lion Film Corporation, Euro Center Productions, Tressock Films",-1
 tt0323939,Shade,actor,6.0,Frank Medrano,101,"Cobalt Media Group, Judgement Pictures, Hammond Entertainment",-1
 tt0323939,Shade,actor,6.0,Joe Nicolo,101,"Cobalt Media Group, Judgement Pictures, Hammond Entertainment",-1
@@ -8099,6 +8518,9 @@ tt0324216,The Texas Chainsaw Massacre,actress,6.0,Erica Leerhsen,98,"New Line Ci
 tt0324554,Wicker Park,actress,7.0,Rose Byrne,114,"Lakeshore Entertainment, Metro-Goldwyn-Mayer (MGM), Mel's Cite du Cinema",0
 tt0324554,Wicker Park,actor,7.0,Josh Hartnett,114,"Lakeshore Entertainment, Metro-Goldwyn-Mayer (MGM), Mel's Cite du Cinema",0
 tt0324554,Wicker Park,actress,7.0,Diane Kruger,114,"Lakeshore Entertainment, Metro-Goldwyn-Mayer (MGM), Mel's Cite du Cinema",0
+tt0325005,Antikiller,actor,6.0,Mikhail Ulyanov,114,,0
+tt0325005,Antikiller,actor,6.0,Aleksandr Baluev,114,,0
+tt0325005,Antikiller,actor,6.0,Gosha Kutsenko,114,,0
 tt0325055,Sylvia,actor,6.0,Daniel Craig,100,Focus Films,0
 tt0325055,Sylvia,actor,6.0,David Birkin,100,Focus Films,0
 tt0325055,Sylvia,actress,6.0,Gwyneth Paltrow,100,Focus Films,0
@@ -8123,6 +8545,9 @@ tt0326450,The Star,actor,7.0,Artyom Semakin,97,"Mosfilm, ARK-Film",0
 tt0326769,Biker Boyz,actor,5.0,Derek Luke,110,DreamWorks Pictures,0
 tt0326769,Biker Boyz,actor,5.0,Djimon Hounsou,110,DreamWorks Pictures,0
 tt0326769,Biker Boyz,actor,5.0,Laurence Fishburne,110,DreamWorks Pictures,0
+tt0326820,DarkWolf,actor,3.0,Ryan Alosio,94,,-1
+tt0326820,DarkWolf,actress,3.0,Jaime Bergman,94,,-1
+tt0326820,DarkWolf,actress,3.0,Samaire Armstrong,94,,-1
 tt0326856,Envy,actress,5.0,Amy Poehler,99,"Columbia Pictures, Castle Rock Entertainment, NPV Entertainment, DreamWorks Pictures, Baltimore Spring Creek Productions, Nu Image / Millennium Films",-1
 tt0326856,Envy,actor,5.0,Jack Black,99,"Columbia Pictures, Castle Rock Entertainment, NPV Entertainment, DreamWorks Pictures, Baltimore Spring Creek Productions, Nu Image / Millennium Films",-1
 tt0326856,Envy,actor,5.0,Ben Stiller,99,"Columbia Pictures, Castle Rock Entertainment, NPV Entertainment, DreamWorks Pictures, Baltimore Spring Creek Productions, Nu Image / Millennium Films",-1
@@ -8132,6 +8557,9 @@ tt0326900,Good Boy,actor,5.0,Matthew Broderick,87,"Jim Henson Pictures, Metro-Go
 tt0326905,The Aviator,actor,7.0,Joseph Fiennes,132,"Lawrence Bender Productions, Marty Katz Productions",0
 tt0326905,The Aviator,actor,7.0,Benjamin Bratt,132,"Lawrence Bender Productions, Marty Katz Productions",0
 tt0326905,The Aviator,actor,7.0,Robert Mammone,132,"Lawrence Bender Productions, Marty Katz Productions",0
+tt0327036,Martin Lawrence Live: Runteldat,actor,5.0,Art Cohan,113,,5
+tt0327036,Martin Lawrence Live: Runteldat,self,5.0,Martin Lawrence,113,,5
+tt0327036,Martin Lawrence Live: Runteldat,actress,5.0,Nancy O'Dell,113,,5
 tt0327056,Mystic River,actress,8.0,Emmy Rossum,138,"Village Roadshow Pictures, Malpaso Productions, NPV Entertainment, Warner Bros.",5
 tt0327056,Mystic River,actor,8.0,Sean Penn,138,"Village Roadshow Pictures, Malpaso Productions, NPV Entertainment, Warner Bros.",5
 tt0327056,Mystic River,actor,8.0,Tim Robbins,138,"Village Roadshow Pictures, Malpaso Productions, NPV Entertainment, Warner Bros.",5
@@ -8163,6 +8591,9 @@ tt0327850,The Rundown,actress,7.0,Rosario Dawson,104,"Columbia Pictures, Univers
 tt0328107,Man on Fire,actress,8.0,Radha Mitchell,146,"Regency Enterprises, Fox 2000 Pictures, Epsilon Motion Pictures, Scott Free Productions, New Regency Pictures",0
 tt0328107,Man on Fire,actor,8.0,Denzel Washington,146,"Regency Enterprises, Fox 2000 Pictures, Epsilon Motion Pictures, Scott Free Productions, New Regency Pictures",0
 tt0328107,Man on Fire,actor,8.0,Christopher Walken,146,"Regency Enterprises, Fox 2000 Pictures, Epsilon Motion Pictures, Scott Free Productions, New Regency Pictures",0
+tt0328132,One-Way Ticket to Mombasa,actor,6.0,Joonas Saartamo,88,,-1
+tt0328132,One-Way Ticket to Mombasa,actor,6.0,Antti Tarvainen,88,,-1
+tt0328132,One-Way Ticket to Mombasa,actor,6.0,Timo Päiväsalo,88,,-1
 tt0328538,Thirteen,actress,7.0,Vanessa Hudgens,100,"Fox Searchlight Pictures, Sound for Film, Working Title Films, Antidote Films (I)",1
 tt0328538,Thirteen,actress,7.0,Evan Rachel Wood,100,"Fox Searchlight Pictures, Sound for Film, Working Title Films, Antidote Films (I)",1
 tt0328538,Thirteen,actress,7.0,Holly Hunter,100,"Fox Searchlight Pictures, Sound for Film, Working Title Films, Antidote Films (I)",1
@@ -8244,6 +8675,9 @@ tt0332379,School of Rock,actor,7.0,Mike White,109,"Paramount Pictures, Scott Rud
 tt0332452,Troy,actor,7.0,Eric Bana,163,"Plan B Entertainment, Warner Bros., Nimar Studios, Radiant Productions, Helena Productions, Latina Pictures",1
 tt0332452,Troy,actor,7.0,Julian Glover,163,"Plan B Entertainment, Warner Bros., Nimar Studios, Radiant Productions, Helena Productions, Latina Pictures",1
 tt0332452,Troy,actor,7.0,Brad Pitt,163,"Plan B Entertainment, Warner Bros., Nimar Studios, Radiant Productions, Helena Productions, Latina Pictures",1
+tt0332605,House of Fools,actor,7.0,Evgeniy Mironov,104,,0
+tt0332605,House of Fools,actress,7.0,Yuliya Vysotskaya,104,,0
+tt0332605,House of Fools,actor,7.0,Sultan Islamov,104,,0
 tt0332658,Intermission,actor,7.0,Cillian Murphy,105,"UK Film Council, Portman Film, Irish Film Board, Parallel Film Productions, Brown Sauce Film Productions, Company of Wolves",0
 tt0332658,Intermission,actress,7.0,Kelly Macdonald,105,"UK Film Council, Portman Film, Irish Film Board, Parallel Film Productions, Brown Sauce Film Productions, Company of Wolves",0
 tt0332658,Intermission,actress,7.0,Shirley Henderson,105,"UK Film Council, Portman Film, Irish Film Board, Parallel Film Productions, Brown Sauce Film Productions, Company of Wolves",0
@@ -8377,12 +8811,19 @@ tt0339334,The Magic Roundabout,actor,5.0,Robbie Williams,81,The Weinstein Compan
 tt0339412,Mr. 3000,actor,6.0,Bernie Mac,104,Touchstone Pictures,0
 tt0339412,Mr. 3000,actress,6.0,Angela Bassett,104,Touchstone Pictures,0
 tt0339412,Mr. 3000,actor,6.0,Brian White,104,Touchstone Pictures,0
+tt0339419,The Mudge Boy,actor,7.0,Pablo Schreiber,94,,0
+tt0339419,The Mudge Boy,actor,7.0,Emile Hirsch,94,,0
+tt0339419,The Mudge Boy,actor,7.0,Richard Jenkins,94,,0
+tt0339642,Daltry Calhoun,actor,5.0,Johnny Knoxville,100,,-1
+tt0339642,Daltry Calhoun,actress,5.0,Laura Cayouette,100,,-1
+tt0339642,Daltry Calhoun,actress,5.0,Elizabeth Banks,100,,-1
 tt0339727,Stateside,actor,6.0,Jonathan Tucker,97,"Overseas FilmGroup, Cinerenta Medienbeteiligungs KG, Seven Hills Pictures, Cinealpha KG",0
 tt0339727,Stateside,actress,6.0,Rachael Leigh Cook,97,"Overseas FilmGroup, Cinerenta Medienbeteiligungs KG, Seven Hills Pictures, Cinealpha KG",0
 tt0339727,Stateside,actor,6.0,Val Kilmer,97,"Overseas FilmGroup, Cinerenta Medienbeteiligungs KG, Seven Hills Pictures, Cinealpha KG",0
 tt0339736,The Evil Within,actor,6.0,Sean Patrick Flanery,98,"Vision Films, Writers Studio, The, Supernova LLC",-1
 tt0339736,The Evil Within,actress,6.0,Dina Meyer,98,"Vision Films, Writers Studio, The, Supernova LLC",-1
 tt0339736,The Evil Within,actor,6.0,Michael Berryman,98,"Vision Films, Writers Studio, The, Supernova LLC",-1
+tt0340110,Fat Pizza,actor,6.0,Paul Fenech,96,,18
 tt0340163,Hostage,actor,7.0,Kevin Pollak,113,"Miramax Films, Cheyenne Enterprises, Yari Film Group, Stratus Film Co., Syndicate Films International, Equity Pictures Medienfonds GmbH & Co. KG II, Hostage GmbH",0
 tt0340163,Hostage,actor,7.0,Bruce Willis,113,"Miramax Films, Cheyenne Enterprises, Yari Film Group, Stratus Film Co., Syndicate Films International, Equity Pictures Medienfonds GmbH & Co. KG II, Hostage GmbH",0
 tt0340377,The Station Agent,actor,8.0,Paul Benjamin,89,"Next Wednesday Productions, SenArt Films",16
@@ -8434,6 +8875,7 @@ tt0348121,Steamboy,actress,7.0,Anna Paquin,126,"Bandai Visual Company, Sunrise, 
 tt0348150,Superman Returns,actor,6.0,Brandon Routh,154,"DC Comics, Legendary Pictures, Warner Bros., Bad Hat Harry Productions",0
 tt0348333,Waiting...,actor,7.0,Ryan Reynolds,94,"L.I.F.T. Production, Eden Rock Media",5
 tt0348836,Gothika,actress,6.0,Halle Berry,98,"Columbia Pictures Corporation, Dark Castle Entertainment, Warner Bros.",2
+tt0349159,"The Book of Mormon Movie, Volume 1: The Journey",actor,3.0,Noah Dalton Danby,120,,0
 tt0349205,Cheaper by the Dozen,actor,6.0,Steve Martin,98,"Twentieth Century Fox Film Corporation, Robert Simonds Productions",3
 tt0349260,In My Country,actress,6.0,Juliette Binoche,105,"Chartoff Productions, Merlin Films",0
 tt0349467,Freedomland,actress,5.0,Julianne Moore,113,"Scott Rudin Productions, Revolution Studios",0
@@ -8451,6 +8893,7 @@ tt0351817,The Twilight Samurai,actor,8.0,Hiroyuki Sanada,129,Shochiku Company,0
 tt0351977,Walking Tall,actor,6.0,Dwayne Johnson,86,"Metro-Goldwyn-Mayer (MGM), Mandeville Films, WWE Studios, Hyde Park Entertainment, Burke/Samples/Foster Productions, Cub Eight Productions",0
 tt0352248,Cinderella Man,actor,8.0,Russell Crowe,144,"Miramax Films, Imagine Entertainment, Universal Pictures, Parkway Pictures (I), Touchstone Pictures",0
 tt0352277,De-Lovely,actor,7.0,Kevin Kline,125,"Metro-Goldwyn-Mayer (MGM), Winkler Films, Potboiler Productions",-1
+tt0352925,Tongan Ninja,actor,6.0,Sam Manu,83,,-1
 tt0352994,Walk on Water,actor,7.0,Lior Ashkenazi,103,"Lama Films, United King Films",-1
 tt0353496,Godfather,actor,9.0,N.N. Pillai,150,Swargachitra,37
 tt0353969,Memories of Murder,actor,8.0,Song Kang-ho,132,"Sidus Pictures, CJ Entertainment, Muhan Investment",-1
@@ -8475,6 +8918,7 @@ tt0357413,Anchorman: The Legend of Ron Burgundy,actor,7.0,Will Ferrell,94,Apatow
 tt0357470,The Battle of Shaker Heights,actor,6.0,Shia LaBeouf,79,"Miramax Films, LivePlanet",-1
 tt0357474,Belly of the Beast,actor,5.0,Steven Seagal,91,"GFT Entertainment, Century Time (H.K.) Ltd., GFT Beast Films Inc.",-1
 tt0357507,Boogeyman,actor,4.0,Barry Watson,89,"Ghost House Pictures, Senator International, Screen Gems, Pacific Renaissance Pictures Ltd.",2
+tt0357585,Decoys,actor,5.0,Corey Sevier,95,,-1
 tt0358082,Robots,actor,6.0,Ewan McGregor,91,"Blue Sky Studios, Twentieth Century Fox Animation",2
 tt0358135,Shall We Dance?,actor,6.0,Richard Gere,106,Miramax Films,2
 tt0358273,Walk the Line,actor,8.0,Joaquin Phoenix,136,"Tree Line Films, Konrad Pictures, Catfish Productions, Fox 2000 Pictures, Mars Media Beteiligungs",5
@@ -8493,7 +8937,9 @@ tt0360486,Constantine,actor,7.0,Keanu Reeves,121,"Village Roadshow Pictures, DC 
 tt0360717,King Kong,actress,7.0,Naomi Watts,187,"WingNut Films, Universal Pictures, Big Primate Pictures, MFPV Film",1
 tt0361089,Valiant,actor,6.0,Ewan McGregor,76,"Vanguard Films, Scanbox",0
 tt0361309,We Don't Live Here Anymore,actor,6.0,Mark Ruffalo,101,"Front Street Productions, Renaissance Films, Warner Bros.",0
+tt0361322,Assisted Living,actor,7.0,Michael Bonsignore,78,,0
 tt0361399,Blast,actor,5.0,Eddie Griffin,92,"Film Afrika Worldwide, Gemini Films, Motion Picture Corporation of America (MPCA), International West Pictures (IWP)",-1
+tt0361411,Bride & Prejudice,actor,6.0,Martin Henderson,122,,-1
 tt0361467,Confessions of a Teenage Drama Queen,actress,5.0,Lindsay Lohan,89,Walt Disney Pictures,0
 tt0361500,Delgo,actor,4.0,Freddie Prinze Jr.,94,"Fathom Studios, Electric Eye Entertainment Corporation",-1
 tt0361596,Fahrenheit 9/11,self,8.0,Michael Moore,122,"BIM Distribuzione, Fellowship Adventure Group",18
@@ -8534,6 +8980,7 @@ tt0365748,Shaun of the Dead,actor,8.0,Simon Pegg,99,"Universal Pictures, Big Tal
 tt0365830,Tenacious D in the Pick of Destiny,actor,7.0,Jack Black,94,"New Line Cinema, Red Hour Films",0
 tt0365907,A Walk Among the Tombstones,actor,7.0,Liam Neeson,114,"Double Feature Films, Jersey Films, 1984 Private Defense Contractors, Cross Creek Pictures, Exclusive Media Group, Traveling Picture Show Company (TPSC), Free State Pictures, Da Vinci Media Ventures",0
 tt0365929,Whiteout,actress,6.0,Kate Beckinsale,101,"StudioCanal, Dark Castle Entertainment, Don Carmody Productions, Warner Bros., Canadian Film or Video Production Tax Credit (CPTC), Ontario Media Development Corporation (OMDC), Manitoba Film and Video Production Tax Credit, McMurdo (Canada) Productions",0
+tt0365960,Zero Day,actor,7.0,Cal Robertson,92,,-1
 tt0366174,Anacondas: The Hunt for the Blood Orchid,actor,5.0,Morris Chestnut,97,"Screen Gems, Middle Fork Productions",2
 tt0366527,Goldfish Memory,actor,6.0,Sean Campion,85,Wolfe Releasing,-1
 tt0366548,Happy Feet,actor,6.0,Elijah Wood,108,"Kennedy Miller Productions, Animal Logic",2
@@ -8551,6 +8998,8 @@ tt0367479,After the Sunset,actor,6.0,Don Cheadle,97,"New Line Cinema, Contrafilm
 tt0367479,After the Sunset,actor,6.0,Pierce Brosnan,97,"New Line Cinema, Contrafilm, Firm Films",0
 tt0367495,Anbe Sivam,actor,9.0,Kamal Haasan,160,Lakshmi Movie Makers,-1
 tt0367495,Anbe Sivam,actor,9.0,Nassar,160,Lakshmi Movie Makers,-1
+tt0367555,No Direction Home: Bob Dylan,self,8.0,Liam Clancy,208,,-1
+tt0367555,No Direction Home: Bob Dylan,self,8.0,Bob Dylan,208,,-1
 tt0367594,Charlie and the Chocolate Factory,actor,7.0,Johnny Depp,115,"Village Roadshow Pictures, The Zanuck Company, Warner Bros., Tim Burton Productions, Plan B Entertainment, Theobald Film Productions",2
 tt0367594,Charlie and the Chocolate Factory,actress,7.0,Helena Bonham Carter,115,"Village Roadshow Pictures, The Zanuck Company, Warner Bros., Tim Burton Productions, Plan B Entertainment, Theobald Film Productions",2
 tt0367631,D.E.B.S.,actress,5.0,Jill Ritchie,91,"Destination Films, Andrea Sperling Productions, Screen Gems, Anonymous Content",-1
@@ -8564,6 +9013,8 @@ tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,actor,6.0,Harrison 
 tt0367959,Hannibal Rising,actor,6.0,Gaspard Ulliel,121,"Ingenious Film Partners, ETIC Films, Quinta Communications, Dino De Laurentiis Company, Zephyr Films, Young Hannibal Productions, Carthago Films S.a.r.l.",0
 tt0368008,The Manchurian Candidate,actor,7.0,Denzel Washington,129,"Paramount Pictures, Scott Rudin Productions, Clinica Estetico",0
 tt0368008,The Manchurian Candidate,actress,7.0,Kimberly Elise,129,"Paramount Pictures, Scott Rudin Productions, Clinica Estetico",0
+tt0368400,Vaalee,actress,8.0,Jyotika,158,,0
+tt0368400,Vaalee,actor,8.0,Ajith Kumar,158,,0
 tt0368447,The Village,actress,7.0,Bryce Dallas Howard,108,"Scott Rudin Productions, Touchstone Pictures, Blinding Edge Pictures",3
 tt0368447,The Village,actress,7.0,Sigourney Weaver,108,"Scott Rudin Productions, Touchstone Pictures, Blinding Edge Pictures",3
 tt0368578,Are We There Yet?,actor,5.0,Ice Cube,95,"Columbia Pictures, Revolution Studios, Cube Vision",2
@@ -8605,6 +9056,8 @@ tt0371724,The Hitchhiker's Guide to the Galaxy,actor,7.0,Martin Freeman,109,"Spy
 tt0371724,The Hitchhiker's Guide to the Galaxy,actress,7.0,Zooey Deschanel,109,"Spyglass Entertainment, Everyman Pictures, Hammer & Tongs, Touchstone Pictures",1
 tt0371746,Iron Man,actor,8.0,Jeff Bridges,126,"Paramount Pictures, Marvel Studios",3
 tt0371746,Iron Man,actor,8.0,Robert Downey Jr.,126,"Paramount Pictures, Marvel Studios",3
+tt0371835,Ghost Cat,actress,6.0,Shirley Knight,90,,-1
+tt0371835,Ghost Cat,actor,6.0,Michael Ontkean,90,,-1
 tt0372183,The Bourne Supremacy,actor,8.0,Brian Cox,108,"Universal Pictures, The Kennedy/Marshall Company, Hypnotic, Motion Picture THETA Produktionsgesellschaft, Ludlum Entertainment",2
 tt0372183,The Bourne Supremacy,actor,8.0,Matt Damon,108,"Universal Pictures, The Kennedy/Marshall Company, Hypnotic, Motion Picture THETA Produktionsgesellschaft, Ludlum Entertainment",2
 tt0372237,Guess Who,actor,6.0,Ashton Kutcher,105,"Columbia Pictures, Regency Enterprises, 3 Arts Entertainment, Tall Trees Productions",0
@@ -8633,6 +9086,8 @@ tt0373450,Where the Truth Lies,actor,6.0,David Hayman,107,Serendipity Point Film
 tt0373450,Where the Truth Lies,actor,6.0,Kevin Bacon,107,Serendipity Point Films,-1
 tt0373469,Kiss Kiss Bang Bang,actor,8.0,Robert Downey Jr.,103,"Silver Pictures, Warner Bros.",0
 tt0373469,Kiss Kiss Bang Bang,actor,8.0,Corbin Bernsen,103,"Silver Pictures, Warner Bros.",0
+tt0373690,Arsène Lupin,actor,5.0,Romain Duris,125,,-1
+tt0373690,Arsène Lupin,actress,5.0,Eva Green,125,,-1
 tt0373883,Halloween,actress,6.0,Scout Taylor-Compton,109,"Dimension Films, Spectacle Entertainment Group, Nightfall Productions",4
 tt0373883,Halloween,actor,6.0,Brad Dourif,109,"Dimension Films, Spectacle Entertainment Group, Nightfall Productions",4
 tt0373889,Harry Potter and the Order of the Phoenix,actor,8.0,Brendan Gleeson,138,"Warner Bros., Heyday Films",5
@@ -8662,6 +9117,8 @@ tt0374563,Captivity,actor,5.0,Michael Harney,96,"Foresight Unlimited, RAMCO, Cap
 tt0374569,Che: Part Two,actor,7.0,Demián Bichir,135,"Wild Bunch, Telecinco, Laura Bickford Productions, Morena Films, Ministerio de Cultura, Guerrilla Films, Londra Films P&D, Section Eight Productions",-1
 tt0374584,Control,actor,6.0,Stephen Rea,104,"Millennium Films, Arc Productions, Emmett/Furla Films",-1
 tt0374584,Control,actor,6.0,Ray Liotta,104,"Millennium Films, Arc Productions, Emmett/Furla Films",-1
+tt0374639,Incident at Loch Ness,self,6.0,Werner Herzog,94,,-1
+tt0374639,Incident at Loch Ness,self,6.0,Russell Williams II,94,,-1
 tt0374900,Napoleon Dynamite,actor,7.0,Jon Heder,96,"Paramount Pictures, Fox Searchlight Pictures, MTV Films, Access Films, Napoleon Pictures Limited, Carnival Films",114
 tt0374900,Napoleon Dynamite,actor,7.0,Aaron Ruell,96,"Paramount Pictures, Fox Searchlight Pictures, MTV Films, Access Films, Napoleon Pictures Limited, Carnival Films",114
 tt0375063,Sideways,actress,8.0,Sandra Oh,127,"Fox Searchlight Pictures, Michael London Productions, Sideways Productions Inc.",5
@@ -8684,6 +9141,8 @@ tt0376108,Rebound,actor,5.0,Breckin Meyer,86,"Twentieth Century Fox Film Corpora
 tt0376108,Rebound,actor,5.0,Martin Lawrence,86,"Twentieth Century Fox Film Corporation, Robert Simonds Productions, Runteldat Entertainment",0
 tt0376136,The Rum Diary,actor,6.0,Johnny Depp,119,"FilmEngine, Infinitum Nihil, GK Films",0
 tt0376136,The Rum Diary,actor,6.0,Michael Rispoli,119,"FilmEngine, Infinitum Nihil, GK Films",0
+tt0376144,Saamy,actor,7.0,Vikram,150,,2
+tt0376144,Saamy,actor,7.0,Kota Srinivasa Rao,150,,2
 tt0376196,Slow Burn,actor,6.0,Mekhi Phifer,93,"Sidney Kimmel Entertainment, Greenestreet Films, Longfellow Pictures, Bonnie Timmermann Productions",0
 tt0376196,Slow Burn,actor,6.0,Ray Liotta,93,"Sidney Kimmel Entertainment, Greenestreet Films, Longfellow Pictures, Bonnie Timmermann Productions",0
 tt0376541,Closer,actress,7.0,Natalie Portman,104,Columbia Pictures,3
@@ -8698,12 +9157,16 @@ tt0377091,Mean Creek,actor,7.0,Trevor Morgan,90,Whitewater Films,0
 tt0377091,Mean Creek,actor,7.0,Rory Culkin,90,Whitewater Films,0
 tt0377092,Mean Girls,actress,7.0,Tina Fey,97,"Paramount Pictures, Broadway Video, M.G. Films",6
 tt0377092,Mean Girls,actress,7.0,Lindsay Lohan,97,"Paramount Pictures, Broadway Video, M.G. Films",6
+tt0377100,Out of Reach,actor,4.0,Steven Seagal,86,,-1
+tt0377100,Out of Reach,actor,4.0,Matt Schulze,86,,-1
 tt0377107,Proof,actress,7.0,Gwyneth Paltrow,100,"Miramax Films, Endgame Entertainment, Hart-Sharp Entertainment",0
 tt0377107,Proof,actor,7.0,Jake Gyllenhaal,100,"Miramax Films, Endgame Entertainment, Hart-Sharp Entertainment",0
 tt0377109,The Ring Two,actor,5.0,Simon Baker,110,"DreamWorks, BenderSpink, Parkes+MacDonald Image Nation",2
 tt0377109,The Ring Two,actress,5.0,Naomi Watts,110,"DreamWorks, BenderSpink, Parkes+MacDonald Image Nation",2
 tt0377309,Survival Island,actor,5.0,Todd Collins,95,Thema Production,-1
 tt0377309,Survival Island,actor,5.0,Billy Zane,95,Thema Production,-1
+tt0377321,Aasai,actor,8.0,Ajith Kumar,145,,0
+tt0377321,Aasai,actress,8.0,Rohini,145,,0
 tt0377471,Be Cool,actor,6.0,Vince Vaughn,118,"Double Feature Films, Jersey Films, Nina Saxon Film Design, Metro-Goldwyn-Mayer (MGM)",0
 tt0377471,Be Cool,actor,6.0,John Travolta,118,"Double Feature Films, Jersey Films, Nina Saxon Film Design, Metro-Goldwyn-Mayer (MGM)",0
 tt0377701,Cowboys & Angels,actor,7.0,Michael Legge,89,TLA Releasing,0
@@ -8838,10 +9301,15 @@ tt0384642,Kicking & Screaming,actor,6.0,Robert Duvall,95,Universal Pictures,0
 tt0384680,The Weather Man,actor,7.0,Nicolas Cage,102,"Paramount Pictures, Escape Artists, Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 2 KG",0
 tt0384680,The Weather Man,actor,7.0,Michael Caine,102,"Paramount Pictures, Escape Artists, Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 2 KG",0
 tt0384680,The Weather Man,actress,7.0,Hope Davis,102,"Paramount Pictures, Escape Artists, Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 2 KG",0
+tt0384712,And Quiet Flows the Don,actress,5.0,Delphine Forest,176,,-1
+tt0384712,And Quiet Flows the Don,actor,5.0,Rupert Everett,176,,-1
 tt0384793,Accepted,actor,6.0,Justin Long,93,"Universal Pictures, Shady Acres Entertainment",0
 tt0384806,The Amityville Horror,actor,6.0,Jesse James,90,"Platinum Dunes, Dimension Films, Metro-Goldwyn-Mayer (MGM), Radar Pictures",4
 tt0384806,The Amityville Horror,actress,6.0,Melissa George,90,"Platinum Dunes, Dimension Films, Metro-Goldwyn-Mayer (MGM), Radar Pictures",4
 tt0384806,The Amityville Horror,actor,6.0,Ryan Reynolds,90,"Platinum Dunes, Dimension Films, Metro-Goldwyn-Mayer (MGM), Radar Pictures",4
+tt0385592,Chainsaw Sally,actress,4.0,April Monique Burril,83,,-1
+tt0385592,Chainsaw Sally,actor,4.0,David R. Calhoun,83,,-1
+tt0385592,Chainsaw Sally,actor,4.0,Mark Redfield,83,,-1
 tt0385751,The Ketchup Effect,actress,5.0,Linn Persson,90,"Filmlance International AB, Kinoproduction Oy",-1
 tt0385751,The Ketchup Effect,actress,5.0,Amanda Renberg,90,"Filmlance International AB, Kinoproduction Oy",-1
 tt0385751,The Ketchup Effect,actor,5.0,Björn Kjellman,90,"Filmlance International AB, Kinoproduction Oy",-1
@@ -8864,6 +9332,10 @@ tt0386741,Renaissance,actor,7.0,Daniel Craig,105,"Onyx Films, Backup Films, Fran
 tt0386741,Renaissance,actress,7.0,Romola Garai,105,"Onyx Films, Backup Films, France2 Cinéma, Centre National de la Cinématographie (CNC)",0
 tt0386741,Renaissance,actress,7.0,Catherine McCormack,105,"Onyx Films, Backup Films, France2 Cinéma, Centre National de la Cinématographie (CNC)",0
 tt0387055,Battle in Heaven,actor,6.0,Marcos Hernández,98,"Mantarraya Producciones, No Dream Cinema, Coproduction Office",0
+tt0387057,Beat the Drum,actor,7.0,Clive Scott,114,,-1
+tt0387057,Beat the Drum,actor,7.0,Owen Sejake,114,,-1
+tt0387059,Bee Season,actress,6.0,Juliette Binoche,104,,0
+tt0387059,Bee Season,actor,6.0,Richard Gere,104,,0
 tt0387131,The Constant Gardener,actor,7.0,Ralph Fiennes,129,"Studio Babelsberg, Epsilon Motion Pictures, UK Film Council, Scion Films, Focus Features, Blue Sky Films, Potboiler Productions",2
 tt0387131,The Constant Gardener,actress,7.0,Rachel Weisz,129,"Studio Babelsberg, Epsilon Motion Pictures, UK Film Council, Scion Films, Focus Features, Blue Sky Films, Potboiler Productions",2
 tt0387131,The Constant Gardener,actor,7.0,Hubert Koundé,129,"Studio Babelsberg, Epsilon Motion Pictures, UK Film Council, Scion Films, Focus Features, Blue Sky Films, Potboiler Productions",2
@@ -8883,6 +9355,9 @@ tt0387808,Idiocracy,actor,7.0,Terry Crews,84,"Twentieth Century Fox Film Corpora
 tt0387877,The Black Dahlia,actress,6.0,Hilary Swank,121,"Universal Pictures, Davis-Films, Signature Pictures, Linson Entertainment, Art Linson Productions, Millennium Films, Equity Pictures Medienfonds GmbH & Co. KG III, Nu Image Entertainment GmbH",0
 tt0387877,The Black Dahlia,actor,6.0,Josh Hartnett,121,"Universal Pictures, Davis-Films, Signature Pictures, Linson Entertainment, Art Linson Productions, Millennium Films, Equity Pictures Medienfonds GmbH & Co. KG III, Nu Image Entertainment GmbH",0
 tt0387877,The Black Dahlia,actor,6.0,Aaron Eckhart,121,"Universal Pictures, Davis-Films, Signature Pictures, Linson Entertainment, Art Linson Productions, Millennium Films, Equity Pictures Medienfonds GmbH & Co. KG III, Nu Image Entertainment GmbH",0
+tt0388139,It's All Gone Pete Tong,actress,7.0,Beatriz Batarda,90,,0
+tt0388139,It's All Gone Pete Tong,actor,7.0,Paul Kaye,90,,0
+tt0388139,It's All Gone Pete Tong,actor,7.0,Mike Wilmot,90,,0
 tt0388318,Frozen Land,actor,7.0,Mikko Leppilampi,130,"Yleisradio (YLE), Solar Films inc.",-1
 tt0388318,Frozen Land,actor,7.0,Petteri Summanen,130,"Yleisradio (YLE), Solar Films inc.",-1
 tt0388318,Frozen Land,actor,7.0,Jasper Pääkkönen,130,"Yleisradio (YLE), Solar Films inc.",-1
@@ -8904,6 +9379,8 @@ tt0388795,Brokeback Mountain,actor,8.0,Jake Gyllenhaal,134,"River Road Entertain
 tt0388980,The Greatest Game Ever Played,actor,7.0,Stephen Dillane,120,Walt Disney Pictures,0
 tt0388980,The Greatest Game Ever Played,actor,7.0,Shia LaBeouf,120,Walt Disney Pictures,0
 tt0388980,The Greatest Game Ever Played,actor,7.0,James Paxton,120,Walt Disney Pictures,0
+tt0389326,Riding Giants,self,8.0,Darrick Doerner,105,,0
+tt0389326,Riding Giants,self,8.0,Laird Hamilton,105,,0
 tt0389557,Black Book,actor,8.0,Thom Hoffman,145,"CoBo Fund, Studio Babelsberg, Motel Films, Motion Investment Group, Egoli Tossell Film AG, Filmförderungsanstalt (FFA), Nederlands Fonds voor de Film, Medienboard Berlin-Brandenburg, uFilm, Le Tax Shelter du Gouvernement Fédéral de Belgique, Fu Works, Hector BV, Media Programme of the European Community, Euroimages Fund of the Council of Europe, VIP 4 Medienfonds, ContentFilm International, Clockwork Pictures",0
 tt0389557,Black Book,actress,8.0,Carice van Houten,145,"CoBo Fund, Studio Babelsberg, Motel Films, Motion Investment Group, Egoli Tossell Film AG, Filmförderungsanstalt (FFA), Nederlands Fonds voor de Film, Medienboard Berlin-Brandenburg, uFilm, Le Tax Shelter du Gouvernement Fédéral de Belgique, Fu Works, Hector BV, Media Programme of the European Community, Euroimages Fund of the Council of Europe, VIP 4 Medienfonds, ContentFilm International, Clockwork Pictures",0
 tt0389722,30 Days of Night,actress,7.0,Melissa George,113,"Columbia Pictures, Dark Horse Entertainment, Ghost House Pictures, HorrorFlix",1
@@ -8932,6 +9409,9 @@ tt0391304,A Lot Like Love,actress,7.0,Amanda Peet,107,"Mile High Productions, Ke
 tt0391774,Autobahnraser,actor,5.0,Luke Wilkins,87,"Delux Productions, Constantin Film Produktion, MOOVIE the art of entertainment GmbH",-1
 tt0391774,Autobahnraser,actress,5.0,Alexandra Neldel,87,"Delux Productions, Constantin Film Produktion, MOOVIE the art of entertainment GmbH",-1
 tt0391774,Autobahnraser,actor,5.0,Niels-Bruno Schmidt,87,"Delux Productions, Constantin Film Produktion, MOOVIE the art of entertainment GmbH",-1
+tt0392465,Mozart and the Whale,actress,7.0,Radha Mitchell,94,,0
+tt0392465,Mozart and the Whale,actress,7.0,Sheila Kelley,94,,0
+tt0392465,Mozart and the Whale,actor,7.0,Josh Hartnett,94,,0
 tt0392883,Valley of Flowers,actor,7.0,Jampa Kalsang Tamang,155,"Pandora Filmproduktion, Diaphana Films, Elzévir Films, Eurimages, TPS Star, TF1 International, Programme MEDIA de la Communauté Européenne, Monsoon Films Private Limited, Pan Nalin Pictures, France 2 Cinéma, Centre National de la Cinématographie (CNC), Filmcoopi Zürich, Hessen Invest, WonderWorks",-1
 tt0392883,Valley of Flowers,actor,7.0,Milind Soman,155,"Pandora Filmproduktion, Diaphana Films, Elzévir Films, Eurimages, TPS Star, TF1 International, Programme MEDIA de la Communauté Européenne, Monsoon Films Private Limited, Pan Nalin Pictures, France 2 Cinéma, Centre National de la Cinématographie (CNC), Filmcoopi Zürich, Hessen Invest, WonderWorks",-1
 tt0392883,Valley of Flowers,actress,7.0,Mylène Jampanoï,155,"Pandora Filmproduktion, Diaphana Films, Elzévir Films, Eurimages, TPS Star, TF1 International, Programme MEDIA de la Communauté Européenne, Monsoon Films Private Limited, Pan Nalin Pictures, France 2 Cinéma, Centre National de la Cinématographie (CNC), Filmcoopi Zürich, Hessen Invest, WonderWorks",-1
@@ -8969,6 +9449,7 @@ tt0395543,Forty Shades of Blue,actor,6.0,Rip Torn,108,"Charlie Guidance, Flux Fi
 tt0395585,House of 9,actress,5.0,Kelly Brook,90,Defender Production,-1
 tt0395585,House of 9,actor,5.0,Dennis Hopper,90,Defender Production,-1
 tt0395585,House of 9,actor,5.0,Ashley Walters,90,Defender Production,-1
+tt0395677,100 Days with Mr. Arrogant,actress,6.0,Ha Ji-Won,95,,-1
 tt0395699,The Pacifier,actor,6.0,Brad Garrett,95,"Walt Disney Pictures, Spyglass Entertainment",1
 tt0395699,The Pacifier,actor,6.0,Vin Diesel,95,"Walt Disney Pictures, Spyglass Entertainment",1
 tt0395699,The Pacifier,actress,6.0,Brittany Snow,95,"Walt Disney Pictures, Spyglass Entertainment",1
@@ -9019,6 +9500,9 @@ tt0398017,Derailed,actor,7.0,Clive Owen,108,"Miramax Films, Di Bonaventura Pictu
 tt0398027,Down in the Valley,actress,6.0,Evan Rachel Wood,114,Class 5 Films,0
 tt0398027,Down in the Valley,actor,6.0,Edward Norton,114,Class 5 Films,0
 tt0398027,Down in the Valley,actor,6.0,Rory Culkin,114,Class 5 Films,0
+tt0398037,EMR,actor,5.0,Gil Bellows,86,,-1
+tt0398037,EMR,actor,5.0,Anthony Azizi,86,,-1
+tt0398037,EMR,actor,5.0,George Calil,86,,-1
 tt0398165,The Longest Yard,actor,6.0,Adam Sandler,113,"Paramount Pictures, Columbia Pictures Corporation, MTV Films, Happy Madison Productions, Callahan Filmworks",1
 tt0398165,The Longest Yard,actor,6.0,Burt Reynolds,113,"Paramount Pictures, Columbia Pictures Corporation, MTV Films, Happy Madison Productions, Callahan Filmworks",1
 tt0398165,The Longest Yard,actor,6.0,Nelly,113,"Paramount Pictures, Columbia Pictures Corporation, MTV Films, Happy Madison Productions, Callahan Filmworks",1
@@ -9053,8 +9537,12 @@ tt0399295,Lord of War,actor,8.0,Nicolas Cage,122,"Saturn Films, Ascendant Pictur
 tt0399854,Vizontele Tuuba,actor,7.0,Tarik Akan,111,Besiktas Kültür Merkezi (BKM),3
 tt0399854,Vizontele Tuuba,actress,7.0,Demet Akbag,111,Besiktas Kültür Merkezi (BKM),3
 tt0399854,Vizontele Tuuba,actor,7.0,Yilmaz Erdogan,111,Besiktas Kültür Merkezi (BKM),3
+tt0399901,Woman Thou Art Loosed,actress,7.0,Kimberly Elise,94,,1
+tt0399901,Woman Thou Art Loosed,actress,7.0,Loretta Devine,94,,1
+tt0399901,Woman Thou Art Loosed,self,7.0,T.D. Jakes,94,,1
 tt0400347,Decoys 2: Alien Seduction,actor,5.0,Corey Sevier,94,"Decoys Production, Alian Girls Films",-1
 tt0400347,Decoys 2: Alien Seduction,actress,5.0,Kim Poirier,94,"Decoys Production, Alian Girls Films",-1
+tt0400399,Elevator Movie,actress,5.0,Robin Ballard,95,,-1
 tt0400426,Far Cry,actress,3.0,Emmanuelle Vaugier,95,"Boll Kino Beteiligungs GmbH & Co. KG, Brightlight Pictures Inc., Far Cry Productions",-1
 tt0400426,Far Cry,actor,3.0,Udo Kier,95,"Boll Kino Beteiligungs GmbH & Co. KG, Brightlight Pictures Inc., Far Cry Productions",-1
 tt0400426,Far Cry,actor,3.0,Til Schweiger,95,"Boll Kino Beteiligungs GmbH & Co. KG, Brightlight Pictures Inc., Far Cry Productions",-1
@@ -9078,6 +9566,9 @@ tt0401385,Say Uncle,actress,6.0,Kathy Najimy,91,TLA Releasing,-1
 tt0401445,A Good Year,actress,7.0,Marion Cotillard,117,"Fox 2000 Pictures, Scott Free Productions",0
 tt0401445,A Good Year,actress,7.0,Abbie Cornish,117,"Fox 2000 Pictures, Scott Free Productions",0
 tt0401445,A Good Year,actor,7.0,Russell Crowe,117,"Fox 2000 Pictures, Scott Free Productions",0
+tt0401488,Up and Down,actor,7.0,Petr Forman,108,,-1
+tt0401488,Up and Down,actor,7.0,Jirí Machácek,108,,-1
+tt0401488,Up and Down,actress,7.0,Emília Vásáryová,108,,-1
 tt0401711,"Paris, I Love You",actress,7.0,Leonor Watling,120,"Filmazure, Pirol Stiftung, Victoires International",0
 tt0401711,"Paris, I Love You",actress,7.0,Fanny Ardant,120,"Filmazure, Pirol Stiftung, Victoires International",0
 tt0401711,"Paris, I Love You",actress,7.0,Juliette Binoche,120,"Filmazure, Pirol Stiftung, Victoires International",0
@@ -9126,6 +9617,11 @@ tt0403702,Youth in Revolt,actor,6.0,Michael Cera,90,Dimension Films,-1
 tt0403702,Youth in Revolt,actress,6.0,Jean Smart,90,Dimension Films,-1
 tt0403703,Yu-Gi-Oh!: The Movie - Pyramid of Light,actress,5.0,Amy Birnbaum,90,"Toho Company, Shueisha, TV Tokyo, 4 Kids Entertainment, Konami Digital Entertainment, Studio Gallop, Konami, Kids' WB, Nihon Ad Systems (NAS)",0
 tt0403703,Yu-Gi-Oh!: The Movie - Pyramid of Light,actor,5.0,Dan Green,90,"Toho Company, Shueisha, TV Tokyo, 4 Kids Entertainment, Konami Digital Entertainment, Studio Gallop, Konami, Kids' WB, Nihon Ad Systems (NAS)",0
+tt0403783,Master i Margarita,actor,8.0,Semyon Furman,50,,-1
+tt0403783,Master i Margarita,actor,8.0,Aleksandr Abdulov,50,,-1
+tt0403783,Master i Margarita,actor,8.0,Oleg Basilashvili,50,,-1
+tt0404011,Eggshells,actor,5.0,Kim Henkel,89,,-1
+tt0404011,Eggshells,actor,5.0,Mahlon Foreman,89,,-1
 tt0404030,Everything Is Illuminated,actor,7.0,Elijah Wood,106,"Stillking Films, Warner Independent Pictures (WIP), Big Beach Films, Telegraph Films",0
 tt0404032,The Exorcism of Emily Rose,actress,7.0,Laura Linney,119,"Lakeshore Entertainment, Firm Films, Screen Gems",6
 tt0404032,The Exorcism of Emily Rose,actor,7.0,Campbell Scott,119,"Lakeshore Entertainment, Firm Films, Screen Gems",6
@@ -9157,9 +9653,14 @@ tt0405469,The Wild,actor,5.0,Kiefer Sutherland,82,"Walt Disney Pictures, Contraf
 tt0405469,The Wild,actor,5.0,Jim Belushi,82,"Walt Disney Pictures, Contrafilm, C.O.R.E. Feature Animation, Hoytyboy Pictures, Nigel Productions",0
 tt0405469,The Wild,actress,5.0,Janeane Garofalo,82,"Walt Disney Pictures, Contrafilm, C.O.R.E. Feature Animation, Hoytyboy Pictures, Nigel Productions",0
 tt0405508,Rang De Basanti,actor,8.0,Aamir Khan,167,"Flicks Motion Pictures, UTV Motion Pictures",4
+tt0405615,The 12 Dogs of Christmas,actor,5.0,Tom Kemp,102,,-1
+tt0405615,The 12 Dogs of Christmas,actor,5.0,Adam Hicks,102,,-1
+tt0405615,The 12 Dogs of Christmas,actress,5.0,Jordan-Claire Green,102,,-1
 tt0405676,All the King's Men,actor,6.0,Sean Penn,128,"Columbia Pictures Corporation, Rising Star, Relativity Media, Phoenix Pictures, VIP 4 Medienfonds",0
 tt0405676,All the King's Men,actor,6.0,Jude Law,128,"Columbia Pictures Corporation, Rising Star, Relativity Media, Phoenix Pictures, VIP 4 Medienfonds",0
 tt0405676,All the King's Men,actor,6.0,Anthony Hopkins,128,"Columbia Pictures Corporation, Rising Star, Relativity Media, Phoenix Pictures, VIP 4 Medienfonds",0
+tt0405821,Casshern,actor,6.0,Yûsuke Iseya,142,,0
+tt0405821,Casshern,actor,6.0,Akira Terao,142,,0
 tt0406280,Trances,actor,7.0,Omar Sayed,90,"Ohra-Sogeav, Interfilms",-1
 tt0406280,Trances,self,7.0,Nass-El Ghiwane,90,"Ohra-Sogeav, Interfilms",-1
 tt0406375,Zathura: A Space Adventure,actor,6.0,Tim Robbins,101,"Columbia Pictures Corporation, Teitler Film, Michael De Luca Productions, Radar Pictures",0
@@ -9215,6 +9716,9 @@ tt0409345,Surveillance,actress,6.0,Caroline Aaron,97,"Blue Rider Pictures, Lago 
 tt0409459,Watchmen,actress,8.0,Carla Gugino,162,"Paramount Pictures, DC Comics, Lawrence Gordon Productions, Legendary Pictures, Warner Bros., Cruel and Unusual Films",0
 tt0409459,Watchmen,actor,8.0,Jackie Earle Haley,162,"Paramount Pictures, DC Comics, Lawrence Gordon Productions, Legendary Pictures, Warner Bros., Cruel and Unusual Films",0
 tt0409459,Watchmen,actor,8.0,Patrick Wilson,162,"Paramount Pictures, DC Comics, Lawrence Gordon Productions, Legendary Pictures, Warner Bros., Cruel and Unusual Films",0
+tt0409527,Shabd,actor,5.0,Zayed Khan,140,,0
+tt0409527,Shabd,actress,5.0,Aishwarya Rai Bachchan,140,,0
+tt0409527,Shabd,actor,5.0,Sanjay Dutt,140,,0
 tt0409847,Cowboys & Aliens,actor,6.0,Daniel Craig,119,"Imagine Entertainment, DreamWorks SKG, Universal Pictures, platinum studios, Reliance Entertainment, Relativity Media, K/O Paper Products, Fairview Entertainment, K/O Camera Toys",0
 tt0409847,Cowboys & Aliens,actor,6.0,Harrison Ford,119,"Imagine Entertainment, DreamWorks SKG, Universal Pictures, platinum studios, Reliance Entertainment, Relativity Media, K/O Paper Products, Fairview Entertainment, K/O Camera Toys",0
 tt0409847,Cowboys & Aliens,actress,6.0,Abigail Spencer,119,"Imagine Entertainment, DreamWorks SKG, Universal Pictures, platinum studios, Reliance Entertainment, Relativity Media, K/O Paper Products, Fairview Entertainment, K/O Camera Toys",0
@@ -9230,6 +9734,9 @@ tt0410297,The Lake House,actor,7.0,Keanu Reeves,99,"Village Roadshow Pictures, V
 tt0410377,Nim's Island,actress,6.0,Jodie Foster,96,Walden Media,1
 tt0410377,Nim's Island,actor,6.0,Gerard Butler,96,Walden Media,1
 tt0410377,Nim's Island,actress,6.0,Abigail Breslin,96,Walden Media,1
+tt0410454,The Work and the Glory,actress,7.0,Brenda Strong,110,,0
+tt0410454,The Work and the Glory,actor,7.0,Eric Johnson,110,,0
+tt0410454,The Work and the Glory,actor,7.0,Sam Hennings,110,,0
 tt0410764,Tideland,actress,6.0,Jodelle Ferland,120,Recorded Picture Company (RPC),0
 tt0410764,Tideland,actor,6.0,Jeff Bridges,120,Recorded Picture Company (RPC),0
 tt0410764,Tideland,actress,6.0,Jennifer Tilly,120,Recorded Picture Company (RPC),0
@@ -9293,14 +9800,25 @@ tt0414982,Final Destination 3,actor,6.0,Ryan Merriman,93,"New Line Cinema, Zide-
 tt0414982,Final Destination 3,actress,6.0,Mary Elizabeth Winstead,93,"New Line Cinema, Zide-Perry Productions, Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 1 KG, Hard Eight Pictures, Matinee Pictures, Practical Pictures",3
 tt0414993,The Fountain,actor,7.0,Hugh Jackman,97,"Regency Enterprises, Warner Bros., Muse Entertainment Enterprises, Protozoa Pictures, New Regency Pictures",0
 tt0414993,The Fountain,actress,7.0,Rachel Weisz,97,"Regency Enterprises, Warner Bros., Muse Entertainment Enterprises, Protozoa Pictures, New Regency Pictures",0
+tt0415003,Garv: Pride and Honour,actor,6.0,Salman Khan,162,,7
+tt0415003,Garv: Pride and Honour,actress,6.0,Akanksha Malhotra,162,,7
+tt0415003,Garv: Pride and Honour,actress,6.0,Shilpa Shetty Kundra,162,,7
 tt0415306,Talladega Nights: The Ballad of Ricky Bobby,actor,7.0,Will Ferrell,108,"Columbia Pictures, Apatow Productions",1
 tt0415306,Talladega Nights: The Ballad of Ricky Bobby,actor,7.0,Gary Cole,108,"Columbia Pictures, Apatow Productions",1
 tt0415306,Talladega Nights: The Ballad of Ricky Bobby,actor,7.0,John C. Reilly,108,"Columbia Pictures, Apatow Productions",1
 tt0415481,Alyosha Popovich and Tugarin Zmey,actor,7.0,Oleg Kulikovich,79,Kinokompaniya CTB,0
 tt0415481,Alyosha Popovich and Tugarin Zmey,actor,7.0,Anatoliy Petrov,79,Kinokompaniya CTB,0
+tt0415678,Boy s tenyu,actress,6.0,Elena Panova,132,,1
+tt0415678,Boy s tenyu,actor,6.0,Dmitriy Shevchenko,132,,1
+tt0415678,Boy s tenyu,actor,6.0,Andrey Panin,132,,1
+tt0415689,Witch Board: Bunshinsaba,actress,6.0,Lee Se-eun,120,,-1
+tt0415689,Witch Board: Bunshinsaba,actress,6.0,Kim Gyu-ri,120,,-1
 tt0415778,End Game,actor,5.0,Patrick Fabian,93,"Nu Image Films, North by Northwest Entertainment, Martini Films, Millennium Films, Equity Pictures Medienfonds GmbH & Co. KG III, Two Sticks Productions",-1
 tt0415778,End Game,actress,5.0,Angie Harmon,93,"Nu Image Films, North by Northwest Entertainment, Martini Films, Millennium Films, Equity Pictures Medienfonds GmbH & Co. KG III, Two Sticks Productions",-1
 tt0415778,End Game,actor,5.0,Cuba Gooding Jr.,93,"Nu Image Films, North by Northwest Entertainment, Martini Films, Millennium Films, Equity Pictures Medienfonds GmbH & Co. KG III, Two Sticks Productions",-1
+tt0416041,Molding Clay,actor,5.0,Barry Corbin,90,,-1
+tt0416041,Molding Clay,actor,5.0,Sam Huntington,90,,-1
+tt0416041,Molding Clay,actor,5.0,Charles Robinson,90,,-1
 tt0416044,Mongol: The Rise of Genghis Khan,actor,7.0,Tadanobu Asano,126,"Kinokompaniya CTB, X-Filme Creative Pool, Andreevsky Flag Film Company, Kinofabrika, Eurasia Film Production",0
 tt0416044,Mongol: The Rise of Genghis Khan,actor,7.0,Amadu Mamadakov,126,"Kinokompaniya CTB, X-Filme Creative Pool, Andreevsky Flag Film Company, Kinofabrika, Eurasia Film Production",0
 tt0416044,Mongol: The Rise of Genghis Khan,actor,7.0,Honglei Sun,126,"Kinokompaniya CTB, X-Filme Creative Pool, Andreevsky Flag Film Company, Kinofabrika, Eurasia Film Production",0
@@ -9323,15 +9841,22 @@ tt0416320,Match Point,actor,8.0,Jonathan Rhys Meyers,124,DreamWorks,4
 tt0416449,300,actor,8.0,Gerard Butler,117,"Virtual Studios, Legendary Pictures, Hollywood Gang Productions, Atmosphere Entertainment MM, Warner Bros., Nimar Studios, Cruel and Unusual Films",5
 tt0416449,300,actress,8.0,Lena Headey,117,"Virtual Studios, Legendary Pictures, Hollywood Gang Productions, Atmosphere Entertainment MM, Warner Bros., Nimar Studios, Cruel and Unusual Films",5
 tt0416449,300,actor,8.0,Dominic West,117,"Virtual Studios, Legendary Pictures, Hollywood Gang Productions, Atmosphere Entertainment MM, Warner Bros., Nimar Studios, Cruel and Unusual Films",5
+tt0416470,America's Most Haunted Inns,director,4.0,Robert Child,59,,-1
+tt0416470,America's Most Haunted Inns,writer,4.0,Robert Child,59,,-1
 tt0416496,Bandidas,actor,6.0,Dwight Yoakam,93,"Ultra Films, TF1 Films Production, Canal+, TPS Star, EuropaCorp, A.J.O.Z. Films",0
 tt0416496,Bandidas,actress,6.0,Penélope Cruz,93,"Ultra Films, TF1 Films Production, Canal+, TPS Star, EuropaCorp, A.J.O.Z. Films",0
 tt0416496,Bandidas,actress,6.0,Salma Hayek,93,"Ultra Films, TF1 Films Production, Canal+, TPS Star, EuropaCorp, A.J.O.Z. Films",0
+tt0416499,Fighter in the Wind,actor,7.0,Yang Dong-geun,120,,-1
+tt0416499,Fighter in the Wind,actress,7.0,Aya Hirayama,120,,-1
 tt0416508,Becoming Jane,actor,7.0,James Cromwell,120,"Ecosse Films, 2 Entertain, Bueprint Pictures",1
 tt0416508,Becoming Jane,actress,7.0,Anne Hathaway,120,"Ecosse Films, 2 Entertain, Bueprint Pictures",1
 tt0416508,Becoming Jane,actor,7.0,James McAvoy,120,"Ecosse Films, 2 Entertain, Bueprint Pictures",1
 tt0416773,Girl Play,actress,5.0,Lacie Harmon,80,Goff-Kellam Productions,-1
 tt0416773,Girl Play,actor,5.0,Dom DeLuise,80,Goff-Kellam Productions,-1
 tt0416773,Girl Play,actress,5.0,Robin Greenspan,80,Goff-Kellam Productions,-1
+tt0416891,The Kid & I,actor,5.0,Tom Arnold,93,,-1
+tt0416891,The Kid & I,actress,5.0,Linda Hamilton,93,,-1
+tt0416891,The Kid & I,actor,5.0,Joe Mantegna,93,,-1
 tt0417001,Must Love Dogs,actor,6.0,Christopher Plummer,98,"Team Todd, Warner Bros., Ubu Productions",0
 tt0417001,Must Love Dogs,actor,6.0,John Cusack,98,"Team Todd, Warner Bros., Ubu Productions",0
 tt0417001,Must Love Dogs,actress,6.0,Diane Lane,98,"Team Todd, Warner Bros., Ubu Productions",0
@@ -9356,10 +9881,16 @@ tt0417397,9th Company,actor,7.0,Ivan Kokorin,139,"Finnish Film Foundation, Matil
 tt0417433,Annapolis,actor,6.0,James Franco,108,Touchstone Pictures,0
 tt0417433,Annapolis,actress,6.0,Jordana Brewster,108,Touchstone Pictures,0
 tt0417433,Annapolis,actor,6.0,Donnie Wahlberg,108,Touchstone Pictures,0
+tt0417532,Checking Out,actor,6.0,Judge Reinhold,94,,-1
+tt0417532,Checking Out,actress,6.0,Laura San Giacomo,94,,-1
+tt0417532,Checking Out,actor,6.0,Peter Falk,94,,-1
 tt0417741,Harry Potter and the Half-Blood Prince,actor,8.0,Michael Gambon,153,"Warner Bros., Heyday Films",2
 tt0417741,Harry Potter and the Half-Blood Prince,actress,8.0,Emma Watson,153,"Warner Bros., Heyday Films",2
 tt0417741,Harry Potter and the Half-Blood Prince,actor,8.0,Daniel Radcliffe,153,"Warner Bros., Heyday Films",2
 tt0417844,Kampfansage - Der letzte Schüler,actress,5.0,Zora Holt,102,Action Concept Film- und Stuntproduktion,-1
+tt0417949,Mars,actress,6.0,Nana Kiknadze,100,,-1
+tt0417949,Mars,actor,6.0,Gosha Kutsenko,100,,-1
+tt0417949,Mars,actress,6.0,Evgeniya Dobrovolskaya,100,,-1
 tt0418110,Romanzo Criminale,actor,7.0,Pierfrancesco Favino,152,"Warner Bros., Cattleya, Aquarius Films, Babe Film",4
 tt0418110,Romanzo Criminale,actress,7.0,Anna Mouglalis,152,"Warner Bros., Cattleya, Aquarius Films, Babe Film",4
 tt0418110,Romanzo Criminale,actor,7.0,Kim Rossi Stuart,152,"Warner Bros., Cattleya, Aquarius Films, Babe Film",4
@@ -9369,9 +9900,14 @@ tt0418279,Transformers,actor,7.0,Shia LaBeouf,144,"Paramount Pictures, DreamWork
 tt0418455,Adam's Apples,actor,8.0,Mads Mikkelsen,94,M&M Productions,-1
 tt0418455,Adam's Apples,actor,8.0,Ulrich Thomsen,94,M&M Productions,-1
 tt0418455,Adam's Apples,actress,8.0,Paprika Steen,94,M&M Productions,-1
+tt0418460,Aitraaz,actor,7.0,Amrish Puri,160,,1
+tt0418460,Aitraaz,actor,7.0,Akshay Kumar,160,,1
+tt0418460,Aitraaz,actress,7.0,Kareena Kapoor,160,,1
 tt0418689,Flags of Our Fathers,actor,7.0,Jesse Bradford,135,"DreamWorks SKG, Amblin Entertainment, Malpaso Productions, Warner Bros.",0
 tt0418689,Flags of Our Fathers,actor,7.0,Barry Pepper,135,"DreamWorks SKG, Amblin Entertainment, Malpaso Productions, Warner Bros.",0
 tt0418689,Flags of Our Fathers,actor,7.0,Ryan Phillippe,135,"DreamWorks SKG, Amblin Entertainment, Malpaso Productions, Warner Bros.",0
+tt0418753,Inside Deep Throat,archive_footage,7.0,Linda Lovelace,89,,0
+tt0418753,Inside Deep Throat,self,7.0,Harry Reems,89,,0
 tt0418763,Jarhead,actor,7.0,Jamie Foxx,125,"Universal Pictures, Neal Street Productions, Red Wagon Entertainment, Motion Picture KAPPA Produktionsgesellschaft",0
 tt0418763,Jarhead,actor,7.0,Scott MacDonald,125,"Universal Pictures, Neal Street Productions, Red Wagon Entertainment, Motion Picture KAPPA Produktionsgesellschaft",0
 tt0418763,Jarhead,actor,7.0,Jake Gyllenhaal,125,"Universal Pictures, Neal Street Productions, Red Wagon Entertainment, Motion Picture KAPPA Produktionsgesellschaft",0
@@ -9383,12 +9919,18 @@ tt0418832,Lie with Me,actress,5.0,Lauren Lee Smith,93,"Conquering Lion Pictures,
 tt0419073,Princess,actor,7.0,Rasmus Bjerg,82,"Zentropa Entertainments, Shotgun Pictures",-1
 tt0419073,Princess,actress,7.0,Stine Fischer Christensen,82,"Zentropa Entertainments, Shotgun Pictures",-1
 tt0419073,Princess,actor,7.0,Thure Lindhardt,82,"Zentropa Entertainments, Shotgun Pictures",-1
+tt0419160,Spirit Trap,actor,4.0,Luke Mably,91,,-1
+tt0419160,Spirit Trap,actor,4.0,Sam Troughton,91,,-1
+tt0419160,Spirit Trap,actress,4.0,Billie Piper,91,,-1
 tt0419198,The Tiger and the Snow,self,7.0,Tom Waits,110,Melampo Cinematografica,-1
 tt0419198,The Tiger and the Snow,actor,7.0,Roberto Benigni,110,Melampo Cinematografica,-1
 tt0419198,The Tiger and the Snow,actor,7.0,Jean Reno,110,Melampo Cinematografica,-1
 tt0419294,The Three Burials of Melquiades Estrada,actor,7.0,Tommy Lee Jones,121,"The Javelina Film Company, EuropaCorp",0
 tt0419294,The Three Burials of Melquiades Estrada,actor,7.0,Barry Pepper,121,"The Javelina Film Company, EuropaCorp",0
 tt0419294,The Three Burials of Melquiades Estrada,actress,7.0,January Jones,121,"The Javelina Film Company, EuropaCorp",0
+tt0419449,Antares,actress,6.0,Petra Morzé,105,,-1
+tt0419449,Antares,actor,6.0,Andreas Patton,105,,-1
+tt0419449,Antares,actress,6.0,Susanne Wuest,105,,-1
 tt0419641,Chromophobia,actress,6.0,Penélope Cruz,136,"Quinta Communications, Rotholz Pictures",-1
 tt0419641,Chromophobia,actor,6.0,Ian Holm,136,"Quinta Communications, Rotholz Pictures",-1
 tt0419641,Chromophobia,actor,6.0,Ben Chaplin,136,"Quinta Communications, Rotholz Pictures",-1
@@ -9445,6 +9987,8 @@ tt0421090,Zerophilia,actor,6.0,Kyle Schmid,90,"TLA Releasing, Microangelo Entert
 tt0421206,Gridiron Gang,actor,7.0,Leon Rippy,125,Columbia Pictures,0
 tt0421206,Gridiron Gang,actor,7.0,Xzibit,125,Columbia Pictures,0
 tt0421206,Gridiron Gang,actor,7.0,Dwayne Johnson,125,Columbia Pictures,0
+tt0421229,Mrs Palfrey at the Claremont,actress,8.0,Zoë Tapper,108,,1
+tt0421229,Mrs Palfrey at the Claremont,actress,8.0,Joan Plowright,108,,1
 tt0421238,The Proposition,actor,7.0,Ray Winstone,104,"Autonomous, UK Film Council, Surefire Film Productions, Pictures in Paradise, Pacific Film and Television Commission, Film Consortium, National Lottery through UK Film Council",1
 tt0421238,The Proposition,actor,7.0,Richard Wilson,104,"Autonomous, UK Film Council, Surefire Film Productions, Pictures in Paradise, Pacific Film and Television Commission, Film Consortium, National Lottery through UK Film Council",1
 tt0421238,The Proposition,actor,7.0,Guy Pearce,104,"Autonomous, UK Film Council, Surefire Film Productions, Pictures in Paradise, Pacific Film and Television Commission, Film Consortium, National Lottery through UK Film Council",1
