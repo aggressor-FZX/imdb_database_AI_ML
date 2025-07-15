@@ -71,5 +71,5 @@ Aggregation by category helps identify broader trends — for example, if direct
 - The code expects the dataset to have a `ProductionCompanies` column formatted as comma-separated strings  
 - Adjust file paths and column names as necessary for your dataset  
 - GPU will be used if available; otherwise CPU fallback occurs automatically  
-- Permutation importance uses 2 repeats per feature by default for robustness  
+- Permutation importance uses 2 repeats per feature by default more is better, but takes a long time. 
 
