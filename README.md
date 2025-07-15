@@ -51,9 +51,25 @@ Feature importance scores are saved to:
 - Two hidden layers with 128 and 64 units respectively, using ReLU activation  
 - Output layer producing a single continuous value for regression  
 
+## Feature Importance Explained
+
+Feature importance reveals which inputs your neural network relies on most when making predictions. Using **permutation importance**, we:
+- Randomly shuffle the values of each feature one at a time
+- Measure how much model performance drops (via MSE increase)
+- Rank features by their impact
+
+This is incredibly useful for:
+- **Interpreting model decisions** in real-world terms (e.g. which actors or producers influence profit the most)
+- **Reducing dimensionality** by eliminating low-impact features
+- **Validating assumptions** about which aspects of the movie data matter most
+- **Explaining results** to non-technical stakeholders
+
+Aggregation by category helps identify broader trends — for example, if directors as a group are more predictive than writers or genres.
+
 ## Notes
 
 - The code expects the dataset to have a `ProductionCompanies` column formatted as comma-separated strings  
 - Adjust file paths and column names as necessary for your dataset  
 - GPU will be used if available; otherwise CPU fallback occurs automatically  
 - Permutation importance uses 2 repeats per feature by default for robustness  
+
